@@ -7,13 +7,13 @@ Este repositório guarda só o `mirai-pack.json`, as configs e alguns arquivos s
 ## Para jogar
 
 1. Instale o [Tailscale](https://tailscale.com/download), crie sua conta gratuita e aceite o convite do servidor **mirai-server** que o dono te mandar. Deixe o Tailscale ligado enquanto joga.
-2. Instale o Mirai Mine Launcher **0.3.0 ou mais novo** que o dono te mandar. Ele já vem com este modpack e o servidor configurados.
-3. Na tela de boas-vindas: escolha seu **nick**, digite a **senha** do grupo e clique em **Começar**. O Java e o modpack são instalados sozinhos.
+2. Instale o Mirai Mine Launcher **1.0.0 ou mais novo** que o dono te mandar. Ele já vem com este modpack e o servidor configurados.
+3. Na tela de boas-vindas: escolha seu **nick** e clique em **Começar**. Não há senha: só entra quem recebeu o convite do Tailscale. O Java e o modpack são instalados sozinhos.
 4. **Jogar**. O jogo já abre entrando no servidor "Mirai Mine". Skin e capa ficam em **Personalizar**.
 
 O servidor (`100.96.77.4`) só existe dentro do Tailscale: se o launcher disser que não encontrou o servidor, confira se o Tailscale está ligado e se o convite foi aceito.
 
-Launcher mais antigo (0.2.0)? Configure à mão: aba **Modpack** → `II-mirai-II/Mirai-Client-Server-Modpack` → **Instalar modpack**; aba **Sessão → Entrar numa sessão** → `100.96.77.4` + senha → **Aplicar**.
+Launcher mais antigo (0.x)? Configure à mão: aba **Modpack** → `II-mirai-II/Mirai-Client-Server-Modpack` → **Instalar modpack**; aba **Sessão → Entrar numa sessão** → `100.96.77.4` → **Aplicar**.
 
 Quando houver versão nova, a tela *Jogar* avisa; é só clicar em atualizar.
 
