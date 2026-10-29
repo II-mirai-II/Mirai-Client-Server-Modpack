@@ -1,7 +1,0 @@
-{
-  "ancientPotMaxParticleCount": 24,
-  "ancientPotMaxDropCount": 10,
-  "generateMarsh": true,
-  "changeSwamp": true,
-  "disableVanillaSwampHuts": true
-}

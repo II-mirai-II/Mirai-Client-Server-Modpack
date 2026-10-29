@@ -10,17 +10,6 @@
   "comment9": "use '/watut reloadJSON' (forge builds only) to reload this config in game to see your changes instantly",
   "held_item_arm_adjustments": [
     {
-      "comment1": "example1",
-      "filters": [
-        "themodid:someitem"
-      ],
-      "adjustment": {
-        "matchingHandX": "-90",
-        "matchingHandY": "DISABLED",
-        "matchingHandZ": "DISABLED"
-      }
-    },
-    {
       "comment1": "example2",
       "filters": [
         "themodid:ingot_*"
@@ -54,21 +43,12 @@
       }
     },
     {
-      "filters": [
-        "tacz:modern_kinetic_gun"
-      ],
-      "adjustment": {
-        "matchingHandX": "DISABLED",
-        "matchingHandY": "DISABLED",
-        "matchingHandZ": "DISABLED",
-        "otherHandX": "-90",
-        "otherHandY": "60"
-      }
-    },
-    {
       "only_if_mod_installed": "notenoughanimations",
       "filters": [
-        "minecraft:compass", "minecraft:recovery_compass", "minecraft:torch", "minecraft:soul_torch"
+        "minecraft:compass",
+        "minecraft:recovery_compass",
+        "minecraft:torch",
+        "minecraft:soul_torch"
       ],
       "adjustment": {
         "matchingHandX": "DISABLED",

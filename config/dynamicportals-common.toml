@@ -28,29 +28,18 @@
 	#Defaults include Nether and End progression sets from the project specification.
 	#Project default count: 23 lines (14 Nether + 9 End).
 	killRequirements = [
-	    "minecraft:the_nether|minecraft:zombie|1",
-	    "minecraft:the_nether|minecraft:skeleton|1",
-	    "minecraft:the_nether|minecraft:spider|1",
-	    "minecraft:the_nether|minecraft:creeper|1",
-	    "minecraft:the_nether|minecraft:slime|1",
-	    "minecraft:the_nether|minecraft:witch|1",
-	    "minecraft:the_nether|minecraft:husk|1",
-	    "minecraft:the_nether|minecraft:pillager|1",
-	    "minecraft:the_nether|minecraft:vindicator|1",
-	    "minecraft:the_nether|minecraft:bogged|1",
-	    "minecraft:the_nether|minecraft:breeze|1",
-	    "minecraft:the_nether|minecraft:evoker|1",
-	    "minecraft:the_nether|minecraft:ravager|1",
 	    "minecraft:the_nether|minecraft:elder_guardian|1",
-	    "minecraft:the_end|minecraft:magma_cube|1",
-	    "minecraft:the_end|minecraft:blaze|1",
-	    "minecraft:the_end|minecraft:wither_skeleton|1",
-	    "minecraft:the_end|minecraft:piglin|1",
-	    "minecraft:the_end|minecraft:hoglin|1",
-	    "minecraft:the_end|minecraft:piglin_brute|1",
-	    "minecraft:the_end|minecraft:ghast|1",
+	    "minecraft:the_nether|minecraft:evoker|1",
+	    "minecraft:the_nether|mowziesmobs:ferrous_wroughtnaut|1",
+	    "minecraft:the_nether|mowziesmobs:frostmaw|1",
+	    "minecraft:the_nether|iceandfire:cyclops|1",
+	    "minecraft:the_nether|rottencreatures:dead_beard|1",
 	    "minecraft:the_end|minecraft:wither|1",
-	    "minecraft:the_end|minecraft:warden|1"
+	    "minecraft:the_end|minecraft:warden|1",
+	    "minecraft:the_end|cataclysm:netherite_monstrosity|1",
+	    "minecraft:the_end|cataclysm:ignis|1",
+	    "minecraft:the_end|cataclysm:the_harbinger|1",
+	    "minecraft:the_end|cataclysm:the_leviathan|1"
 	]
 	#Optional item requirements.
 	#Format: destination_dimension|item_id|count
@@ -77,7 +66,4 @@
 	#You can add modded items and custom destination dimensions here.
 	#If item_id is not registered in the loaded mod set, that line is ignored at runtime.
 	#Remove an entry here to disable that bypass path.
-	consumeBypassItems = [
-	    "minecraft:the_nether|minecraft:magma_cream",
-	    "minecraft:the_end|minecraft:chorus_fruit"
-	]
+	consumeBypassItems = []

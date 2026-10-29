@@ -10,7 +10,7 @@
 	#Guards will attack all hostiles with this option, when set to false guards will only attack zombies and illagers.
 	"Guards attack all mobs?" = true
 	#Hostiles attack guards, by default only illagers and zombies will attack guards, the mob blacklist below will effect this option
-	"All mobs attack guards" = false
+	"All mobs attack guards" = true
 	#Guards won't attack mobs in this list at all, for example, putting "minecraft:creeper" in this list will make guards ignore creepers.
 	"Mob Blacklist" = ["minecraft:villager", "minecraft:iron_golem", "minecraft:wandering_trader", "guardvillagers:guard", "minecraft:creeper", "minecraft:enderman"]
 	#Guards will additionally attack mobs ids put in this list, for example, putting "minecraft:cow" in this list will make guards attack cows.
@@ -22,13 +22,13 @@
 	"Profession Whitelist for guard weaponry repair ai" = ["weaponsmith", "armorer", "toolsmith"]
 	# Default: 3
 	# Range: 0 ~ 1000000
-	"How many times a cleric can heal a guard in one day" = 3
+	"How many times a cleric can heal a guard in one day" = 8
 	# Default: 3
 	# Range: 0 ~ 1000000
-	"How many times a smith villager can heal a golem in one day" = 3
+	"How many times a smith villager can heal a golem in one day" = 8
 	# Default: 3
 	# Range: 0 ~ 1000000
-	"How many times a villager can heal a guard's equipment in one day" = 3
+	"How many times a villager can heal a guard's equipment in one day" = 8
 	"Allow armorers and weaponsmiths repair guard items when down below half durability?" = true
 	#This will make it so villagers will only be converted into guards if the player has hero of the village
 	"Make it so players have to have hero of the village to convert villagers into guards?" = false
@@ -58,7 +58,7 @@
 	"Structure pieces that spawn guards" = ["minecraft:village/common/iron_golem"]
 	# Default: 6
 	# Range: 0 ~ 100000000
-	"How many guards should spawn in a village?" = 6
+	"How many guards should spawn in a village?" = 8
 	"Allow guards to convert to zombie villagers upon being killed by zombies?" = true
 	"Allow the player to right click on bells to mass order guards to follow them?" = true
 	# Default: 100.0
@@ -88,7 +88,7 @@
 	#How much health a guard regenerates.
 	# Default: 1.0
 	# Range: -500.0 ~ 500.0
-	"Guard health regeneration amount" = 1.0
+	"Guard health regeneration amount" = 2.0
 	"Allow guard arrows to damage villagers, iron golems, or other guards? The i-frames will still be shown for them but they won't lose any health if this is set to false" = true
 	"Allow players to give guards stuff only if they have the hero of the village effect?" = false
 	"Allow players to set guard patrol points only if they have hero of the village" = false

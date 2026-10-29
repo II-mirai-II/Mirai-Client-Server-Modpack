@@ -8,7 +8,7 @@
 "Disable Barrage Attack (default: false)" = false
 "Vanilla Phases (default: false)" = false
 "Max Laser Length (default: 128)" = 128
-"Health (default: 600.0)" = 600.0
+"Health (default: 600.0)" = 900.0
 "Movement Speed (default: 0.0675)" = 0.0675
 "Wither Skull Damage (default: 16.0)" = 16.0
 "Wither Skull Explosion Damage (default: 12.0)" = 12.0

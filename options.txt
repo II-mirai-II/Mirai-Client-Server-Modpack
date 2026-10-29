@@ -48,9 +48,9 @@ mouseSensitivity:0.27816901408450706
 damageTiltStrength:1.0
 highContrast:false
 narratorHotkey:false
-resourcePacks:["vanilla","mod_resources","fabric"]
-incompatibleResourcePacks:[]
-lastServer:localhost
+resourcePacks:["vanilla","mod_resources","file/Stay_True_1.21.zip","file/Stay Clear V1.1 [1.21.1].zip","file/NoBushyLeaves.zip","file/waystones_1.21.1.zip","file/Re-Simple-Storage.zip","file/Icon Xaero's 1.22.zip","file/The Brazilian Project [1.21.1-1.5.2].zip"]
+incompatibleResourcePacks:["file/waystones_1.21.1.zip","file/Re-Simple-Storage.zip"]
+lastServer:
 lang:pt_br
 chatVisibility:0
 chatOpacity:1.0

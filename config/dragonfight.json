@@ -60,7 +60,7 @@
   "dragonHealthModifier": {
     // Sets the dragon health modifier: 
     // Default:1.0
-    "dragonHealthModifier": 1.0
+    "dragonHealthModifier": 1.5
   },
 
   "dragonDamageModifier": {

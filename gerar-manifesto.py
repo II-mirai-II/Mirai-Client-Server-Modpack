@@ -151,6 +151,9 @@ def main():
             for nome in filenames:
                 if nome.startswith('.') or any(nome.endswith(sx) for sx in CONFIG['ignorar_sufixos']):
                     continue
+                # Shaders: só os pacotes .zip (os .txt são ajustes de shaders em pasta, que não vão no pack).
+                if pasta == 'shaderpacks' and not nome.endswith('.zip'):
+                    continue
                 local = os.path.join(dirpath, nome)
                 rel = os.path.relpath(local, inst).replace(os.sep, '/')
                 if rel in remover:

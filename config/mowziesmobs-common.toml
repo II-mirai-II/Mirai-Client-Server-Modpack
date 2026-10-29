@@ -249,7 +249,7 @@
 			#Scale mob health by this value
 			# Default: 1.0
 			# Range: 0.0 ~ 1.7976931348623157E308
-			health_multiplier = 1.0
+			health_multiplier = 1.5
 			#Scale mob attack damage by this value
 			# Default: 1.0
 			# Range: 0.0 ~ 1.7976931348623157E308
@@ -318,7 +318,7 @@
 			#Scale mob health by this value
 			# Default: 1.0
 			# Range: 0.0 ~ 1.7976931348623157E308
-			health_multiplier = 1.0
+			health_multiplier = 1.5
 			#Scale mob attack damage by this value
 			# Default: 1.0
 			# Range: 0.0 ~ 1.7976931348623157E308
@@ -376,7 +376,7 @@
 			#Scale mob health by this value
 			# Default: 1.0
 			# Range: 0.0 ~ 1.7976931348623157E308
-			health_multiplier = 1.0
+			health_multiplier = 1.5
 			#Scale mob attack damage by this value
 			# Default: 1.0
 			# Range: 0.0 ~ 1.7976931348623157E308
@@ -448,7 +448,7 @@
 			#Scale mob health by this value
 			# Default: 1.0
 			# Range: 0.0 ~ 1.7976931348623157E308
-			health_multiplier = 1.0
+			health_multiplier = 1.5
 			#Scale mob attack damage by this value
 			# Default: 1.0
 			# Range: 0.0 ~ 1.7976931348623157E308

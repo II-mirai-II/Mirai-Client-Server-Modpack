@@ -1,82 +1,10 @@
 {
   "formatVersion": 1,
   "name": "Mirai Mine",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "minecraft": "1.21.1",
   "neoforge": "21.1.265",
   "files": [
-    {
-      "path": "config/abridged.json",
-      "sha1": "651518e3d73dc035581f0a3b20b7e2b0550c8361",
-      "size": 396,
-      "overwrite": false
-    },
-    {
-      "path": "config/abridged/structure_placement_config.json5",
-      "sha1": "1f8b89e73df1b1716fcf25f94fe44066671b9408",
-      "size": 120,
-      "overwrite": false
-    },
-    {
-      "path": "config/abridged/structure_toggle_config.json5",
-      "sha1": "a66613e23a5cd9dba75342b09dd207632e4b7c9c",
-      "size": 82,
-      "overwrite": false
-    },
-    {
-      "path": "config/acceleratedrendering-client.toml",
-      "sha1": "8a40ec63b6c9fb77d34aa5176a51e4fcb20ecae9",
-      "size": 29628,
-      "overwrite": false
-    },
-    {
-      "path": "config/accessories.json5",
-      "sha1": "d1fd2124bee5dee72b863e0ba22a48340fb591f9",
-      "size": 1117,
-      "overwrite": false
-    },
-    {
-      "path": "config/accessories_compat.json5",
-      "sha1": "de7946bf3483a892caccbac8e4d165f4758f068b",
-      "size": 164,
-      "overwrite": false
-    },
-    {
-      "path": "config/accessorify-client.toml",
-      "sha1": "b9e0c975decf210ab2266a6285d534474dcf0f42",
-      "size": 875,
-      "overwrite": false
-    },
-    {
-      "path": "config/accessorify-common.toml",
-      "sha1": "f8204fc81fc018512ab43a50dc424fb5c3fdbc29",
-      "size": 268,
-      "overwrite": false
-    },
-    {
-      "path": "config/accessorify-server.toml",
-      "sha1": "73f1e2b7a0add520eb98361439543f35ec5a7f21",
-      "size": 134,
-      "overwrite": false
-    },
-    {
-      "path": "config/accessorify/client_config.toml",
-      "sha1": "29de31a4f1f34fc21e9cc56aff1cf2cc02a865e1",
-      "size": 1638,
-      "overwrite": false
-    },
-    {
-      "path": "config/accessorify/config.toml",
-      "sha1": "e2f56dbabf25b0886b272aff9b3e51db22b64729",
-      "size": 835,
-      "overwrite": false
-    },
-    {
-      "path": "config/achiopt-common.toml",
-      "sha1": "84cb86fb3b5725aa0112279b168e5b39065e92d3",
-      "size": 193,
-      "overwrite": false
-    },
     {
       "path": "config/ad_astra-client.jsonc",
       "sha1": "e1bdae0ddf28bc170fd98358332c32d04d2cebdd",
@@ -108,30 +36,6 @@
       "overwrite": false
     },
     {
-      "path": "config/adorabuild_structures/structure_placement_config-had-error.json5",
-      "sha1": "1668ecaffb67c0280263b150240e838156472d2d",
-      "size": 640,
-      "overwrite": false
-    },
-    {
-      "path": "config/adorabuild_structures/structure_placement_config.json5",
-      "sha1": "4d73d9c37f13cd202631f850007056d9de63a6cb",
-      "size": 738,
-      "overwrite": false
-    },
-    {
-      "path": "config/adorabuild_structures/structure_toggle_config-had-error.json5",
-      "sha1": "52cbb12d39dec9d04053d401fda76ce27115deaa",
-      "size": 3307,
-      "overwrite": false
-    },
-    {
-      "path": "config/adorabuild_structures/structure_toggle_config.json5",
-      "sha1": "af7950a82d3808fe65934b659cda19c3032cceb1",
-      "size": 3543,
-      "overwrite": false
-    },
-    {
       "path": "config/advancednetherite-client.toml",
       "sha1": "117092575eb58fc1a49cd0c4f7ab012155f7894a",
       "size": 436,
@@ -159,12 +63,6 @@
       "path": "config/adventuredungeons/structure_toggle_config.json5",
       "sha1": "7ff35a0e47be2c9fe46fa3cb38c720de90d6672a",
       "size": 413,
-      "overwrite": false
-    },
-    {
-      "path": "config/aeroblender-common.toml",
-      "sha1": "a7b1f124d26cfcea0687b1da0e5cc6b0ac2f5b56",
-      "size": 198,
       "overwrite": false
     },
     {
@@ -228,657 +126,15 @@
       "overwrite": false
     },
     {
-      "path": "config/alexsmobs-common.toml",
-      "sha1": "d28e074b1d51558050981e4261a5d9289038439f",
-      "size": 39595,
-      "overwrite": false
-    },
-    {
-      "path": "config/alexsmobs/alligator_snapping_turtle_spawns.json",
-      "sha1": "dfd0c683e29fa92bccbf7c39805e1213c268300d",
-      "size": 750,
-      "overwrite": false
-    },
-    {
-      "path": "config/alexsmobs/anaconda_spawns.json",
-      "sha1": "717d907d7c554fc01c6a3304e90336fd5904e51e",
-      "size": 1032,
-      "overwrite": false
-    },
-    {
-      "path": "config/alexsmobs/anteater_spawns.json",
-      "sha1": "983d5b8a09faf49e73d82af7e3fb0d6d8a28ec4d",
-      "size": 1166,
-      "overwrite": false
-    },
-    {
-      "path": "config/alexsmobs/bald_eagle_spawns.json",
-      "sha1": "24a04efbc87e0488fd296c2d7c8802cf8ef8291a",
-      "size": 2719,
-      "overwrite": false
-    },
-    {
-      "path": "config/alexsmobs/banana_slug_spawns.json",
-      "sha1": "9a666c04b268d50ca141e280895be10b4f05c594",
-      "size": 1689,
-      "overwrite": false
-    },
-    {
-      "path": "config/alexsmobs/bison_spawns.json",
-      "sha1": "7e4772d2aeaa0b83f807f66c72f008d4284febd8",
-      "size": 1753,
-      "overwrite": false
-    },
-    {
-      "path": "config/alexsmobs/blobfish_spawns.json",
-      "sha1": "f39ce83ec705fea5b1e181947ea3d690961a3556",
-      "size": 146,
-      "overwrite": false
-    },
-    {
-      "path": "config/alexsmobs/blue_jay_spawns.json",
-      "sha1": "4a704c533746078e7338f88c29f181166a092606",
-      "size": 4020,
-      "overwrite": false
-    },
-    {
-      "path": "config/alexsmobs/bone_serpent_spawns.json",
-      "sha1": "2ccceb16e3d58dacd7b9da70abcf18d578f7db32",
-      "size": 253,
-      "overwrite": false
-    },
-    {
-      "path": "config/alexsmobs/bunfungus_spawns.json",
-      "sha1": "f5ea95611f2beb3d2d5b79d5d00de44b8c4de012",
-      "size": 478,
-      "overwrite": false
-    },
-    {
-      "path": "config/alexsmobs/cachalot_whale_beached_spawns.json",
-      "sha1": "c428aeede9825f740c73a8e600785aa8b2c2d009",
-      "size": 642,
-      "overwrite": false
-    },
-    {
-      "path": "config/alexsmobs/cachalot_whale_spawns.json",
-      "sha1": "6c5965ab0b548e11bf229d6531bec6252eaff443",
-      "size": 889,
-      "overwrite": false
-    },
-    {
-      "path": "config/alexsmobs/caiman_spawns.json",
-      "sha1": "2dc9908d8f42e786d38bbdaba6a4ea5249dfb13e",
-      "size": 291,
-      "overwrite": false
-    },
-    {
-      "path": "config/alexsmobs/capuchin_monkey_spawns.json",
-      "sha1": "aba297cc13e94b9bc3111e2918d0dcb4a9495cca",
-      "size": 1184,
-      "overwrite": false
-    },
-    {
-      "path": "config/alexsmobs/catfish_spawns.json",
-      "sha1": "bdaa6f7ffb98628dcd9ef6c239608ec3f3a08121",
-      "size": 1089,
-      "overwrite": false
-    },
-    {
-      "path": "config/alexsmobs/cave_centipede_spawns.json",
-      "sha1": "03d4fc8de51b1c140015dfa72cc73eaf691431b4",
-      "size": 2192,
-      "overwrite": false
-    },
-    {
-      "path": "config/alexsmobs/cockroach_spawns.json",
-      "sha1": "1c8f8f17ac7ce4fc12fab461ec3c50d272d93d75",
-      "size": 2081,
-      "overwrite": false
-    },
-    {
-      "path": "config/alexsmobs/comb_jelly_spawns.json",
-      "sha1": "ced1e6a35f9debfda11e579fdd8d45a340c05630",
-      "size": 414,
-      "overwrite": false
-    },
-    {
-      "path": "config/alexsmobs/cosmaw_spawns.json",
-      "sha1": "59349c0f99f2b4f452326602e27ca30a56094c22",
-      "size": 371,
-      "overwrite": false
-    },
-    {
-      "path": "config/alexsmobs/cosmic_cod_spawns.json",
-      "sha1": "6d2ab311e1f341a4874c15ae97e420562b035c3a",
-      "size": 139,
-      "overwrite": false
-    },
-    {
-      "path": "config/alexsmobs/crimson_mosquito_spawns.json",
-      "sha1": "b8c64f6dd736667fb2b5461ee25b970438264770",
-      "size": 781,
-      "overwrite": false
-    },
-    {
-      "path": "config/alexsmobs/crocodile_spawns.json",
-      "sha1": "345de0c6d056d843e4cef87763c88ab32e150002",
-      "size": 999,
-      "overwrite": false
-    },
-    {
-      "path": "config/alexsmobs/crow_spawns.json",
-      "sha1": "767bafd15d5a771550dc636b905a15159386757d",
-      "size": 5142,
-      "overwrite": false
-    },
-    {
-      "path": "config/alexsmobs/devils_hole_pupfish_spawns.json",
-      "sha1": "72c87498fe92bbaedac0dd8f17fe45cd39f10175",
-      "size": 145,
-      "overwrite": false
-    },
-    {
-      "path": "config/alexsmobs/dropbear_spawns.json",
-      "sha1": "05edeefbc1e89291d0af5a8b6ad4e07abcfb4dc0",
-      "size": 399,
-      "overwrite": false
-    },
-    {
-      "path": "config/alexsmobs/elephant_spawns.json",
-      "sha1": "174b8af7c5357d42f6c3d7cf46000abf001026c9",
-      "size": 1163,
-      "overwrite": false
-    },
-    {
-      "path": "config/alexsmobs/emu_spawns.json",
-      "sha1": "1350a531f941af07b0c590c6b03eed79569df58b",
-      "size": 1661,
-      "overwrite": false
-    },
-    {
-      "path": "config/alexsmobs/endergrade_spawns.json",
-      "sha1": "876c128ed4fc894d61aab0eb2c735e64fa6dc417",
-      "size": 250,
-      "overwrite": false
-    },
-    {
-      "path": "config/alexsmobs/enderiophage_spawns.json",
-      "sha1": "b343e2bd88950cc0f5db7041b1a7708ffb51c5fb",
-      "size": 603,
-      "overwrite": false
-    },
-    {
-      "path": "config/alexsmobs/farseer.json",
-      "sha1": "c81f27b1f74d150d8762e2162eb9ea8312a2d00f",
-      "size": 262,
-      "overwrite": false
-    },
-    {
-      "path": "config/alexsmobs/flutter_spawns.json",
-      "sha1": "c7d78e61a3ded23ae0af88640b4f6e3788d91462",
-      "size": 147,
-      "overwrite": false
-    },
-    {
-      "path": "config/alexsmobs/fly_spawns.json",
-      "sha1": "72c87498fe92bbaedac0dd8f17fe45cd39f10175",
-      "size": 145,
-      "overwrite": false
-    },
-    {
-      "path": "config/alexsmobs/flying_fish_spawns.json",
-      "sha1": "16a366bbd5d415751babc14c7a3e72fdc843b390",
-      "size": 708,
-      "overwrite": false
-    },
-    {
-      "path": "config/alexsmobs/frilled_shark_spawns.json",
-      "sha1": "f39ce83ec705fea5b1e181947ea3d690961a3556",
-      "size": 146,
-      "overwrite": false
-    },
-    {
-      "path": "config/alexsmobs/froststalker_spawns.json",
-      "sha1": "707c1d78e16032957b1b047a3559006883a66aa6",
-      "size": 934,
-      "overwrite": false
-    },
-    {
-      "path": "config/alexsmobs/gazelle_spawns.json",
-      "sha1": "f7ef705fb7988c423de961ecf5b6b50207e7508c",
-      "size": 1050,
-      "overwrite": false
-    },
-    {
-      "path": "config/alexsmobs/gelada_monkey_spawns.json",
-      "sha1": "b25167bae6afe207181eb2e6a576afddb057927f",
-      "size": 993,
-      "overwrite": false
-    },
-    {
-      "path": "config/alexsmobs/giant_squid_spawns.json",
-      "sha1": "f39ce83ec705fea5b1e181947ea3d690961a3556",
-      "size": 146,
-      "overwrite": false
-    },
-    {
-      "path": "config/alexsmobs/gorilla_spawns.json",
-      "sha1": "dbdc0203d5147edd4d7b9483b05778b381839ee2",
-      "size": 1053,
-      "overwrite": false
-    },
-    {
-      "path": "config/alexsmobs/grizzly_bear_spawns.json",
-      "sha1": "4a704c533746078e7338f88c29f181166a092606",
-      "size": 4020,
-      "overwrite": false
-    },
-    {
-      "path": "config/alexsmobs/guster_spawns.json",
-      "sha1": "af87c402b13c9299b4ad58a474c1a35732ee8ce5",
-      "size": 1116,
-      "overwrite": false
-    },
-    {
-      "path": "config/alexsmobs/hammerhead_shark_spawns.json",
-      "sha1": "025e3e72b36872c76c171726ca843ac93d0adb4d",
-      "size": 250,
-      "overwrite": false
-    },
-    {
-      "path": "config/alexsmobs/hummingbird_spawns.json",
-      "sha1": "87a5239ac83733283bda909fd7247cc8bdb7f68a",
-      "size": 3029,
-      "overwrite": false
-    },
-    {
-      "path": "config/alexsmobs/jerboa_spawns.json",
-      "sha1": "ce615f2a96a48c4ff3cf314fe081b2a3d2d134e9",
-      "size": 1240,
-      "overwrite": false
-    },
-    {
-      "path": "config/alexsmobs/kangaroo_spawns.json",
-      "sha1": "1350a531f941af07b0c590c6b03eed79569df58b",
-      "size": 1661,
-      "overwrite": false
-    },
-    {
-      "path": "config/alexsmobs/komodo_dragon_spawns.json",
-      "sha1": "c05f2d389d47af9f28435aac9cceea472981cc8f",
-      "size": 771,
-      "overwrite": false
-    },
-    {
-      "path": "config/alexsmobs/laviathan_spawns.json",
-      "sha1": "b35947925d599eb04ee7075af6810dbe7b515052",
-      "size": 142,
-      "overwrite": false
-    },
-    {
-      "path": "config/alexsmobs/leafcutter_anthill_spawns.json",
-      "sha1": "983d5b8a09faf49e73d82af7e3fb0d6d8a28ec4d",
-      "size": 1166,
-      "overwrite": false
-    },
-    {
-      "path": "config/alexsmobs/lobster_spawns.json",
-      "sha1": "bfa5934e707e1a5fac743d40eede8a78dae13ff1",
-      "size": 398,
-      "overwrite": false
-    },
-    {
-      "path": "config/alexsmobs/maned_wolf_spawns.json",
-      "sha1": "e7262e3a8d7dea88c22540ac36efd9b82524384e",
-      "size": 1037,
-      "overwrite": false
-    },
-    {
-      "path": "config/alexsmobs/mantis_shrimp_spawns.json",
-      "sha1": "98434e630959b7774f9bc57706400b1e649a2c7d",
-      "size": 381,
-      "overwrite": false
-    },
-    {
-      "path": "config/alexsmobs/mimic_octopus_spawns.json",
-      "sha1": "f3b30be220c7084580f2d5ea927741a4d6189ba4",
-      "size": 369,
-      "overwrite": false
-    },
-    {
-      "path": "config/alexsmobs/mimicube_spawns.json",
-      "sha1": "c114b5771028f6538d6d2f4a04d4ad2aec9f3235",
-      "size": 361,
-      "overwrite": false
-    },
-    {
-      "path": "config/alexsmobs/moose_spawns.json",
-      "sha1": "4a87a49a734e854cb336722c5128fd56b1b57a66",
-      "size": 2279,
-      "overwrite": false
-    },
-    {
-      "path": "config/alexsmobs/mudskipper_spawns.json",
-      "sha1": "2dc9908d8f42e786d38bbdaba6a4ea5249dfb13e",
-      "size": 291,
-      "overwrite": false
-    },
-    {
-      "path": "config/alexsmobs/mungus_spawns.json",
-      "sha1": "f5ea95611f2beb3d2d5b79d5d00de44b8c4de012",
-      "size": 478,
-      "overwrite": false
-    },
-    {
-      "path": "config/alexsmobs/murmur.json",
-      "sha1": "03d4fc8de51b1c140015dfa72cc73eaf691431b4",
-      "size": 2192,
-      "overwrite": false
-    },
-    {
-      "path": "config/alexsmobs/orca_spawns.json",
-      "sha1": "70354eb97a9810ea9e5cd660808ae6c5305b6602",
-      "size": 251,
-      "overwrite": false
-    },
-    {
-      "path": "config/alexsmobs/platypus_spawns.json",
-      "sha1": "ced22dadf032554f60740f6b90dc32451228fa41",
-      "size": 621,
-      "overwrite": false
-    },
-    {
-      "path": "config/alexsmobs/potoo_spawns.json",
-      "sha1": "426052ea6d093fe878779db6e1951a8accec897f",
-      "size": 148,
-      "overwrite": false
-    },
-    {
-      "path": "config/alexsmobs/raccoon_spawns.json",
-      "sha1": "5a28b17087fd1a17486449ea947a719ca93fe15c",
-      "size": 3708,
-      "overwrite": false
-    },
-    {
-      "path": "config/alexsmobs/rain_frog_spawns.json",
-      "sha1": "ce615f2a96a48c4ff3cf314fe081b2a3d2d134e9",
-      "size": 1240,
-      "overwrite": false
-    },
-    {
-      "path": "config/alexsmobs/rattlesnake_spawns.json",
-      "sha1": "39cc6d1c41ce840ae5713aa157b8470b99a7d0ba",
-      "size": 1634,
-      "overwrite": false
-    },
-    {
-      "path": "config/alexsmobs/rhinoceros_spawns.json",
-      "sha1": "f7ef705fb7988c423de961ecf5b6b50207e7508c",
-      "size": 1050,
-      "overwrite": false
-    },
-    {
-      "path": "config/alexsmobs/roadrunner_spawns.json",
-      "sha1": "39cc6d1c41ce840ae5713aa157b8470b99a7d0ba",
-      "size": 1634,
-      "overwrite": false
-    },
-    {
-      "path": "config/alexsmobs/rocky_roller_spawns.json",
-      "sha1": "38742f57f8078b5de937f7327a941d02bcc3847a",
-      "size": 669,
-      "overwrite": false
-    },
-    {
-      "path": "config/alexsmobs/seagull_spawns.json",
-      "sha1": "c4e332410fcd6b13ec92c7a15f142e5155cb5274",
-      "size": 1296,
-      "overwrite": false
-    },
-    {
-      "path": "config/alexsmobs/seal_spawns.json",
-      "sha1": "04d6acac10e3aa46201e53aaa68cf1b6d017f896",
-      "size": 873,
-      "overwrite": false
-    },
-    {
-      "path": "config/alexsmobs/shoebill_spawns.json",
-      "sha1": "59c30ef0c13369f88e07a57bcc1af881599a3f0e",
-      "size": 619,
-      "overwrite": false
-    },
-    {
-      "path": "config/alexsmobs/skelewag_spawns.json",
-      "sha1": "760eb34189fba290b9a9f8c33752132bfd738ba8",
-      "size": 370,
-      "overwrite": false
-    },
-    {
-      "path": "config/alexsmobs/skreecher.json",
-      "sha1": "025359d8c4ad85ab3c3377dd0d859299acbbeb68",
-      "size": 272,
-      "overwrite": false
-    },
-    {
-      "path": "config/alexsmobs/skunk_spawns.json",
-      "sha1": "af70d75e685e00e5a2f054d9b2c8d2eebf155d00",
-      "size": 2033,
-      "overwrite": false
-    },
-    {
-      "path": "config/alexsmobs/snow_leopard_spawns.json",
-      "sha1": "0369836c949ef4984e94c0b43930da64c3b87a52",
-      "size": 1804,
-      "overwrite": false
-    },
-    {
-      "path": "config/alexsmobs/soul_vulture_spawns.json",
-      "sha1": "757cae5b065600b9988e9bf7d2ba5bef54064f5e",
-      "size": 519,
-      "overwrite": false
-    },
-    {
-      "path": "config/alexsmobs/spectre_spawns.json",
-      "sha1": "876c128ed4fc894d61aab0eb2c735e64fa6dc417",
-      "size": 250,
-      "overwrite": false
-    },
-    {
-      "path": "config/alexsmobs/straddler_spawns.json",
-      "sha1": "028e234a693e259d036754f10ad944201cbe9e92",
-      "size": 660,
-      "overwrite": false
-    },
-    {
-      "path": "config/alexsmobs/stradpole_spawns.json",
-      "sha1": "028e234a693e259d036754f10ad944201cbe9e92",
-      "size": 660,
-      "overwrite": false
-    },
-    {
-      "path": "config/alexsmobs/sugar_glider_spawns.json",
-      "sha1": "62d2952af8a99284a2072613584475532fa3976d",
-      "size": 418,
-      "overwrite": false
-    },
-    {
-      "path": "config/alexsmobs/sunbird_spawns.json",
-      "sha1": "d00d854a7a859be448d448854a489fb4bf5b3754",
-      "size": 3925,
-      "overwrite": false
-    },
-    {
-      "path": "config/alexsmobs/tarantula_hawk_spawns.json",
-      "sha1": "ce615f2a96a48c4ff3cf314fe081b2a3d2d134e9",
-      "size": 1240,
-      "overwrite": false
-    },
-    {
-      "path": "config/alexsmobs/tasmanian_devil_spawns.json",
-      "sha1": "23bc2cb9dc01cf15886c1f41286b0c2a2812c50a",
-      "size": 1904,
-      "overwrite": false
-    },
-    {
-      "path": "config/alexsmobs/terrapin_spawns.json",
-      "sha1": "ced22dadf032554f60740f6b90dc32451228fa41",
-      "size": 621,
-      "overwrite": false
-    },
-    {
-      "path": "config/alexsmobs/tiger_spawns.json",
-      "sha1": "50c690955ef10c27602d6cc9a146721998408c20",
-      "size": 1209,
-      "overwrite": false
-    },
-    {
-      "path": "config/alexsmobs/toucan_spawns.json",
-      "sha1": "983d5b8a09faf49e73d82af7e3fb0d6d8a28ec4d",
-      "size": 1166,
-      "overwrite": false
-    },
-    {
-      "path": "config/alexsmobs/triops_spawns.json",
-      "sha1": "ce615f2a96a48c4ff3cf314fe081b2a3d2d134e9",
-      "size": 1240,
-      "overwrite": false
-    },
-    {
-      "path": "config/alexsmobs/tusklin_spawns.json",
-      "sha1": "a8b647f13fac15e0ed54a56a2210825a518d2b93",
-      "size": 874,
-      "overwrite": false
-    },
-    {
-      "path": "config/alexsmobs/underminer.json",
-      "sha1": "1c8f8f17ac7ce4fc12fab461ec3c50d272d93d75",
-      "size": 2081,
-      "overwrite": false
-    },
-    {
-      "path": "config/alexsmobs/void_worm_spawns.json",
-      "sha1": "1ae814f47278ae5e83f93b711cb1b22df42fa5c4",
-      "size": 18,
-      "overwrite": false
-    },
-    {
-      "path": "config/alexsmobs/warped_mosco_spawns.json",
-      "sha1": "1ae814f47278ae5e83f93b711cb1b22df42fa5c4",
-      "size": 18,
-      "overwrite": false
-    },
-    {
-      "path": "config/alexsmobs/warped_toad_spawns.json",
-      "sha1": "5cd292af241f4ee8699dc810bccdcfe29135fcc9",
-      "size": 661,
-      "overwrite": false
-    },
-    {
-      "path": "config/ali/ali_common.json",
-      "sha1": "6a06a55aa592c761586235e1345d7ea6df287634",
-      "size": 3543,
-      "overwrite": false
-    },
-    {
       "path": "config/alltheleaks.json",
       "sha1": "ed98af5954c23f7536e963ffafdb644dd0a9de49",
       "size": 425,
       "overwrite": false
     },
     {
-      "path": "config/almanac-common.toml",
-      "sha1": "f194c1d8369fb9b22696f472c20be7593cd71d30",
-      "size": 575,
-      "overwrite": false
-    },
-    {
-      "path": "config/amendments-client.toml",
-      "sha1": "120e9cc90ae98cab9def02a20d0ff69d1af14457",
-      "size": 4852,
-      "overwrite": false
-    },
-    {
-      "path": "config/amendments-common.toml",
-      "sha1": "c03e19645686973e9fb6b6f84404b421c446be88",
-      "size": 4960,
-      "overwrite": false
-    },
-    {
       "path": "config/apotheosis/apothic_attributes.cfg",
       "sha1": "a3f6f93f2e18025b9273b8bcb7d901f92c1bed4e",
       "size": 5285,
-      "overwrite": false
-    },
-    {
-      "path": "config/aquamirae/structure_placement_config.json5",
-      "sha1": "6783cba2ecb0f57b7c732d1739afb71b647d7a34",
-      "size": 195,
-      "overwrite": false
-    },
-    {
-      "path": "config/aquamirae/structure_toggle_config.json5",
-      "sha1": "5a5fadf65cee3b0abc9f299bc04b494433ddce92",
-      "size": 303,
-      "overwrite": false
-    },
-    {
-      "path": "config/asyncparticles/asyncparticles-mixin.properties",
-      "sha1": "3b5b5969a7465194a8f585d31a9c4894df339a89",
-      "size": 2141,
-      "overwrite": false
-    },
-    {
-      "path": "config/asyncparticles/asyncparticles.json",
-      "sha1": "1d57e53569422c9f1a4b0dc465e3b2fc4875a74c",
-      "size": 1161,
-      "overwrite": false
-    },
-    {
-      "path": "config/audioImprovementsConfig.json",
-      "sha1": "2ede2f500ef6dd96890b8bfa7bcfbbd17e04b3ac",
-      "size": 703,
-      "overwrite": false
-    },
-    {
-      "path": "config/azurelib.json",
-      "sha1": "9b664f0a5d48fb8a25dfd7f5d1c5bd731b5e93c5",
-      "size": 509,
-      "overwrite": false
-    },
-    {
-      "path": "config/backpacked.augments.toml",
-      "sha1": "f722a525b195b04ace6e93be14e76154aa8030a2",
-      "size": 1639,
-      "overwrite": false
-    },
-    {
-      "path": "config/backpacked.backpack.toml",
-      "sha1": "eaf9b9ec82441471741ee30fb38693fade3cb84e",
-      "size": 26691,
-      "overwrite": false
-    },
-    {
-      "path": "config/backpacked.client.toml",
-      "sha1": "2bccdb6f13bf43326b3e647f7722e7ae820e6e46",
-      "size": 1110,
-      "overwrite": false
-    },
-    {
-      "path": "config/backpacked.pickpocketing.toml",
-      "sha1": "c5225d6ff40409389f42ace473d6d1cde1e6ae14",
-      "size": 649,
-      "overwrite": false
-    },
-    {
-      "path": "config/backpacked.server.toml",
-      "sha1": "94571a72110392eb0a78cc75e7bd69409d54d39d",
-      "size": 5938,
-      "overwrite": false
-    },
-    {
-      "path": "config/backpacked.wandering_trader.toml",
-      "sha1": "4c7847ae842bd122e8cb113ff310aadf96ee56bb",
-      "size": 1915,
       "overwrite": false
     },
     {
@@ -924,288 +180,6 @@
       "overwrite": false
     },
     {
-      "path": "config/bedrockoid-config.toml",
-      "sha1": "8679e4c81cda7d1519a9004ded6210cb3f366fa6",
-      "size": 854,
-      "overwrite": false
-    },
-    {
-      "path": "config/better_client/client.json",
-      "sha1": "d535536b1e4ee5e7fd7585eef1d0aa34165fa323",
-      "size": 1288,
-      "overwrite": false
-    },
-    {
-      "path": "config/betteradvancements-client.toml",
-      "sha1": "f3f092a0b21260802d10cc6abd83e2a6d33573c3",
-      "size": 939,
-      "overwrite": false
-    },
-    {
-      "path": "config/betterdungeons-neoforge-1_21.toml",
-      "sha1": "188a675e11bc7ebe44ba3b495b502b4e966c9bda",
-      "size": 3486,
-      "overwrite": false
-    },
-    {
-      "path": "config/betterdungeons/structure_placement_config.json5",
-      "sha1": "456894987ae790b725213c3c77dc2a95968373f0",
-      "size": 467,
-      "overwrite": false
-    },
-    {
-      "path": "config/betterdungeons/structure_toggle_config.json5",
-      "sha1": "e14010c0664b80e8b6b5cc1aca4dc9b9437901e2",
-      "size": 316,
-      "overwrite": false
-    },
-    {
-      "path": "config/betterendisland-neoforge-1_21.toml",
-      "sha1": "79be491edca159ceadf0b0cfbe904a10533e2dea",
-      "size": 943,
-      "overwrite": false
-    },
-    {
-      "path": "config/betterfortresses-neoforge-1_21.toml",
-      "sha1": "629ed14a081edd760decfc14373fc5d40cbcf532",
-      "size": 425,
-      "overwrite": false
-    },
-    {
-      "path": "config/betterfortresses/neoforge-1_21/itemframes.json",
-      "sha1": "69060a4c19563fdd80c65da998eb501c38ce25ea",
-      "size": 1208,
-      "overwrite": false
-    },
-    {
-      "path": "config/betterfortresses/neoforge-1_21/README.txt",
-      "sha1": "4817afb627c5ed0efbabb07ff80ad958fee80c5b",
-      "size": 1365,
-      "overwrite": false
-    },
-    {
-      "path": "config/betterfortresses/README.txt",
-      "sha1": "f8902da9a441eb0bd99eaffa09516ff3fc3b269f",
-      "size": 874,
-      "overwrite": false
-    },
-    {
-      "path": "config/betterfortresses/structure_placement_config.json5",
-      "sha1": "7cc783bfda640a628bd3431cf885b59f96348f27",
-      "size": 123,
-      "overwrite": false
-    },
-    {
-      "path": "config/betterfortresses/structure_toggle_config.json5",
-      "sha1": "0cc51decee529f5ea60a409bbba56e7ca8b57842",
-      "size": 85,
-      "overwrite": false
-    },
-    {
-      "path": "config/betterfpsdist.json",
-      "sha1": "bf519ed2f989dbee11c516bf772cc6e3503b6a14",
-      "size": 714,
-      "overwrite": false
-    },
-    {
-      "path": "config/bettergrass.json5",
-      "sha1": "72a6e03c31dd7b8d22f9be39ab5f82d08e324f3c",
-      "size": 984,
-      "overwrite": false
-    },
-    {
-      "path": "config/betterjungletemples-neoforge-1_21.toml",
-      "sha1": "268d576840536ec1098c7c0902622c4c6dea99a7",
-      "size": 86,
-      "overwrite": false
-    },
-    {
-      "path": "config/betterjungletemples/structure_placement_config.json5",
-      "sha1": "a603fe2f3660000fb45182762d49074a1a2c5bb3",
-      "size": 128,
-      "overwrite": false
-    },
-    {
-      "path": "config/betterjungletemples/structure_toggle_config.json5",
-      "sha1": "93791da44bd21e2b9555b269869918107469159b",
-      "size": 96,
-      "overwrite": false
-    },
-    {
-      "path": "config/bettermineshafts-neoforge-1_21.toml",
-      "sha1": "34a379b8db169b68ccd47cc568392b0e984877ea",
-      "size": 4151,
-      "overwrite": false
-    },
-    {
-      "path": "config/bettermineshafts/structure_placement_config.json5",
-      "sha1": "190a3ffd0885a6244229c1c3ba2a245f24a31234",
-      "size": 145,
-      "overwrite": false
-    },
-    {
-      "path": "config/bettermineshafts/structure_toggle_config.json5",
-      "sha1": "d8b7011910d102fa07461076fc6b011c9e7d3fd9",
-      "size": 439,
-      "overwrite": false
-    },
-    {
-      "path": "config/bettermodsbutton-client.toml",
-      "sha1": "eca8b62992159f0259282e5df16a50f1b904ef6f",
-      "size": 1130,
-      "overwrite": false
-    },
-    {
-      "path": "config/betteroceanmonuments-neoforge-1_21.toml",
-      "sha1": "2827b8ebefb6d91e6886970c656a85113d0c4739",
-      "size": 419,
-      "overwrite": false
-    },
-    {
-      "path": "config/betteroceanmonuments/structure_placement_config.json5",
-      "sha1": "95aef21f9817f0ff2ad9c9913c710cc6b0fd3f4b",
-      "size": 129,
-      "overwrite": false
-    },
-    {
-      "path": "config/betteroceanmonuments/structure_toggle_config.json5",
-      "sha1": "64bebd75846f47bf6bf40261371bf25cc230215a",
-      "size": 97,
-      "overwrite": false
-    },
-    {
-      "path": "config/betterstrongholds-neoforge-1_21.toml",
-      "sha1": "9a344f54f80a0f1437e542e4b7b39deef89c3aed",
-      "size": 621,
-      "overwrite": false
-    },
-    {
-      "path": "config/betterstrongholds/neoforge-1_21/armorstands.json",
-      "sha1": "ae3610ea1cfb29d6cfa2c5ba82d6b7702b0fe3b0",
-      "size": 1450,
-      "overwrite": false
-    },
-    {
-      "path": "config/betterstrongholds/neoforge-1_21/itemframes.json",
-      "sha1": "ce1225e020b0cefbf688b7a7b2491ef10455f300",
-      "size": 953,
-      "overwrite": false
-    },
-    {
-      "path": "config/betterstrongholds/neoforge-1_21/ores.json",
-      "sha1": "7b5040c8f48eaeac156cce61a5cd6b56f33641f4",
-      "size": 359,
-      "overwrite": false
-    },
-    {
-      "path": "config/betterstrongholds/neoforge-1_21/rareblocks.json",
-      "sha1": "f40c8a6cfba705d13148572a5db1bc77dc685e58",
-      "size": 248,
-      "overwrite": false
-    },
-    {
-      "path": "config/betterstrongholds/neoforge-1_21/README.txt",
-      "sha1": "835386b8c393429e71774acc84fd431984a363e6",
-      "size": 2892,
-      "overwrite": false
-    },
-    {
-      "path": "config/betterstrongholds/README.txt",
-      "sha1": "9e48c6c5cc04fbbe5bd5bc56022fe02ccaa112fe",
-      "size": 726,
-      "overwrite": false
-    },
-    {
-      "path": "config/betterstrongholds/structure_placement_config.json5",
-      "sha1": "1b2cb16ec527805f0cd58bc0a498f39aaf53dfaf",
-      "size": 125,
-      "overwrite": false
-    },
-    {
-      "path": "config/betterstrongholds/structure_toggle_config.json5",
-      "sha1": "9f4a6f0d5b25bd69cefc60c685a46027a1d5c1e2",
-      "size": 89,
-      "overwrite": false
-    },
-    {
-      "path": "config/betterwitchhuts-neoforge-1_21.toml",
-      "sha1": "aa452838ef75b6d75ffecb24eff1981c9731c23e",
-      "size": 404,
-      "overwrite": false
-    },
-    {
-      "path": "config/betterwitchhuts/structure_placement_config.json5",
-      "sha1": "e814ebf7cc73ce9b220df6904e4b0c131aa596fc",
-      "size": 201,
-      "overwrite": false
-    },
-    {
-      "path": "config/betterwitchhuts/structure_toggle_config.json5",
-      "sha1": "c38ccb5e0192dcbfebb8d2e6ff4429e856124550",
-      "size": 133,
-      "overwrite": false
-    },
-    {
-      "path": "config/betterworldloadingnf21.json",
-      "sha1": "c66ab6624f13ea4336c56a0c5cd7bc4263c4a863",
-      "size": 59,
-      "overwrite": false
-    },
-    {
-      "path": "config/bhmenu-client.toml",
-      "sha1": "b4a075a06848ec1ab9a842531ced1385b05eeec9",
-      "size": 2089,
-      "overwrite": false
-    },
-    {
-      "path": "config/biomemusic.json",
-      "sha1": "ff0c619be6f2f7dd1814c16bf865a5ff0c2505bf",
-      "size": 2288,
-      "overwrite": false
-    },
-    {
-      "path": "config/biomeswevegone/misc.json",
-      "sha1": "7f035595f601526e6a5d8eeeaf20722e896cafdf",
-      "size": 494,
-      "overwrite": false
-    },
-    {
-      "path": "config/biomeswevegone/mob_spawn.json",
-      "sha1": "07e249aa403139f9f8050a01742ff5e16848282e",
-      "size": 62,
-      "overwrite": false
-    },
-    {
-      "path": "config/biomeswevegone/structure_placement_config.json5",
-      "sha1": "b7279220517b59bd1aaa38a3c271492093052a55",
-      "size": 926,
-      "overwrite": false
-    },
-    {
-      "path": "config/biomeswevegone/structure_toggle_config.json5",
-      "sha1": "2c0398e9666bc72b1b5a8649dc998a083e6fb06c",
-      "size": 762,
-      "overwrite": false
-    },
-    {
-      "path": "config/biomeswevegone/trades.json",
-      "sha1": "17b020f037c64fb06acede658ba1ad0fb3aefcc2",
-      "size": 639,
-      "overwrite": false
-    },
-    {
-      "path": "config/biomeswevegone/world_generation.json",
-      "sha1": "0866bfc9620fb419c3bfddf306de9d2cc73ebacd",
-      "size": 4196,
-      "overwrite": false
-    },
-    {
-      "path": "config/boatiview-client.toml",
-      "sha1": "3618f445cbd64aa185c92aaf8428de7ac2223d81",
-      "size": 384,
-      "overwrite": false
-    },
-    {
       "path": "config/bridgingmod.json",
       "sha1": "b1a5f0b46a2d68841f7d4c3c1683892a4ef0f0bc",
       "size": 837,
@@ -1231,8 +205,8 @@
     },
     {
       "path": "config/carryon-common.toml",
-      "sha1": "c8c4c5a54b275d4922e13e3c55acfc8d8c173b5a",
-      "size": 7034,
+      "sha1": "ff2c484bdf66fdd2e3aee82c0edff748e6ac029a",
+      "size": 6350,
       "overwrite": false
     },
     {
@@ -1243,8 +217,8 @@
     },
     {
       "path": "config/cataclysm-common.toml",
-      "sha1": "b9d8d217bbecc077ea99c88da9e50308bf304553",
-      "size": 30665,
+      "sha1": "f01ab55a09abdd8ac9f47435b9f0e451b32ae9a0",
+      "size": 29414,
       "overwrite": false
     },
     {
@@ -1278,12 +252,6 @@
       "overwrite": false
     },
     {
-      "path": "config/cclayer.json5",
-      "sha1": "96394afb57285c3aa0edba2142a1a58114a20b98",
-      "size": 33,
-      "overwrite": false
-    },
-    {
       "path": "config/cerulean-client.toml",
       "sha1": "f33cac05c4ed4d860591105d14f7e96368b8b06d",
       "size": 166,
@@ -1308,12 +276,6 @@
       "overwrite": false
     },
     {
-      "path": "config/charmofundying-server.toml",
-      "sha1": "53f90c9de27680680f657ec7eb545979f2ecfdd8",
-      "size": 373,
-      "overwrite": false
-    },
-    {
       "path": "config/chat_heads.json5",
       "sha1": "1fbe7a72d52b51ca9a8a598cf67ed28caa3ed87f",
       "size": 229,
@@ -1332,69 +294,9 @@
       "overwrite": false
     },
     {
-      "path": "config/chunkactivitytracker-server.toml",
-      "sha1": "40e2d00855f5e2ab6d931469ad2f7b8c41dcd247",
-      "size": 148,
-      "overwrite": false
-    },
-    {
-      "path": "config/chunksending.json",
-      "sha1": "8f1674391f93da19f79967ec017b9d488384d326",
-      "size": 2682,
-      "overwrite": false
-    },
-    {
       "path": "config/chunky/config.json",
       "sha1": "a8157f2e1e649b891aaccb8ec83d38c84429c82a",
       "size": 146,
-      "overwrite": false
-    },
-    {
-      "path": "config/citadel-common.toml",
-      "sha1": "bc21817f0bd106c8bc68e7994d7bd0bdb43afb45",
-      "size": 662,
-      "overwrite": false
-    },
-    {
-      "path": "config/cithotfix.json",
-      "sha1": "b712c679c371cc4304ba4bbb5278abe2a803b10f",
-      "size": 78,
-      "overwrite": false
-    },
-    {
-      "path": "config/citresewn-defaults.json",
-      "sha1": "0cb297b69dea869c0a2479cc08141a2e4f8b370b",
-      "size": 49,
-      "overwrite": false
-    },
-    {
-      "path": "config/citresewn.json",
-      "sha1": "962b8fbc4f2e6dd6ae7f3c4074281276e3c332ed",
-      "size": 121,
-      "overwrite": false
-    },
-    {
-      "path": "config/clientsort-server.json",
-      "sha1": "8e9f3b2737782e3593632ba25d7ee353bab74c47",
-      "size": 1263,
-      "overwrite": false
-    },
-    {
-      "path": "config/clientsort.json",
-      "sha1": "870cbdc47df2f9c41b91b89317dbb0638c6e7252",
-      "size": 5198,
-      "overwrite": false
-    },
-    {
-      "path": "config/collective.json5",
-      "sha1": "d1407cb7951988f62c45dc56d3ee56ca5b568769",
-      "size": 1000,
-      "overwrite": false
-    },
-    {
-      "path": "config/collective/entity_names.json",
-      "sha1": "66f599057cb96747f1549106d65c20eab5aea07c",
-      "size": 76741,
       "overwrite": false
     },
     {
@@ -1404,75 +306,15 @@
       "overwrite": false
     },
     {
-      "path": "config/comforts-common.toml",
-      "sha1": "9f35d6dfdcbc8773d8a057bffbfac5c8d9ed1b0a",
-      "size": 189,
-      "overwrite": false
-    },
-    {
-      "path": "config/comforts-server.toml",
-      "sha1": "28ab4c7c925eff47d552dc3ef7eb404ddfc6336f",
-      "size": 1852,
-      "overwrite": false
-    },
-    {
       "path": "config/configlibtxf-example.json5",
       "sha1": "bf2227b4627f0ed208fc5c8c0ec5f3435ea57a37",
       "size": 1618,
       "overwrite": false
     },
     {
-      "path": "config/configured-client.properties",
-      "sha1": "07a3a91822633aa89338fde32a51a0197ad12a10",
-      "size": 967,
-      "overwrite": false
-    },
-    {
-      "path": "config/connectiblechains.toml",
-      "sha1": "d559a2baf585762182ff940a6aee87f453a825dd",
-      "size": 172,
-      "overwrite": false
-    },
-    {
       "path": "config/connectivity.json",
       "sha1": "01642aa5d1cfa2b78dffe74e044154fcbb8f2c3e",
       "size": 1763,
-      "overwrite": false
-    },
-    {
-      "path": "config/connector.json",
-      "sha1": "921e41d3a31a484d9dabd716cded4c9960285181",
-      "size": 151,
-      "overwrite": false
-    },
-    {
-      "path": "config/connectorextras_energy_bridge-common.toml",
-      "sha1": "2bc47e21c3658743704997bd95d87779abcd7ca9",
-      "size": 375,
-      "overwrite": false
-    },
-    {
-      "path": "config/continuity.json",
-      "sha1": "dcd61957c3ede67c890235ee6615d0f0945118cd",
-      "size": 122,
-      "overwrite": false
-    },
-    {
-      "path": "config/convenienteffects-client.toml",
-      "sha1": "2e332b3aad6a4993774583a3675a90f36fc5d48c",
-      "size": 1422,
-      "overwrite": false
-    },
-    {
-      "path": "config/convenienteffects-common.toml",
-      "sha1": "efe48fe38fa2b00df525f2d3384ae5f6cfa8ebd0",
-      "size": 219,
-      "overwrite": false
-    },
-    {
-      "path": "config/convenienteffects-server.toml",
-      "sha1": "207ab05944341b9073e3b8dd860bca2fc5e13f86",
-      "size": 485,
       "overwrite": false
     },
     {
@@ -1485,48 +327,6 @@
       "path": "config/CoroUtil/General.toml",
       "sha1": "1233bc5e9b76ae23493ad31db26e92b7da397270",
       "size": 129,
-      "overwrite": false
-    },
-    {
-      "path": "config/crash_assistant/config.toml",
-      "sha1": "1d748e017ed9dedfb00b428758a350937d8b476c",
-      "size": 24954,
-      "overwrite": false
-    },
-    {
-      "path": "config/crash_assistant/crash_assistant_localization_overrides/README.md",
-      "sha1": "fda2be339b85a2f66c558f8c842b3423c13f03a5",
-      "size": 2650,
-      "overwrite": false
-    },
-    {
-      "path": "config/crash_assistant/modlist.json",
-      "sha1": "ea55d96549c7bd523379e5b68e5eb1193c49c53e",
-      "size": 103177,
-      "overwrite": false
-    },
-    {
-      "path": "config/crash_assistant/scripts/log_analysis/example.jexl",
-      "sha1": "39636987aad1770c7eedd541460a0cc3d71b9058",
-      "size": 3545,
-      "overwrite": false
-    },
-    {
-      "path": "config/crash_assistant/scripts/startup/00_migrated_problematic_mods.jexl",
-      "sha1": "e0d986230fb96e028effed5f6a7f4542d28363dd",
-      "size": 9015,
-      "overwrite": false
-    },
-    {
-      "path": "config/crash_assistant/scripts/startup/example.jexl",
-      "sha1": "f00e1ec09283ccd9e9638c83a15e8de4b8551a26",
-      "size": 4490,
-      "overwrite": false
-    },
-    {
-      "path": "config/crash_assistant/theme.json",
-      "sha1": "190d5c7acffd4afaafae95bc2c15e0f6259225aa",
-      "size": 11784,
       "overwrite": false
     },
     {
@@ -1596,30 +396,6 @@
       "overwrite": false
     },
     {
-      "path": "config/cuisinedelight-client.toml",
-      "sha1": "cc4201417ad85a255a9044dd030d90372d8848cc",
-      "size": 35,
-      "overwrite": false
-    },
-    {
-      "path": "config/cuisinedelight-server.toml",
-      "sha1": "a6cb44038e58f406f3f0beb6a4c1f70f6a03bb92",
-      "size": 240,
-      "overwrite": false
-    },
-    {
-      "path": "config/cullleaves.json",
-      "sha1": "e23354e548653ad779a519da30f6e3a25fe0ce3d",
-      "size": 42,
-      "overwrite": false
-    },
-    {
-      "path": "config/cumulus_menus-client.toml",
-      "sha1": "08f096f47c9cf9da8f61ea3dcf9f40dd438e1f5c",
-      "size": 753,
-      "overwrite": false
-    },
-    {
       "path": "config/cupboard.json",
       "sha1": "48247803c5c4e83ce3d0ad62c479c35b2af4d965",
       "size": 1304,
@@ -1644,12 +420,6 @@
       "overwrite": false
     },
     {
-      "path": "config/cutthrough-client.toml",
-      "sha1": "5ac8a3e80bfdc00f50ec9d988086affc70827d2f",
-      "size": 247,
-      "overwrite": false
-    },
-    {
       "path": "config/deathcounter-client.toml",
       "sha1": "e9aee527948299e5f40b4e4849ee66d7a56a7722",
       "size": 256,
@@ -1659,36 +429,6 @@
       "path": "config/deathcounter-common.toml",
       "sha1": "31d9c111c4620650b8f0a2586fb1cd934000097d",
       "size": 749,
-      "overwrite": false
-    },
-    {
-      "path": "config/deep_aether-client.toml",
-      "sha1": "f9b4afecfd6db14bb6f0efddf190baac4c9b9345",
-      "size": 550,
-      "overwrite": false
-    },
-    {
-      "path": "config/deep_aether-common.toml",
-      "sha1": "45b9f15b3b2e3c7d0d55e4f82c49f3d29f50ddf6",
-      "size": 3191,
-      "overwrite": false
-    },
-    {
-      "path": "config/deep_aether-server.toml",
-      "sha1": "6057c9281938085d02d22df1e420583ccf03a698",
-      "size": 454,
-      "overwrite": false
-    },
-    {
-      "path": "config/deep_aether/structure_placement_config.json5",
-      "sha1": "076a90e0404d789ecf95515b625e05fa61acd352",
-      "size": 361,
-      "overwrite": false
-    },
-    {
-      "path": "config/deep_aether/structure_toggle_config.json5",
-      "sha1": "ea402ebc546e1545fb303b44604fdc97673c5441",
-      "size": 231,
       "overwrite": false
     },
     {
@@ -1716,69 +456,15 @@
       "overwrite": false
     },
     {
-      "path": "config/distraction_free_recipes-client.toml",
-      "sha1": "be6890e40463fda33ed277a0a631d66dcd6d344d",
-      "size": 364,
-      "overwrite": false
-    },
-    {
-      "path": "config/dmr-client.toml",
-      "sha1": "f641bcd8793d66f8ee9014cefaaa646bd7c74f5c",
-      "size": 710,
-      "overwrite": false
-    },
-    {
-      "path": "config/dmr-common.toml",
-      "sha1": "0e4a8c362c28d61498556ae18e85534d2dce230f",
-      "size": 132,
-      "overwrite": false
-    },
-    {
-      "path": "config/dmr-server.toml",
-      "sha1": "c36888df39c742ae1864af47a1c516b513e5223d",
-      "size": 3859,
-      "overwrite": false
-    },
-    {
-      "path": "config/does_it_tick-common.toml",
-      "sha1": "1c70e42675691fb6637d5d5d8388669b33cd6984",
-      "size": 4096,
-      "overwrite": false
-    },
-    {
-      "path": "config/doubledoors.json5",
-      "sha1": "a13fdee8dd5d4e23f9b300c2efceb5ebff0d5207",
-      "size": 993,
-      "overwrite": false
-    },
-    {
       "path": "config/dragonfight.json",
-      "sha1": "2d336306dfa26a8a13c9fd4bf84e5ef50ebbf227",
-      "size": 3951,
+      "sha1": "3238cec93aa87b98fd7b10aa3a7a58addbad2090",
+      "size": 3825,
       "overwrite": false
     },
     {
       "path": "config/dragonloot-common.toml",
       "sha1": "5da69635a76f888383d1c6cb3a2f56b058a5955e",
       "size": 2833,
-      "overwrite": false
-    },
-    {
-      "path": "config/drippyloadingscreen/options.txt",
-      "sha1": "2ff67b3d9bcc2795fe59856885bf6e4bb648cc7f",
-      "size": 2465,
-      "overwrite": false
-    },
-    {
-      "path": "config/dummmmmmy-client.toml",
-      "sha1": "cc455e61455e61bff11bfe466ec2eb1accc50ae4",
-      "size": 1580,
-      "overwrite": false
-    },
-    {
-      "path": "config/dummmmmmy-common.toml",
-      "sha1": "1cf85a83eb4405c38bda48326ff845930719363b",
-      "size": 1496,
       "overwrite": false
     },
     {
@@ -1795,14 +481,8 @@
     },
     {
       "path": "config/dynamicportals-common.toml",
-      "sha1": "a96e4db7cce6b73d37b7f5bdf23b6b2fd8f13aad",
-      "size": 4154,
-      "overwrite": false
-    },
-    {
-      "path": "config/earlybedtime-common.toml",
-      "sha1": "b7e396d3a97190d790486f821ec65c3f172531e2",
-      "size": 138,
+      "sha1": "1280a33a10a90d98d372b0e0d40591c4d2d127a3",
+      "size": 3487,
       "overwrite": false
     },
     {
@@ -1848,39 +528,9 @@
       "overwrite": false
     },
     {
-      "path": "config/elysium_api-common.toml",
-      "sha1": "57a90db2ba0b784e7a73d9a385c731fa394becb9",
-      "size": 100,
-      "overwrite": false
-    },
-    {
-      "path": "config/embeddium-options.json",
-      "sha1": "2a6edf43f5ba28036b698afb7d8fc382b3dba9fa",
-      "size": 789,
-      "overwrite": false
-    },
-    {
-      "path": "config/emi.css",
-      "sha1": "eaac04b15e4970ce2070f93f3fa9eb828fe2d5a1",
-      "size": 10362,
-      "overwrite": false
-    },
-    {
-      "path": "config/emi_loot_config.toml",
-      "sha1": "ba7e10cf97c0dd02845759db66746d58fea396b1",
-      "size": 793,
-      "overwrite": false
-    },
-    {
       "path": "config/enchantmentinsights-client.toml",
       "sha1": "1e80a38c4f6615aa2f6be214c777ab944240c359",
       "size": 7784,
-      "overwrite": false
-    },
-    {
-      "path": "config/enchdesc.json",
-      "sha1": "7afc913d0110cfd7e1379ab056448b76feb6900b",
-      "size": 2059,
       "overwrite": false
     },
     {
@@ -2023,26 +673,14 @@
     },
     {
       "path": "config/enhancedai/Mobs/Shielding/shield_block_chance.json",
-      "sha1": "076754991f67751291d6cd857d14cd33949b9ce9",
-      "size": 583,
-      "overwrite": false
-    },
-    {
-      "path": "config/entity_model_features.json",
-      "sha1": "937f5d4b70520a1bea9eac99f98228bc3b37a347",
-      "size": 1206,
-      "overwrite": false
-    },
-    {
-      "path": "config/entity_texture_features.json",
-      "sha1": "448216485327fc2d8974687e6995a8502666dbb5",
-      "size": 1451,
+      "sha1": "4ab234ff22c8d49621baa5adedcf993c7ab1fab6",
+      "size": 75,
       "overwrite": false
     },
     {
       "path": "config/entityculling.json",
-      "sha1": "cc2d12efad36b82685b13b642cca1c34ded1d072",
-      "size": 2306,
+      "sha1": "87b1709e95831914b42d826f056ae266a161d466",
+      "size": 2042,
       "overwrite": false
     },
     {
@@ -2058,33 +696,9 @@
       "overwrite": false
     },
     {
-      "path": "config/etf_warnings.json",
-      "sha1": "1573fc320a363b30a1a5e4cae1d4596ec177085d",
-      "size": 28,
-      "overwrite": false
-    },
-    {
       "path": "config/euphoria_patcher/settings.toml",
       "sha1": "036f1c5af3eed31de41d76e796619bd96d6d7a0c",
       "size": 3533,
-      "overwrite": false
-    },
-    {
-      "path": "config/explorations.json",
-      "sha1": "5c7b519a8c014ddcdfe6f90e100f0e10bf43772d",
-      "size": 1381,
-      "overwrite": false
-    },
-    {
-      "path": "config/explorations/structure_placement_config.json5",
-      "sha1": "d34839d13665e9bb64300d00f1ee76e63bcd9f58",
-      "size": 841,
-      "overwrite": false
-    },
-    {
-      "path": "config/explorations/structure_toggle_config.json5",
-      "sha1": "baa71eef3c328e0145a902e518b3f98a79585503",
-      "size": 493,
       "overwrite": false
     },
     {
@@ -2097,414 +711,6 @@
       "path": "config/explorerscompass-common.toml",
       "sha1": "326a57e5e3b496298d4d080b699e012c2ea506a6",
       "size": 2138,
-      "overwrite": false
-    },
-    {
-      "path": "config/explorify/structure_placement_config.json5",
-      "sha1": "d0d39036b4efbd3eaf37e74df58f586873be13ed",
-      "size": 1382,
-      "overwrite": false
-    },
-    {
-      "path": "config/explorify/structure_settings.json5",
-      "sha1": "2af2e5382215b00bccba09d5b55c1045c2a071ff",
-      "size": 1828,
-      "overwrite": false
-    },
-    {
-      "path": "config/explorify/structure_toggle_config.json5",
-      "sha1": "41459402d35785e43b4fdc9985bf527936340f5f",
-      "size": 902,
-      "overwrite": false
-    },
-    {
-      "path": "config/explorify/structure_toggles.json5",
-      "sha1": "2cf57de0e9516bacc40b280891dc3ecb0a782005",
-      "size": 915,
-      "overwrite": false
-    },
-    {
-      "path": "config/fabric/indigo-renderer.properties",
-      "sha1": "5046e8b5d89495d9ffa9e4cd02280df1209e6682",
-      "size": 290,
-      "overwrite": false
-    },
-    {
-      "path": "config/fakedate.toml",
-      "sha1": "5febb9636c195491631a1d162413c2259f58766e",
-      "size": 528,
-      "overwrite": false
-    },
-    {
-      "path": "config/fallingleaves-client.toml",
-      "sha1": "c2070ebea9774db534be0f7269f21c0b1849e7c6",
-      "size": 1731,
-      "overwrite": false
-    },
-    {
-      "path": "config/fallingtree.json",
-      "sha1": "6d0e8b8fb432a816617cc6f838a287b276789433",
-      "size": 1313,
-      "overwrite": false
-    },
-    {
-      "path": "config/fancymenu/assets/16x16.png",
-      "sha1": "0b87cf5d7f9b38d6c02fa5289c5d7e0b811f81bb",
-      "size": 1197,
-      "overwrite": false
-    },
-    {
-      "path": "config/fancymenu/assets/32x32.png",
-      "sha1": "fd8f10618a99de426af6d42e568efde3e43e4758",
-      "size": 3105,
-      "overwrite": false
-    },
-    {
-      "path": "config/fancymenu/assets/betterm.png",
-      "sha1": "61919e356155cde952c8479745c1357478e5e1a5",
-      "size": 397685,
-      "overwrite": false
-    },
-    {
-      "path": "config/fancymenu/assets/bettermc.png",
-      "sha1": "d63b65b740a9d595ec00d4f55b9331cbb8795af7",
-      "size": 488786,
-      "overwrite": false
-    },
-    {
-      "path": "config/fancymenu/assets/blank.png",
-      "sha1": "56d78b1613d720f10f03aedf3dadd56fa34cb7b0",
-      "size": 4583,
-      "overwrite": false
-    },
-    {
-      "path": "config/fancymenu/assets/discord.png",
-      "sha1": "cb1bbb8a8f112fa6fb36897e5050beac93d04e86",
-      "size": 1629,
-      "overwrite": false
-    },
-    {
-      "path": "config/fancymenu/assets/forge.png",
-      "sha1": "5ad0ff5cd61afbd65c5bd65871bf963d63b5c0a2",
-      "size": 240,
-      "overwrite": false
-    },
-    {
-      "path": "config/fancymenu/assets/info.png",
-      "sha1": "6fa255c192af1ea9693e12eebe2280377dec30b5",
-      "size": 21881,
-      "overwrite": false
-    },
-    {
-      "path": "config/fancymenu/assets/loading.png",
-      "sha1": "b375a4e49f2e5c7b31c403cc486b8ab296870b4a",
-      "size": 4433503,
-      "overwrite": false
-    },
-    {
-      "path": "config/fancymenu/assets/logo.png",
-      "sha1": "c2728e54ab1e2b1f17580adc2a99f0c930fa5996",
-      "size": 1492,
-      "overwrite": false
-    },
-    {
-      "path": "config/fancymenu/assets/lunapixel.png",
-      "sha1": "5f935c370e0d90ec60f91527433821e9c352a04a",
-      "size": 351420,
-      "overwrite": false
-    },
-    {
-      "path": "config/fancymenu/assets/mac.icns",
-      "sha1": "153586dab1ad196255eae4826169d8fba90dbcb4",
-      "size": 4123,
-      "overwrite": false
-    },
-    {
-      "path": "config/fancymenu/assets/minimal_logo.png",
-      "sha1": "dc3d23356c6d0b2fe877791181c4b3f2edadc089",
-      "size": 292269,
-      "overwrite": false
-    },
-    {
-      "path": "config/fancymenu/assets/mojang.png",
-      "sha1": "0d812414183ce77766419c81a09839e446a59c1c",
-      "size": 31012,
-      "overwrite": false
-    },
-    {
-      "path": "config/fancymenu/assets/moon.png",
-      "sha1": "ffac71b7d6b48b5aa29769304740f357cd08c2d3",
-      "size": 164229,
-      "overwrite": false
-    },
-    {
-      "path": "config/fancymenu/assets/performance.png",
-      "sha1": "b00af887662602aaac80dfc9aa78bc90e83a027a",
-      "size": 42309,
-      "overwrite": false
-    },
-    {
-      "path": "config/fancymenu/config.txt",
-      "sha1": "7046bd54d70be402c2294b6dec38fea88f27f472",
-      "size": 1731,
-      "overwrite": false
-    },
-    {
-      "path": "config/fancymenu/custom_gui_screens.txt",
-      "sha1": "9ce5c1175354110a8b9f044ac0029be7f57c209b",
-      "size": 56,
-      "overwrite": false
-    },
-    {
-      "path": "config/fancymenu/customizablemenus.txt",
-      "sha1": "7bf9af913f9aa50437afe74bef644b7db67f51cd",
-      "size": 1612,
-      "overwrite": false
-    },
-    {
-      "path": "config/fancymenu/customization/aether.txt",
-      "sha1": "47afc6f28014b850e6e5dc032fa88cef6eaaff0b",
-      "size": 1966,
-      "overwrite": false
-    },
-    {
-      "path": "config/fancymenu/customization/escapemenu.txt",
-      "sha1": "eceaa9f26621eac90478143bd3ad231e01cdeb7d",
-      "size": 29441,
-      "overwrite": false
-    },
-    {
-      "path": "config/fancymenu/customization/fail.txt",
-      "sha1": "635534ad2068df7fd5ffdb2fac039db4c59e3291",
-      "size": 4607,
-      "overwrite": false
-    },
-    {
-      "path": "config/fancymenu/customization/loading.txt",
-      "sha1": "5946cbd144afb38cab15901f6e8f3adc174a249b",
-      "size": 4238,
-      "overwrite": false
-    },
-    {
-      "path": "config/fancymenu/customization/luna_screen.txt",
-      "sha1": "8c6265997eaf30bc0a92a64e63133bfb7dad3e52",
-      "size": 11531,
-      "overwrite": false
-    },
-    {
-      "path": "config/fancymenu/customization/mpuc.txt",
-      "sha1": "43adc3c195b45d8d5dc6438f6e7e1aad3dc783e8",
-      "size": 1956,
-      "overwrite": false
-    },
-    {
-      "path": "config/fancymenu/customization/multi.txt",
-      "sha1": "82bc14d1587a4199d562ba13d8f25e2e290ba9bd",
-      "size": 14743,
-      "overwrite": false
-    },
-    {
-      "path": "config/fancymenu/customization/multiplayer.txt",
-      "sha1": "53eb4654a743f32d513d0807b3f672cba141b3e7",
-      "size": 2026,
-      "overwrite": false
-    },
-    {
-      "path": "config/fancymenu/customization/options_screen_layout.txt",
-      "sha1": "99568967d28263437398f49738fb7948123ef5e4",
-      "size": 16597,
-      "overwrite": false
-    },
-    {
-      "path": "config/fancymenu/customization/title_screen_layout.txt",
-      "sha1": "0c504723a16e5b0b27294505d4589cfbfafbd0a5",
-      "size": 49296,
-      "overwrite": false
-    },
-    {
-      "path": "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget",
-      "sha1": "1a7df4595dafb95f9fc817d51345358bac074e9c",
-      "size": 198,
-      "overwrite": false
-    },
-    {
-      "path": "config/fancymenu/legacy_checklist.txt",
-      "sha1": "f1569161a6ad24cc61b02dece317ea16e351ff1e",
-      "size": 42,
-      "overwrite": false
-    },
-    {
-      "path": "config/fancymenu/locals/de_de.local",
-      "sha1": "ca1eadb6cd29fcc0c39d25b8f11b5fbb7434a5c0",
-      "size": 27773,
-      "overwrite": false
-    },
-    {
-      "path": "config/fancymenu/locals/en_us.local",
-      "sha1": "3b35d4c957d4ba8eec9c9617857e46138d3c5093",
-      "size": 115802,
-      "overwrite": false
-    },
-    {
-      "path": "config/fancymenu/locals/pl_pl.local",
-      "sha1": "eb1badb2939a81fa123a200b9fbc6750d1b94db5",
-      "size": 14094,
-      "overwrite": false
-    },
-    {
-      "path": "config/fancymenu/locals/pt_br.local",
-      "sha1": "494679783c632902de1d8eb5da88cb22cd3f78da",
-      "size": 14527,
-      "overwrite": false
-    },
-    {
-      "path": "config/fancymenu/locals/ru_ru.local",
-      "sha1": "fed811080aa11879bb4853209db4974b79bb9179",
-      "size": 156834,
-      "overwrite": false
-    },
-    {
-      "path": "config/fancymenu/locals/uk_ua.local",
-      "sha1": "04209f16b2981181c2766704b1d82bfe302e016a",
-      "size": 149243,
-      "overwrite": false
-    },
-    {
-      "path": "config/fancymenu/locals/zh_cn.local",
-      "sha1": "007141f037099e5edb4b48ad5f676009dc687411",
-      "size": 52889,
-      "overwrite": false
-    },
-    {
-      "path": "config/fancymenu/menu_identifiers.db",
-      "sha1": "c4ffbfdf7e6bc0e711bd5ee8b59751d9b3c218b6",
-      "size": 10497,
-      "overwrite": false
-    },
-    {
-      "path": "config/fancymenu/minecraftwindow/icons/icon16x16.png",
-      "sha1": "f18454a6bfcfbc41815dcca9aac72c31f0adbf9d",
-      "size": 2613,
-      "overwrite": false
-    },
-    {
-      "path": "config/fancymenu/minecraftwindow/icons/icon32x32.png",
-      "sha1": "4d8b98e6593d12263e7e3fad23ee6cd3480d16bb",
-      "size": 4802,
-      "overwrite": false
-    },
-    {
-      "path": "config/fancymenu/options.txt",
-      "sha1": "22862b7a5d11d2b0ee465bb5a8d81b46f7d83a35",
-      "size": 4587,
-      "overwrite": false
-    },
-    {
-      "path": "config/fancymenu/panoramas/betterminecraftpanorama/panorama/panorama_0.png",
-      "sha1": "425c79e358e306f2657f89ccaadea9151a9e3791",
-      "size": 4026217,
-      "overwrite": false
-    },
-    {
-      "path": "config/fancymenu/panoramas/betterminecraftpanorama/panorama/panorama_1.png",
-      "sha1": "69feef896c392c02977ba766a762dee5671d8113",
-      "size": 4695098,
-      "overwrite": false
-    },
-    {
-      "path": "config/fancymenu/panoramas/betterminecraftpanorama/panorama/panorama_2.png",
-      "sha1": "3d1f5a10ce3a9439c038d625d33f35a6cfeed7fa",
-      "size": 4467841,
-      "overwrite": false
-    },
-    {
-      "path": "config/fancymenu/panoramas/betterminecraftpanorama/panorama/panorama_3.png",
-      "sha1": "5627f98adc3601bf475d06989a3611d43ea782da",
-      "size": 3956899,
-      "overwrite": false
-    },
-    {
-      "path": "config/fancymenu/panoramas/betterminecraftpanorama/panorama/panorama_4.png",
-      "sha1": "884532a24d0690a48172b5cb353706a44554913b",
-      "size": 3435033,
-      "overwrite": false
-    },
-    {
-      "path": "config/fancymenu/panoramas/betterminecraftpanorama/panorama/panorama_5.png",
-      "sha1": "48abac6e33bf4d1c7c406344a996b68131da7db3",
-      "size": 4874964,
-      "overwrite": false
-    },
-    {
-      "path": "config/fancymenu/panoramas/betterminecraftpanorama/properties.txt",
-      "sha1": "b7a1b6ead4048bc87a72894b937916a50720abef",
-      "size": 114,
-      "overwrite": false
-    },
-    {
-      "path": "config/fancymenu/ui_themes/cherry_blossom.json",
-      "sha1": "9a453a566f041ddbc39e17918acdac90f6eaed38",
-      "size": 9349,
-      "overwrite": false
-    },
-    {
-      "path": "config/fancymenu/ui_themes/cozy_campfire.json",
-      "sha1": "e7fbd4e11f3e969d20d7c713e61fa6d6cedd077e",
-      "size": 9347,
-      "overwrite": false
-    },
-    {
-      "path": "config/fancymenu/ui_themes/dark.json",
-      "sha1": "b8793f498fc95000ab68a7d6b45d8575ad45d558",
-      "size": 9329,
-      "overwrite": false
-    },
-    {
-      "path": "config/fancymenu/ui_themes/dark_high_contrast.json",
-      "sha1": "9583fa877b286337557aae3429f91d66682091b7",
-      "size": 9359,
-      "overwrite": false
-    },
-    {
-      "path": "config/fancymenu/ui_themes/light.json",
-      "sha1": "5b9e9bc9d4d683584c919bcdae3b75581ae42f60",
-      "size": 9331,
-      "overwrite": false
-    },
-    {
-      "path": "config/fancymenu/ui_themes/light_high_contrast.json",
-      "sha1": "8a290f6e1a0bdf2be972878e1c134a0c31f4a069",
-      "size": 9361,
-      "overwrite": false
-    },
-    {
-      "path": "config/fancymenu/ui_themes/pumpkin_soup.json",
-      "sha1": "39c96a61bdeb936b151e38d0050b70abb78e3620",
-      "size": 9345,
-      "overwrite": false
-    },
-    {
-      "path": "config/fancymenu/ui_themes/purple_void.json",
-      "sha1": "9e38ca299adfe6ab2ad331c6adb80e26ff823da8",
-      "size": 9343,
-      "overwrite": false
-    },
-    {
-      "path": "config/fancymenu/ui_themes/spooky_season.json",
-      "sha1": "9fa05d2794bdec26dee5224075c98bd7da9c1a0d",
-      "size": 9347,
-      "overwrite": false
-    },
-    {
-      "path": "config/fancymenu/user_variables.db",
-      "sha1": "b41f9d7688944b0d96eaa089a5a5bb74af28d258",
-      "size": 23,
-      "overwrite": false
-    },
-    {
-      "path": "config/fancytabsections-client.toml",
-      "sha1": "045da91a4f7306d0389b6e06bfb2ee12938019c9",
-      "size": 23,
       "overwrite": false
     },
     {
@@ -2538,12 +744,6 @@
       "overwrite": false
     },
     {
-      "path": "config/farsight.json",
-      "sha1": "9b0b45ae2e9cc7f07609e3a73d238807fb8f2a8b",
-      "size": 922,
-      "overwrite": false
-    },
-    {
       "path": "config/fasterladderclimbing-client.toml",
       "sha1": "3fbca49e1caac7d72edc9b86b6005a83c49082dd",
       "size": 362,
@@ -2574,24 +774,6 @@
       "overwrite": false
     },
     {
-      "path": "config/fixedanvilrepaircost.json5",
-      "sha1": "2664d5101c42b87305bf6a8256d37a301d58bb89",
-      "size": 495,
-      "overwrite": false
-    },
-    {
-      "path": "config/flerovium.json",
-      "sha1": "2d5f9410dcb10b99a28770bf57181f7464eea5b3",
-      "size": 168,
-      "overwrite": false
-    },
-    {
-      "path": "config/fluidium.json",
-      "sha1": "ad1cd383f1e2cce38c4d7052f8b85dcf7631fd8f",
-      "size": 190,
-      "overwrite": false
-    },
-    {
       "path": "config/flywheel-client.toml",
       "sha1": "16e17067e3426d88c81a69d39e7afa6a0bed9c48",
       "size": 637,
@@ -2601,24 +783,6 @@
       "path": "config/fml.toml",
       "sha1": "e1a94ae50a372486b50165a3c0389566581e9928",
       "size": 1538,
-      "overwrite": false
-    },
-    {
-      "path": "config/foolproof-common.toml",
-      "sha1": "f5c81cc23b528bb4fed7d30659bd4849afe18fec",
-      "size": 63,
-      "overwrite": false
-    },
-    {
-      "path": "config/formationsnether/structure_placement_config.json5",
-      "sha1": "16db8c8bb7d694d1f1e1816528fa8b4ae0e5558e",
-      "size": 268,
-      "overwrite": false
-    },
-    {
-      "path": "config/formationsnether/structure_toggle_config.json5",
-      "sha1": "203c69bdd955605276a3f9e452e6ad10411881b6",
-      "size": 643,
       "overwrite": false
     },
     {
@@ -2634,168 +798,6 @@
       "overwrite": false
     },
     {
-      "path": "config/friendsandfoes.json",
-      "sha1": "2d10f44d72a93d26d616065c8731ce80ab037fdd",
-      "size": 2309,
-      "overwrite": false
-    },
-    {
-      "path": "config/friendsandfoes/structure_placement_config.json5",
-      "sha1": "0ccbf85567f07769b69c41925efc02310eadd688",
-      "size": 383,
-      "overwrite": false
-    },
-    {
-      "path": "config/friendsandfoes/structure_toggle_config.json5",
-      "sha1": "dd5eafd734cea413eb70242b8daf2897e435d358",
-      "size": 265,
-      "overwrite": false
-    },
-    {
-      "path": "config/ftblibrary-client.snbt",
-      "sha1": "bac4242bdb78bf149e49b183df54c52b490b3851",
-      "size": 1746,
-      "overwrite": false
-    },
-    {
-      "path": "config/ftbquests-client.snbt",
-      "sha1": "9e7b8a4ffa0df3726e1c59c699b4e2d330357d8c",
-      "size": 1550,
-      "overwrite": false
-    },
-    {
-      "path": "config/ftbquests/quests/chapter_groups.snbt",
-      "sha1": "3e2b640ce0781bcc8b526e925c4f827710491b25",
-      "size": 90,
-      "overwrite": false
-    },
-    {
-      "path": "config/ftbquests/quests/chapters/7dragons.snbt",
-      "sha1": "beeca169b9762bfa31a4973229a4370082219200",
-      "size": 6456,
-      "overwrite": false
-    },
-    {
-      "path": "config/ftbquests/quests/chapters/avillagers.snbt",
-      "sha1": "9a5b098a9383b9e7c8883b242188b0d01493e3ad",
-      "size": 4415,
-      "overwrite": false
-    },
-    {
-      "path": "config/ftbquests/quests/chapters/decoration.snbt",
-      "sha1": "b71b48ec03f9f1705417511b3db4d7f0a7129a8d",
-      "size": 5523,
-      "overwrite": false
-    },
-    {
-      "path": "config/ftbquests/quests/chapters/deeper_and_darker.snbt",
-      "sha1": "a9f94eb62f7b0f5cf62f3ff06c1219c6ff37aa9a",
-      "size": 3771,
-      "overwrite": false
-    },
-    {
-      "path": "config/ftbquests/quests/chapters/fishing.snbt",
-      "sha1": "623004d01933f8bb346c6b9e72d63f0cab5d01d1",
-      "size": 5150,
-      "overwrite": false
-    },
-    {
-      "path": "config/ftbquests/quests/chapters/oddities.snbt",
-      "sha1": "b4b0eef8e5095f9da54b6e6329949aeccc804ca6",
-      "size": 13329,
-      "overwrite": false
-    },
-    {
-      "path": "config/ftbquests/quests/chapters/overworld.snbt",
-      "sha1": "7317d89dbe56effb521f0ad340d00c3db8014906",
-      "size": 6551,
-      "overwrite": false
-    },
-    {
-      "path": "config/ftbquests/quests/chapters/storage.snbt",
-      "sha1": "5d865712bacc756e04a34c005a21fd8e3c825070",
-      "size": 3712,
-      "overwrite": false
-    },
-    {
-      "path": "config/ftbquests/quests/chapters/the_aether.snbt",
-      "sha1": "e6b1e1b5c26cce18df18dcdd2654d52e26f37486",
-      "size": 5678,
-      "overwrite": false
-    },
-    {
-      "path": "config/ftbquests/quests/chapters/the_end.snbt",
-      "sha1": "2fd821f187ecc2bb2104278ef0d612c9ae6fe82f",
-      "size": 2689,
-      "overwrite": false
-    },
-    {
-      "path": "config/ftbquests/quests/chapters/the_nether.snbt",
-      "sha1": "f72c252439d7ac51f946b89f76d1fde0bff9da3b",
-      "size": 2609,
-      "overwrite": false
-    },
-    {
-      "path": "config/ftbquests/quests/chapters/the_twilight_forest.snbt",
-      "sha1": "f8ed70a55d9ad32fb60de197aa20e81e8f267c62",
-      "size": 5512,
-      "overwrite": false
-    },
-    {
-      "path": "config/ftbquests/quests/chapters/welcome_to_bmc_forge_1192.snbt",
-      "sha1": "b4f45151d043186706b31addb2c81e9acc95ffa9",
-      "size": 3268,
-      "overwrite": false
-    },
-    {
-      "path": "config/ftbquests/quests/data.snbt",
-      "sha1": "c53b67c245d0d1057151eeb781ffe94181c9115e",
-      "size": 747,
-      "overwrite": false
-    },
-    {
-      "path": "config/ftbquests/quests/lang/en_us.snbt",
-      "sha1": "44d9bc688549166134e7e392026f06482f03941d",
-      "size": 41143,
-      "overwrite": false
-    },
-    {
-      "path": "config/ftbquests/quests/lang/ru_ru.snbt",
-      "sha1": "53e0d91d510707d3e217a1bdd420909792fca194",
-      "size": 51926,
-      "overwrite": false
-    },
-    {
-      "path": "config/ftbquests/quests/reward_tables/12eea057c51b1d44.snbt",
-      "sha1": "0491796add5f0c846f467ec514ce76ecae627377",
-      "size": 380,
-      "overwrite": false
-    },
-    {
-      "path": "config/ftbquests/quests/reward_tables/57d8be65bcfb571b.snbt",
-      "sha1": "580592e0fcefc853736596d4351d37aae5be8aa3",
-      "size": 560,
-      "overwrite": false
-    },
-    {
-      "path": "config/ftbquests/quests/reward_tables/end_quest.snbt",
-      "sha1": "1c16f8ccaf08c3829562593292c4d658a61accc7",
-      "size": 309,
-      "overwrite": false
-    },
-    {
-      "path": "config/ftbteams-server.snbt",
-      "sha1": "d7f7b121c0b1511fea41fedefcd9094c577f1604",
-      "size": 1112,
-      "overwrite": false
-    },
-    {
-      "path": "config/ftbxmodcompat.snbt",
-      "sha1": "4a2152dd17a36c2bdf1c7f8834eec522ffc31646",
-      "size": 880,
-      "overwrite": false
-    },
-    {
       "path": "config/fzzy_config/keybinds.toml",
       "sha1": "f808afa706d9a4934612b20e1efd513416a0e8f1",
       "size": 6403,
@@ -2805,12 +807,6 @@
       "path": "config/fzzy_config/search.toml",
       "sha1": "7945b3ffa5df1b605d8e4bc2c55c91ade1ce34af",
       "size": 510,
-      "overwrite": false
-    },
-    {
-      "path": "config/global_data_and_resourcepacks.toml",
-      "sha1": "2194e418cc346dace75c5ed8a5519a317018f9dc",
-      "size": 1052,
       "overwrite": false
     },
     {
@@ -2833,26 +829,14 @@
     },
     {
       "path": "config/guardvillagers-common.toml",
-      "sha1": "179a57dc70770f742cecba95e1705557dc80cd86",
-      "size": 6189,
+      "sha1": "04ac365b9a72a8b3835b49677ba27c4b0f6242c0",
+      "size": 6085,
       "overwrite": false
     },
     {
       "path": "config/guardvillagers-startup.toml",
-      "sha1": "5d2a583ff1d647c6eb1dbcb1586c7e3ad5ecdfb6",
-      "size": 195,
-      "overwrite": false
-    },
-    {
-      "path": "config/hearths/structure_placement_config.json5",
-      "sha1": "a468831e5c4f4a3c8c0e7efac9bfd7d12003973e",
-      "size": 205,
-      "overwrite": false
-    },
-    {
-      "path": "config/hearths/structure_toggle_config.json5",
-      "sha1": "bbeea24580aace6b8e21b84c178eac3536c5b56e",
-      "size": 169,
+      "sha1": "e46a52248c8c6dc1fced4ad4d17c55be49f09746",
+      "size": 186,
       "overwrite": false
     },
     {
@@ -2865,12 +849,6 @@
       "path": "config/hellish_trials/structure_toggle_config.json5",
       "sha1": "885b1ac029d911b6d10c82b984ef85054a3405c6",
       "size": 97,
-      "overwrite": false
-    },
-    {
-      "path": "config/highlighter.toml",
-      "sha1": "56699c543d86b187014926836e27f94a6b339440",
-      "size": 716,
       "overwrite": false
     },
     {
@@ -2911,8 +889,8 @@
     },
     {
       "path": "config/iceandfire/iaf-common.json",
-      "sha1": "0475644eedfe49ae126c75889bf4333eb077355c",
-      "size": 4703,
+      "sha1": "787e53f3e4d4f811c189206743dc04eb93a97884",
+      "size": 4705,
       "overwrite": false
     },
     {
@@ -3043,44 +1021,14 @@
     },
     {
       "path": "config/immersive_optimization.json",
-      "sha1": "7087f9ff0116afe5b7dc40e532c02955ef5149a3",
-      "size": 1007,
+      "sha1": "f143231f528693f5da31a9317a055d59eb5b51f7",
+      "size": 1087,
       "overwrite": false
     },
     {
       "path": "config/immersivearmorhud-client.toml",
       "sha1": "82f13e797fa62e7dddda1864d48bc8016f3b6ce2",
       "size": 265,
-      "overwrite": false
-    },
-    {
-      "path": "config/immersivelanterns-client.toml",
-      "sha1": "76d3ca3b9260bdb18432f818ec59d39718ffb833",
-      "size": 501,
-      "overwrite": false
-    },
-    {
-      "path": "config/immersivemessages-client.toml",
-      "sha1": "453ea0e3938a8c70f30ff4c60ec6c9ffa8aa7c02",
-      "size": 277,
-      "overwrite": false
-    },
-    {
-      "path": "config/immersivetips-client.toml",
-      "sha1": "1986a48f62576735f376007f554ac38180920b10",
-      "size": 726,
-      "overwrite": false
-    },
-    {
-      "path": "config/improved_village_placement.json",
-      "sha1": "794041ae692c93b8d7c52605ac8176ec0975ed4c",
-      "size": 132,
-      "overwrite": false
-    },
-    {
-      "path": "config/inmis.json",
-      "sha1": "6f538e68c7a848b50bc46e1557135a5619dc176d",
-      "size": 2104,
       "overwrite": false
     },
     {
@@ -3093,30 +1041,6 @@
       "path": "config/insanelib/common.toml",
       "sha1": "68f6912c813ee1acf1a5b4bf7bc318b8db941485",
       "size": 4800,
-      "overwrite": false
-    },
-    {
-      "path": "config/inventoryhud-client.toml",
-      "sha1": "5720b88b82377b3ec33e7cb4b23ff5ea28512f6b",
-      "size": 5995,
-      "overwrite": false
-    },
-    {
-      "path": "config/inventoryhud.json",
-      "sha1": "f9accbb5aa2c367f7e5f72dfa399af946f0f0718",
-      "size": 1772,
-      "overwrite": false
-    },
-    {
-      "path": "config/InventoryHUD/curios.json",
-      "sha1": "8912a60b7c8fe5adc5fbf6157ce16d831b5d7b20",
-      "size": 2455,
-      "overwrite": false
-    },
-    {
-      "path": "config/InventoryHUD/trinkets.json",
-      "sha1": "2666553854724f85e863f4dc2da85e86ebdf1376",
-      "size": 857,
       "overwrite": false
     },
     {
@@ -3139,20 +1063,14 @@
     },
     {
       "path": "config/iris.properties",
-      "sha1": "ef195b75786a39084f6a03096ec939fe98b8fd7e",
-      "size": 295,
+      "sha1": "e9535a42271c0db8c6fdcab68bf3a964ad1bed20",
+      "size": 306,
       "overwrite": false
     },
     {
       "path": "config/iris_shader_folder.properties",
       "sha1": "d0146136ed7763d0647b7e3fb8a58161b4a0bf38",
       "size": 6266,
-      "overwrite": false
-    },
-    {
-      "path": "config/irisSearchSettings.toml",
-      "sha1": "3deadaff55c5c040bb9725d713f2df4ce7a88dd9",
-      "size": 529,
       "overwrite": false
     },
     {
@@ -3211,8 +1129,8 @@
     },
     {
       "path": "config/jade/sort-order.json",
-      "sha1": "af8d2d1428615c10ab1e08a8e0003db2fc53412c",
-      "size": 2874,
+      "sha1": "8ccbeec34a084de902f3bb2308085d4417ad9be4",
+      "size": 2929,
       "overwrite": false
     },
     {
@@ -3229,8 +1147,8 @@
     },
     {
       "path": "config/jei/blacklist.json",
-      "sha1": "3ec01ba59b45de07d55927d2266ae0a5b7036927",
-      "size": 2266,
+      "sha1": "f621f2b7ef5a53a8fa855fb962d126e81826c94e",
+      "size": 211,
       "overwrite": false
     },
     {
@@ -3276,75 +1194,9 @@
       "overwrite": false
     },
     {
-      "path": "config/jei/world/local/New_World__1/bookmarks.json",
-      "sha1": "a8a4458dce77bc89e82e71719ad2cc14b2739d39",
-      "size": 19,
-      "overwrite": false
-    },
-    {
-      "path": "config/jei/world/local/New_World__1/lookupHistory.json",
-      "sha1": "adae322c0e360616d7c58e69fd9220d912946135",
-      "size": 1330,
-      "overwrite": false
-    },
-    {
-      "path": "config/jei/world/local/New_World__15/bookmarks.json",
-      "sha1": "a8a4458dce77bc89e82e71719ad2cc14b2739d39",
-      "size": 19,
-      "overwrite": false
-    },
-    {
-      "path": "config/jei/world/local/New_World__21/bookmarks.json",
-      "sha1": "e6fea939668e62d191a233c5c81b938aa4a67daf",
-      "size": 113,
-      "overwrite": false
-    },
-    {
-      "path": "config/jei/world/local/New_World__25/bookmarks.json",
-      "sha1": "be6c2a52f0bd476993b94857b2edd021ec6f76c9",
-      "size": 117,
-      "overwrite": false
-    },
-    {
-      "path": "config/jei/world/local/New_World__37/lookupHistory.json",
-      "sha1": "b5cffa4c712bf7260d01ea18753ed9ebd764faa9",
-      "size": 414,
-      "overwrite": false
-    },
-    {
-      "path": "config/jei/world/local/New_World__43/lookupHistory.json",
-      "sha1": "a08bb477170b176d166e5b4cdaca7de73b9d71bc",
-      "size": 1076,
-      "overwrite": false
-    },
-    {
-      "path": "config/jei/world/local/New_World__45/lookupHistory.json",
-      "sha1": "89b88e626f593511b2e1bb246ab8333744b94eea",
-      "size": 210,
-      "overwrite": false
-    },
-    {
-      "path": "config/jei/world/local/New_World__46/lookupHistory.json",
-      "sha1": "08d5db05050b93313a5619cb8bb5597a04ea94c4",
-      "size": 125,
-      "overwrite": false
-    },
-    {
-      "path": "config/jei/world/local/New_World__48/lookupHistory.json",
-      "sha1": "d796dd25ebe80674db3b8bca643cec1e6bfd7ee4",
-      "size": 404,
-      "overwrite": false
-    },
-    {
       "path": "config/jupiter.json",
       "sha1": "41523a49fbd84a019751ab03e7edfa74544c41a8",
       "size": 171,
-      "overwrite": false
-    },
-    {
-      "path": "config/justenoughbreeding-offsets.json",
-      "sha1": "0d7677cfc1fc4e7c3fdce9a116f51c3c3cda21c4",
-      "size": 2961,
       "overwrite": false
     },
     {
@@ -3369,12 +1221,6 @@
       "path": "config/kiwi-common.yaml",
       "sha1": "275766ed08098df182b5540fbe8c5da8845e06ca",
       "size": 135,
-      "overwrite": false
-    },
-    {
-      "path": "config/kleeslabs-common.toml",
-      "sha1": "f6a0979d94411a54d869af4445713d46afd1e2b2",
-      "size": 386,
       "overwrite": false
     },
     {
@@ -3408,57 +1254,9 @@
       "overwrite": false
     },
     {
-      "path": "config/l2configs/l2core-client.toml",
-      "sha1": "fddc8fcf7072bb462a23673071c8b9c8ccb544b6",
-      "size": 175,
-      "overwrite": false
-    },
-    {
       "path": "config/lambdynlights.toml",
       "sha1": "f1802304ca2baab1cf4018c25267c203846fe7c2",
       "size": 1448,
-      "overwrite": false
-    },
-    {
-      "path": "config/leaderboards-client.json",
-      "sha1": "c447e08aaed1051055b893236acb92880ad9a192",
-      "size": 47,
-      "overwrite": false
-    },
-    {
-      "path": "config/leavemybarsalone-client.toml",
-      "sha1": "4e4dcafe37b8550ef0e1e138d44d793c97101741",
-      "size": 178,
-      "overwrite": false
-    },
-    {
-      "path": "config/leavesbegone-server.toml",
-      "sha1": "a43b30e6b300efc280eaeaed4356b5d509ad7c98",
-      "size": 442,
-      "overwrite": false
-    },
-    {
-      "path": "config/letmedespawn.json",
-      "sha1": "5552c2e1dc0a313c4b8ea66f7456f193fc6d55c9",
-      "size": 22,
-      "overwrite": false
-    },
-    {
-      "path": "config/letmesleep-client.toml",
-      "sha1": "e856028016dd364281460348524d1947ec77bbc2",
-      "size": 121,
-      "overwrite": false
-    },
-    {
-      "path": "config/letmesleep-server.toml",
-      "sha1": "82aa7c463a346192e9a801e598bdbbf14867556e",
-      "size": 2491,
-      "overwrite": false
-    },
-    {
-      "path": "config/libtooltips-client.toml",
-      "sha1": "1f9d97fff04402223e83e10b08005f33c4108fa0",
-      "size": 192,
       "overwrite": false
     },
     {
@@ -3606,24 +1404,6 @@
       "overwrite": false
     },
     {
-      "path": "config/loadingprotection-common.toml",
-      "sha1": "3e504185a65fae1d3f0538b11ae57bad4af9b082",
-      "size": 272,
-      "overwrite": false
-    },
-    {
-      "path": "config/lodestone-client.toml",
-      "sha1": "9ba4f131b02a7c4d3f8509c3a7701ffbfec9312f",
-      "size": 925,
-      "overwrite": false
-    },
-    {
-      "path": "config/logbegone.json",
-      "sha1": "4df918ba73adbeb4015703de6887a0bf3346b536",
-      "size": 967,
-      "overwrite": false
-    },
-    {
       "path": "config/longnbtkiller-common.toml",
       "sha1": "42a03fda91a425338ff1d33e600a6b3c70b17c46",
       "size": 63,
@@ -3636,27 +1416,9 @@
       "overwrite": false
     },
     {
-      "path": "config/LunaPixelStudios",
-      "sha1": "0e3c0cb3cbd37c3b6d8d65ffc358b143c7d3dc6d",
-      "size": 164,
-      "overwrite": false
-    },
-    {
-      "path": "config/magnumtorch-server.toml",
-      "sha1": "f1fd5e385e12002ae27868cebae30f1686f425ca",
-      "size": 10066,
-      "overwrite": false
-    },
-    {
       "path": "config/mc2_interactivefoliage.json",
       "sha1": "d151662551c111266c9a1dfff04375f092f256e9",
       "size": 236,
-      "overwrite": false
-    },
-    {
-      "path": "config/memorysettings.json",
-      "sha1": "cffe254b8900ff933c40a93c62eb959ad25f0e1d",
-      "size": 2567,
       "overwrite": false
     },
     {
@@ -3675,48 +1437,6 @@
       "path": "config/mes/structure_toggle_config.json5",
       "sha1": "6c7dc9c110a301b21cc6415dc23f8ce4c7fa05a4",
       "size": 1371,
-      "overwrite": false
-    },
-    {
-      "path": "config/midnightlib.json",
-      "sha1": "ef717d24a45baf1406cd1c5600b176cb8b3cb2db",
-      "size": 37,
-      "overwrite": false
-    },
-    {
-      "path": "config/misctweaks-client.toml",
-      "sha1": "9e747a304185f7c5d58c2bbbb68d109767bdbb09",
-      "size": 52,
-      "overwrite": false
-    },
-    {
-      "path": "config/misctweaks-server.toml",
-      "sha1": "b519f24cea0ac370e1029a8f354b9ddd359550eb",
-      "size": 411,
-      "overwrite": false
-    },
-    {
-      "path": "config/misctweaks/client_config.toml",
-      "sha1": "e1fbda2e749a293d6e2b77047f554a04afb3b4ff",
-      "size": 140,
-      "overwrite": false
-    },
-    {
-      "path": "config/misctweaks/config.toml",
-      "sha1": "4f06effab9876edbdaf93c0eadfbc8e3ac625faf",
-      "size": 10367,
-      "overwrite": false
-    },
-    {
-      "path": "config/mmv/structure_placement_config.json5",
-      "sha1": "c58f92458d8a165d5f7ae7ee70ccc1d7803ee6a6",
-      "size": 123,
-      "overwrite": false
-    },
-    {
-      "path": "config/mmv/structure_toggle_config.json5",
-      "sha1": "daf0fed58528def943abe1cf3e2467a1354979d3",
-      "size": 116,
       "overwrite": false
     },
     {
@@ -3739,32 +1459,14 @@
     },
     {
       "path": "config/modernfix-common.toml",
-      "sha1": "84439141a9dbc2f96212967ea8437d420d8d9c8e",
-      "size": 105,
+      "sha1": "00faa9694b0e2656156630f031004fb2419888ea",
+      "size": 88,
       "overwrite": false
     },
     {
       "path": "config/modernfix-mixins.properties",
-      "sha1": "13dca851c84945469911fac7bf322f65dad2e73b",
-      "size": 5615,
-      "overwrite": false
-    },
-    {
-      "path": "config/modpack-update-checker-info.txt",
-      "sha1": "3b8337c045ce710cc2eddcea99edcc00c32045b5",
-      "size": 654,
-      "overwrite": false
-    },
-    {
-      "path": "config/modpack-update-checker/config.json",
-      "sha1": "d73e014e2ce5296072f1f4fc0caf140885e61502",
-      "size": 432,
-      "overwrite": false
-    },
-    {
-      "path": "config/modpack-update-checker/modpack-info.txt",
-      "sha1": "3b8337c045ce710cc2eddcea99edcc00c32045b5",
-      "size": 654,
+      "sha1": "ab1c8b3510f9c38a32d89b01962289dbdeced164",
+      "size": 5663,
       "overwrite": false
     },
     {
@@ -3798,12 +1500,6 @@
       "overwrite": false
     },
     {
-      "path": "config/morevillagers-common.toml",
-      "sha1": "adec08522bf68adecee7bd6be4b9761a98290067",
-      "size": 1050,
-      "overwrite": false
-    },
-    {
       "path": "config/MouseTweaks.cfg",
       "sha1": "b07180269529a52fe4dc3b448d8314d38776750d",
       "size": 143,
@@ -3817,8 +1513,8 @@
     },
     {
       "path": "config/mowziesmobs-common.toml",
-      "sha1": "23b03e06a971e96ffc9acee773402acb029e7956",
-      "size": 37796,
+      "sha1": "4ea10743975acfb048fb2a4c16c1c8626ebdbb0a",
+      "size": 36883,
       "overwrite": false
     },
     {
@@ -3918,18 +1614,6 @@
       "overwrite": false
     },
     {
-      "path": "config/mr_dungeons_andtavernsswamphutoverhaul/structure_placement_config.json5",
-      "sha1": "e0ff8b8ca3a10e55d8d0480efd6fc81e72b93ff7",
-      "size": 123,
-      "overwrite": false
-    },
-    {
-      "path": "config/mr_dungeons_andtavernsswamphutoverhaul/structure_toggle_config.json5",
-      "sha1": "16c098fbbc3e3b1275c80827cdcad3c2d88166ab",
-      "size": 88,
-      "overwrite": false
-    },
-    {
       "path": "config/mr_dungeons_andtavernswoodlandmansionreplacement/structure_placement_config.json5",
       "sha1": "bad80820ac1547bbd0a1d5c40970ca174ada7d83",
       "size": 211,
@@ -3951,30 +1635,6 @@
       "path": "config/mutantmonsters-server.toml",
       "sha1": "2bee2a13266de8ac318d85ad00142d551cedff52",
       "size": 1115,
-      "overwrite": false
-    },
-    {
-      "path": "config/mvs/structure_placement_config-had-error.json5",
-      "sha1": "32ade5faf6717b6beb56d9dc24414e9783404f5f",
-      "size": 9234,
-      "overwrite": false
-    },
-    {
-      "path": "config/mvs/structure_placement_config.json5",
-      "sha1": "e82ee6a4c4c1a73b1a1b8e83f124feb9520621c5",
-      "size": 9435,
-      "overwrite": false
-    },
-    {
-      "path": "config/mvs/structure_toggle_config-had-error.json5",
-      "sha1": "860c076622e872e10fdcc0f157916e885b7aaf80",
-      "size": 5753,
-      "overwrite": false
-    },
-    {
-      "path": "config/mvs/structure_toggle_config.json5",
-      "sha1": "e940a39f2bbb6aa82a3334619cec96791f361595",
-      "size": 5976,
       "overwrite": false
     },
     {
@@ -4014,12 +1674,6 @@
       "overwrite": false
     },
     {
-      "path": "config/necronomicon.json5",
-      "sha1": "42bfe83b066c63e4d14a9e41f8450331fb62f242",
-      "size": 282,
-      "overwrite": false
-    },
-    {
       "path": "config/neoforge-client.toml",
       "sha1": "b51515abb0c65a891514baffb4c78d2357ecd1ed",
       "size": 578,
@@ -4050,51 +1704,9 @@
       "overwrite": false
     },
     {
-      "path": "config/neruina.json",
-      "sha1": "fa31125e087dbabbe6feee446ca908ae9fdf1752",
-      "size": 349,
-      "overwrite": false
-    },
-    {
       "path": "config/neruina.json5",
       "sha1": "63e3b795d076798a22ab3d735e32d990e106db68",
       "size": 352,
-      "overwrite": false
-    },
-    {
-      "path": "config/netherchested-server.toml",
-      "sha1": "f8e9db794d6367e3a290748d47cdd1a97ad734d1",
-      "size": 400,
-      "overwrite": false
-    },
-    {
-      "path": "config/NoChatReports/NCR-Client.json",
-      "sha1": "6e5e984944d93359a454e53525ebeb93b541e441",
-      "size": 569,
-      "overwrite": false
-    },
-    {
-      "path": "config/NoChatReports/NCR-Common.json",
-      "sha1": "6a83c8b806b818ae23a1976baa52bfc30436206a",
-      "size": 230,
-      "overwrite": false
-    },
-    {
-      "path": "config/NoChatReports/NCR-Encryption.json",
-      "sha1": "62b7079e1e4c725057b2f4daaae4c523de74ce36",
-      "size": 521,
-      "overwrite": false
-    },
-    {
-      "path": "config/NoChatReports/NCR-ServerPreferences.json",
-      "sha1": "3c04f45c210048b5e722b294dcc0d9f073374160",
-      "size": 24,
-      "overwrite": false
-    },
-    {
-      "path": "config/NoChatReports/README.md",
-      "sha1": "75d98286a0aa3e180708523c8f582a2d23e590b3",
-      "size": 167,
       "overwrite": false
     },
     {
@@ -4107,30 +1719,6 @@
       "path": "config/nyfsspiders.toml",
       "sha1": "c062a164c0bf10613e577a8e5c5e6b03d624e915",
       "size": 189,
-      "overwrite": false
-    },
-    {
-      "path": "config/obscuria/aquamirae-client.toml",
-      "sha1": "70e475dc05b59590e303a94399d9ff88a3797bb7",
-      "size": 618,
-      "overwrite": false
-    },
-    {
-      "path": "config/obscuria/aquamirae-common.toml",
-      "sha1": "85e0dc68f1c8d11eb7accf8ea753e307753dac72",
-      "size": 5968,
-      "overwrite": false
-    },
-    {
-      "path": "config/obscuria/cache/aquamirae-keepsakes.json",
-      "sha1": "944496ad821dbd8bb381ab8a5828c5096eda2394",
-      "size": 3227,
-      "overwrite": false
-    },
-    {
-      "path": "config/openpartiesandclaims-server.toml",
-      "sha1": "85a36e3976ab043ad93229f98d3f22225ac232b2",
-      "size": 48165,
       "overwrite": false
     },
     {
@@ -4164,30 +1752,6 @@
       "overwrite": false
     },
     {
-      "path": "config/otbwgdelight-common.toml",
-      "sha1": "554cdc93f5732893379f14780ae6fdefd5f27f5a",
-      "size": 330,
-      "overwrite": false
-    },
-    {
-      "path": "config/overflowingbars-client.toml",
-      "sha1": "eee0b542786a28e5d195cd90ff4a7ffa50f257ea",
-      "size": 3869,
-      "overwrite": false
-    },
-    {
-      "path": "config/packanalytics-common.toml",
-      "sha1": "3291e0bd0a2e74fea762b17d84c99b3dc0a7e2ae",
-      "size": 262,
-      "overwrite": false
-    },
-    {
-      "path": "config/packetfixer.properties",
-      "sha1": "551bef58cf5cb6a018abc03cff80eab6eec713da",
-      "size": 493,
-      "overwrite": false
-    },
-    {
       "path": "config/particle_core_config.toml",
       "sha1": "43e6c438d51b00a097df56f6625d62bd3ce8029a",
       "size": 306,
@@ -4200,18 +1764,6 @@
       "overwrite": false
     },
     {
-      "path": "config/particle_effects-client.toml",
-      "sha1": "c2b8fbea25ff4f0a0a58fcbd6bd6de5eb14d0f78",
-      "size": 135,
-      "overwrite": false
-    },
-    {
-      "path": "config/particle_effects.json5",
-      "sha1": "d1f35575e3d5cc31b51e8e7989d8dd255e257abe",
-      "size": 25,
-      "overwrite": false
-    },
-    {
       "path": "config/particlerain/config.json",
       "sha1": "1676c71f3041cc4e42cbf5e2b53ea39be4fe5929",
       "size": 984,
@@ -4219,8 +1771,8 @@
     },
     {
       "path": "config/particular-common.toml",
-      "sha1": "4e299de6479a3c31a16ad1b420b0da4515441e65",
-      "size": 5955,
+      "sha1": "40f985dce049ce0fbb725a7d0990851463ff2f8b",
+      "size": 5794,
       "overwrite": false
     },
     {
@@ -4242,58 +1794,23 @@
       "overwrite": false
     },
     {
-      "path": "config/paxi/datapacks/AetherCompat1.0.zip",
-      "sha1": "322e139f670215e5c8ccd1fbeca343c613539d82",
-      "size": 6419,
+      "path": "config/paxi/datapacks/DLxAN_1.21.1-2.zip",
+      "sha1": "7b3591a7a0d83696aa186ea7f2686af2b3f4387a",
+      "size": 5403,
+      "url": "https://edge.forgecdn.net/files/9103/463/DLxAN_1.21.1-2.zip",
       "overwrite": false
     },
     {
-      "path": "config/paxi/datapacks/BetterEndCities-Vanilla-1.21.zip",
-      "sha1": "63957c50bf698d6be430122816b9972d3cb14dc9",
-      "size": 1454098,
+      "path": "config/paxi/datapacks/Farmer's Delight Cutting Compat 1.1 [1.21.1+].zip",
+      "sha1": "8d98e27a8c3a6a899c27b6769db0c93249639c80",
+      "size": 48712,
+      "url": "https://edge.forgecdn.net/files/8992/960/Farmer%27s%20Delight%20Cutting%20Compat%201.1%20%5b1.21.1%2b%5d.zip",
       "overwrite": false
     },
     {
-      "path": "config/paxi/datapacks/CataclysmCompat1.0.zip",
-      "sha1": "db4172ce4b5a7ee2984caf5ff18a63408ea29968",
-      "size": 5513,
-      "url": "https://edge.forgecdn.net/files/7563/666/CataclysmCompat1.0.zip",
-      "overwrite": false
-    },
-    {
-      "path": "config/paxi/datapacks/comforts_ropenail_fix.zip",
-      "sha1": "e3a59f22b9a983c94419ae798c9087bec66e8006",
-      "size": 1048,
-      "overwrite": false
-    },
-    {
-      "path": "config/paxi/datapacks/DLxAN_1.21.1.zip",
-      "sha1": "c4a5d34feee9e16fb07522d77b2aaad4758d1ecb",
-      "size": 4203,
-      "overwrite": false
-    },
-    {
-      "path": "config/paxi/datapacks/Farmer's Delight Cutting Compat 1.0.zip",
-      "sha1": "ad215d64f7551367f33d416fd90c31742db08065",
-      "size": 16782,
-      "overwrite": false
-    },
-    {
-      "path": "config/paxi/datapacks/formationsoverworldconfig.zip",
-      "sha1": "83ebda368276ad3201b78dabe08cb0a26e5518b0",
-      "size": 1296,
-      "overwrite": false
-    },
-    {
-      "path": "config/paxi/datapacks/LessStructures-SpacingTweaks-1.20.1-2.1.56.zip",
-      "sha1": "b839ad5314be09e039a5df5bb1ada7024acd98e7",
-      "size": 17787,
-      "overwrite": false
-    },
-    {
-      "path": "config/paxi/datapacks/RasFix_Cataclysm_YIGD.zip",
-      "sha1": "3b7add2e16f117c17ca799beb33ed8ed79628d8d",
-      "size": 3355,
+      "path": "config/paxi/datapacks/mirai-guardas-fortes.zip",
+      "sha1": "6e0fe6a1824f6b4bec898eb318cccd7352b9af40",
+      "size": 1375,
       "overwrite": false
     },
     {
@@ -4304,130 +1821,9 @@
       "overwrite": false
     },
     {
-      "path": "config/paxi/datapacks/Supplementaries Compat 1.0.zip",
-      "sha1": "db2a9445e94043d32eb69ba0c3dcec0ff1612adb",
-      "size": 48485,
-      "overwrite": false
-    },
-    {
-      "path": "config/paxi/datapacks/VB-MobVariantCompat1.4.1.zip",
-      "sha1": "885dfa18a220021915d0a5fc663997ccc2798641",
-      "size": 135454,
-      "url": "https://edge.forgecdn.net/files/7326/870/VB-MobVariantCompat1.4.1.zip",
-      "overwrite": false
-    },
-    {
-      "path": "config/paxi/datapacks/WDA-NoFlyingStructures-1.18.2-1.19.2.zip",
-      "sha1": "2d1f1a3891a582a40910787435331e1baa478e6f",
-      "size": 18424,
-      "overwrite": false
-    },
-    {
-      "path": "config/paxi/datapacks/WDA-VanillaLoot-1.18.2-1.19.2-0.0.1.zip",
-      "sha1": "32eb1fa6153cb0fae6ddac162d6d92d02123afbf",
-      "size": 107783,
-      "overwrite": false
-    },
-    {
       "path": "config/paxi/resourcepack_load_order.json",
       "sha1": "453b1c116c863853303db600215cec1e7bd1a0d2",
       "size": 23,
-      "overwrite": false
-    },
-    {
-      "path": "config/paxi/resourcepacks/Better_MC/assets/minecraft/textures/gui/accessibility.png",
-      "sha1": "cf64c1484efbedf735317b8380ed6164c48d93a2",
-      "size": 650,
-      "overwrite": false
-    },
-    {
-      "path": "config/paxi/resourcepacks/Better_MC/assets/minecraft/textures/gui/report_button.png",
-      "sha1": "364733cea03028cb93d5ed0f1c661a475756c1cd",
-      "size": 826,
-      "overwrite": false
-    },
-    {
-      "path": "config/paxi/resourcepacks/Better_MC/assets/minecraft/textures/gui/slider.png",
-      "sha1": "bbec434eeb40608b838443fdcd8327d57d00d2b9",
-      "size": 924,
-      "overwrite": false
-    },
-    {
-      "path": "config/paxi/resourcepacks/Better_MC/assets/minecraft/textures/gui/title/background/panorama_0.png",
-      "sha1": "425c79e358e306f2657f89ccaadea9151a9e3791",
-      "size": 4026217,
-      "overwrite": false
-    },
-    {
-      "path": "config/paxi/resourcepacks/Better_MC/assets/minecraft/textures/gui/title/background/panorama_1.png",
-      "sha1": "69feef896c392c02977ba766a762dee5671d8113",
-      "size": 4695098,
-      "overwrite": false
-    },
-    {
-      "path": "config/paxi/resourcepacks/Better_MC/assets/minecraft/textures/gui/title/background/panorama_2.png",
-      "sha1": "3d1f5a10ce3a9439c038d625d33f35a6cfeed7fa",
-      "size": 4467841,
-      "overwrite": false
-    },
-    {
-      "path": "config/paxi/resourcepacks/Better_MC/assets/minecraft/textures/gui/title/background/panorama_3.png",
-      "sha1": "5627f98adc3601bf475d06989a3611d43ea782da",
-      "size": 3956899,
-      "overwrite": false
-    },
-    {
-      "path": "config/paxi/resourcepacks/Better_MC/assets/minecraft/textures/gui/title/background/panorama_4.png",
-      "sha1": "884532a24d0690a48172b5cb353706a44554913b",
-      "size": 3435033,
-      "overwrite": false
-    },
-    {
-      "path": "config/paxi/resourcepacks/Better_MC/assets/minecraft/textures/gui/title/background/panorama_5.png",
-      "sha1": "48abac6e33bf4d1c7c406344a996b68131da7db3",
-      "size": 4874964,
-      "overwrite": false
-    },
-    {
-      "path": "config/paxi/resourcepacks/Better_MC/assets/minecraft/textures/gui/toasts.png",
-      "sha1": "1bb139d0395b7f4ef1c4e39f8149aea79c4d3cd9",
-      "size": 2342,
-      "overwrite": false
-    },
-    {
-      "path": "config/paxi/resourcepacks/Better_MC/assets/minecraft/textures/gui/widgets.png",
-      "sha1": "52cbada9f920f2bf1be9430cbb85c3da3d9a8c18",
-      "size": 4905,
-      "overwrite": false
-    },
-    {
-      "path": "config/paxi/resourcepacks/Better_MC/License.txt",
-      "sha1": "2c74e0b1ed2df77f45252398002de8d2ad8f5f08",
-      "size": 312,
-      "overwrite": false
-    },
-    {
-      "path": "config/paxi/resourcepacks/Better_MC/pack.mcmeta",
-      "sha1": "2bee441fd890ee97451dafe30052b11b746065f5",
-      "size": 84,
-      "overwrite": false
-    },
-    {
-      "path": "config/paxi/resourcepacks/Better_MC/pack.png",
-      "sha1": "fabb26130719911135545f8f54ceb783e848f30b",
-      "size": 50998,
-      "overwrite": false
-    },
-    {
-      "path": "config/pickupnotifier/pickupnotifier-client.toml",
-      "sha1": "9d0ff551f71c58b5fe12068c446e8c85a7b5019c",
-      "size": 3614,
-      "overwrite": false
-    },
-    {
-      "path": "config/pickupnotifier/pickupnotifier-server.toml",
-      "sha1": "6c39d279d84ac10708e8ef7b85ca32730c9d4228",
-      "size": 505,
       "overwrite": false
     },
     {
@@ -4491,12 +1887,6 @@
       "overwrite": false
     },
     {
-      "path": "config/proplacer-client.toml",
-      "sha1": "a0a9e84262b61ec704b5823f72be4d932d87288d",
-      "size": 1478,
-      "overwrite": false
-    },
-    {
       "path": "config/raided-common.toml",
       "sha1": "55b3d4f16601322ab4575ac1b3c7a92aca4dae83",
       "size": 814,
@@ -4539,12 +1929,6 @@
       "overwrite": false
     },
     {
-      "path": "config/resourcepackoverrides.json",
-      "sha1": "773eb76dd0bf9833d6f303c147ddc2f8a1cb767d",
-      "size": 4018,
-      "overwrite": false
-    },
-    {
       "path": "config/responsive-shields.toml",
       "sha1": "537387c72bbc02bb7a1e47c1c9dbb981654abc83",
       "size": 389,
@@ -4563,21 +1947,9 @@
       "overwrite": false
     },
     {
-      "path": "config/rewithered/config.toml",
-      "sha1": "baaad7e3ba3f7a84e8ccad156c92347c031bf9a7",
-      "size": 518,
-      "overwrite": false
-    },
-    {
       "path": "config/rightclickharvest.json5",
       "sha1": "479da6ea7761c8ab973fa4952f7db540ef045979",
       "size": 612,
-      "overwrite": false
-    },
-    {
-      "path": "config/roughlyenoughitems/config.json5",
-      "sha1": "ebb25df51a596aa742aa298684ebf944c8d17d5f",
-      "size": 5795,
       "overwrite": false
     },
     {
@@ -4587,75 +1959,51 @@
       "overwrite": false
     },
     {
-      "path": "config/sawmill-common.toml",
-      "sha1": "e14a60fdfb74fadade3ebaed415d55b03a1658d6",
-      "size": 3017,
-      "overwrite": false
-    },
-    {
-      "path": "config/sawmill-common_synced.toml",
-      "sha1": "d882bbdbc0d56ed382c333c94bff7524eb3fa527",
-      "size": 2401,
-      "overwrite": false
-    },
-    {
       "path": "config/scalablelux.properties",
       "sha1": "9161ac1b047557933178bcdd0163f454ded600d5",
       "size": 84,
       "overwrite": false
     },
     {
-      "path": "config/sdrp-common.json5",
-      "sha1": "85c10d40ff106470bd4fb3aecb85db32a414b3d2",
-      "size": 3977,
+      "path": "config/serilum/collective.json",
+      "sha1": "5c2b380d60ab7cac623a68f6c8831ce00c2204c6",
+      "size": 2976,
       "overwrite": false
     },
     {
-      "path": "config/selling_bin-client.toml",
-      "sha1": "9f1df8b5a3e7ea73949833d201ca89954f3c63c1",
-      "size": 131,
+      "path": "config/serilum/collective/entity_names.json",
+      "sha1": "66f599057cb96747f1549106d65c20eab5aea07c",
+      "size": 76741,
       "overwrite": false
     },
     {
-      "path": "config/selling_bin-server.toml",
-      "sha1": "6f731c59433e0e17541840067727d30522e9c3fc",
-      "size": 118,
+      "path": "config/serilum/fixedanvilrepaircost.json",
+      "sha1": "e519ab25454990d1303457b41360fe889ebe31df",
+      "size": 866,
       "overwrite": false
     },
     {
-      "path": "config/sereneseasons/fertility.toml",
-      "sha1": "f200236ef142693565674c774f4de3bf99a8bb2c",
-      "size": 481,
+      "path": "config/serilum/stackrefill.json",
+      "sha1": "8bbd4d7a9c22ffb3794ca3d2c6427faa98dbaf3f",
+      "size": 1699,
       "overwrite": false
     },
     {
-      "path": "config/sereneseasons/seasons.toml",
-      "sha1": "18c74a06c5d24a3fa2d8284714e98e7aa77922b2",
-      "size": 13900,
+      "path": "config/serilum/villagernames.json",
+      "sha1": "1f60260bd00ab01056cf97f4305a2293ce688176",
+      "size": 2264,
       "overwrite": false
     },
     {
-      "path": "config/serverbrowser.conf",
-      "sha1": "bd4527510f978993a99b2f738342e70e0f85a1c3",
-      "size": 654,
-      "overwrite": false
-    },
-    {
-      "path": "config/simple_snowy_fix_common.json",
-      "sha1": "19f357caddecb2cd5f1b0f70ce62c107cadae71e",
-      "size": 42,
+      "path": "config/serilum/villagernames/customnames.txt",
+      "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+      "size": 0,
       "overwrite": false
     },
     {
       "path": "config/sit-server.toml",
       "sha1": "9f7b3e5ad837407f043c4ee91b247c6ee7f9cf32",
       "size": 349,
-      "overwrite": false
-    },
-    {
-      "path": "config/skeletonaifix-server.toml",
-      "sha1": "cfb7ed19a5628412143aff26b4410db4819a930e",
-      "size": 628,
       "overwrite": false
     },
     {
@@ -4668,12 +2016,6 @@
       "path": "config/smarterfarmers-common.toml",
       "sha1": "341f21e8afc5e2c5a6973d6d94362fa38163b1e9",
       "size": 697,
-      "overwrite": false
-    },
-    {
-      "path": "config/smoothchunk.json",
-      "sha1": "e742b138a383a4754496b053a9600d7250c9405e",
-      "size": 602,
       "overwrite": false
     },
     {
@@ -4719,18 +2061,6 @@
       "overwrite": false
     },
     {
-      "path": "config/sodiumdynamiclights-client.toml",
-      "sha1": "aa24c7bbdee89ccd1dde33c4bba82e0e1301eb8b",
-      "size": 654,
-      "overwrite": false
-    },
-    {
-      "path": "config/sodiumextras-client.toml",
-      "sha1": "05f6eec01d2bc2c2751ac342cf766908eed9643c",
-      "size": 5087,
-      "overwrite": false
-    },
-    {
       "path": "config/sound_physics_remastered/occlusion.properties",
       "sha1": "63e8843f243c38bc7aa44d99ce4f562991890350",
       "size": 4831,
@@ -4755,84 +2085,6 @@
       "overwrite": false
     },
     {
-      "path": "config/spark/activity.json",
-      "sha1": "97d170e1550eee4afc0af065b78cda302a97674c",
-      "size": 2,
-      "overwrite": false
-    },
-    {
-      "path": "config/spark/config.json",
-      "sha1": "523b5d6c8bfdb11f9b993c1642df22eef46cbf9d",
-      "size": 120,
-      "overwrite": false
-    },
-    {
-      "path": "config/spark/tmp-client/about.txt",
-      "sha1": "a63da50166561c948dc39484f0d88990cdbe29a0",
-      "size": 585,
-      "overwrite": false
-    },
-    {
-      "path": "config/spark/tmp/about.txt",
-      "sha1": "a63da50166561c948dc39484f0d88990cdbe29a0",
-      "size": 585,
-      "overwrite": false
-    },
-    {
-      "path": "config/sparsestructures.json5",
-      "sha1": "a0eb664cc945cabd0a35594682e6ea3ac80cb127",
-      "size": 1417,
-      "overwrite": false
-    },
-    {
-      "path": "config/spyglass-improvements/settings.json",
-      "sha1": "1c45f03b4aa86332e2c545f5cff627f3793e3973",
-      "size": 105,
-      "overwrite": false
-    },
-    {
-      "path": "config/starcatcher-client.toml",
-      "sha1": "d45e1be1343eee0a7d2eccc7a3cac0e293a57d96",
-      "size": 1916,
-      "overwrite": false
-    },
-    {
-      "path": "config/starcatcher-server.toml",
-      "sha1": "113de71e008caf5ebbc0d199d2e31414991e2bc1",
-      "size": 3031,
-      "overwrite": false
-    },
-    {
-      "path": "config/stoneworks-common.toml",
-      "sha1": "694e33361af28a520f86912231c61f1f952e3fdd",
-      "size": 137,
-      "overwrite": false
-    },
-    {
-      "path": "config/structory/structure_placement_config.json5",
-      "sha1": "e3a36676beb51b50fe845fe80162a664c206b61b",
-      "size": 446,
-      "overwrite": false
-    },
-    {
-      "path": "config/structory/structure_toggle_config.json5",
-      "sha1": "ad5e50b401e3b20608996f2971154d8ba724ce26",
-      "size": 538,
-      "overwrite": false
-    },
-    {
-      "path": "config/structory_towers/structure_placement_config.json5",
-      "sha1": "2bf40c878529a7acbec628f858b80ed730f803bd",
-      "size": 549,
-      "overwrite": false
-    },
-    {
-      "path": "config/structory_towers/structure_toggle_config.json5",
-      "sha1": "fc04a4d754a41af1ed271258b1f1c0e35a627696",
-      "size": 769,
-      "overwrite": false
-    },
-    {
       "path": "config/structure_layout_optimizer-common.toml",
       "sha1": "e037d2b5866d9c73aee28d4c88932b9231f732bf",
       "size": 970,
@@ -4848,12 +2100,6 @@
       "path": "config/structureessentials.json",
       "sha1": "477b0dc006e4d9b13c654f6d1e001b97cfc3637b",
       "size": 3786,
-      "overwrite": false
-    },
-    {
-      "path": "config/stylisheffects-client.toml",
-      "sha1": "ac41472d271cf2ce1b936497612fa32187d380ff",
-      "size": 10542,
       "overwrite": false
     },
     {
@@ -4887,42 +2133,6 @@
       "overwrite": false
     },
     {
-      "path": "config/supplementaries-client.toml",
-      "sha1": "87514ca43c354cac8e4ec757d2c5792110e71156",
-      "size": 8855,
-      "overwrite": false
-    },
-    {
-      "path": "config/supplementaries-common.toml",
-      "sha1": "8cf48ab9eb839701ab51ce87857397c012cc8d9c",
-      "size": 27731,
-      "overwrite": false
-    },
-    {
-      "path": "config/supplementaries/structure_placement_config-had-error.json5",
-      "sha1": "0b177fb6a341875c926837216f056949e7a5212d",
-      "size": 124,
-      "overwrite": false
-    },
-    {
-      "path": "config/supplementaries/structure_placement_config.json5",
-      "sha1": "1251a2a602e2ca7c12fddbd79abe5c181c9a4a36",
-      "size": 201,
-      "overwrite": false
-    },
-    {
-      "path": "config/supplementaries/structure_toggle_config-had-error.json5",
-      "sha1": "6051c13f05fc4a7933a6879ded06eb8b1ee12426",
-      "size": 86,
-      "overwrite": false
-    },
-    {
-      "path": "config/supplementaries/structure_toggle_config.json5",
-      "sha1": "00f18a97ea7d8e0ab3de7154c0782ead89cf05a4",
-      "size": 125,
-      "overwrite": false
-    },
-    {
       "path": "config/sway.json",
       "sha1": "d93cb1ca02be738db762a53ef60bf06d4760bb62",
       "size": 90,
@@ -4950,12 +2160,6 @@
       "path": "config/terrablender.toml",
       "sha1": "194a663d21fe1df84f7230013c470329088fa710",
       "size": 988,
-      "overwrite": false
-    },
-    {
-      "path": "config/tinymultiblocklib-client.toml",
-      "sha1": "817b3e10e5660742cbb2aac47a5803f28f997304",
-      "size": 328,
       "overwrite": false
     },
     {
@@ -4995,12 +2199,6 @@
       "overwrite": false
     },
     {
-      "path": "config/transition.json",
-      "sha1": "175ef27df07234a2e37dfbda9766f8c947122e12",
-      "size": 62,
-      "overwrite": false
-    },
-    {
       "path": "config/trashslot-common.toml",
       "sha1": "a71bdf32c03fb750b4a5faa85047658e849b8d43",
       "size": 752,
@@ -5022,12 +2220,6 @@
       "path": "config/travelersbackpack-server.toml",
       "sha1": "6de37df5aa5a402d09a213c098b3bc6c4b54dfb6",
       "size": 11662,
-      "overwrite": false
-    },
-    {
-      "path": "config/trender.json",
-      "sha1": "1ecd2edb27bfbc69f24e0cd52d3a22f98bdce8f0",
-      "size": 47,
       "overwrite": false
     },
     {
@@ -5070,12 +2262,6 @@
       "path": "config/twilightforest/structure_toggle_config.json5",
       "sha1": "2c137e0c294b77350aa8865372c8fbf50f82041f",
       "size": 944,
-      "overwrite": false
-    },
-    {
-      "path": "config/Underlay/underlay.json",
-      "sha1": "a20827e800c14e63d4bab837b4da4eacdb6d4360",
-      "size": 50,
       "overwrite": false
     },
     {
@@ -5145,30 +2331,6 @@
       "overwrite": false
     },
     {
-      "path": "config/veinmining-client.toml",
-      "sha1": "7246a39659b13491a7aacd3bdbe785a4a6aa7c0d",
-      "size": 1034,
-      "overwrite": false
-    },
-    {
-      "path": "config/veinmining-server.toml",
-      "sha1": "85367d860fcfb00cd28171769f83239282a106d5",
-      "size": 1783,
-      "overwrite": false
-    },
-    {
-      "path": "config/villagernames.json5",
-      "sha1": "c8e2d36391fb110e078c03f00320410f60c0e810",
-      "size": 1321,
-      "overwrite": false
-    },
-    {
-      "path": "config/villagernames/customnames.txt",
-      "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
-      "size": 0,
-      "overwrite": false
-    },
-    {
       "path": "config/villagesandpillages/structure_placement_config.json5",
       "sha1": "5941f7ea7f231615d8189ad7306a10759f3392f0",
       "size": 128,
@@ -5178,36 +2340,6 @@
       "path": "config/villagesandpillages/structure_toggle_config.json5",
       "sha1": "64d4d6329a01f4dda38d9bfb9f15577c3e8acb58",
       "size": 95,
-      "overwrite": false
-    },
-    {
-      "path": "config/visuality/config.toml",
-      "sha1": "a84a58e84c8c8d13e996c892254cffffe11f5ea2",
-      "size": 389,
-      "overwrite": false
-    },
-    {
-      "path": "config/visuality/particle_emitters/block_ambient.json",
-      "sha1": "9c6cc09ae2505eca8565563817cdedb94ec13dbb",
-      "size": 1362,
-      "overwrite": false
-    },
-    {
-      "path": "config/visuality/particle_emitters/block_step.json",
-      "sha1": "ac1bec2b612aac790350d5b536cca7534d7c2985",
-      "size": 233,
-      "overwrite": false
-    },
-    {
-      "path": "config/visuality/particle_emitters/entity_armor.json",
-      "sha1": "182770a8401ce8fcb8277835877a4d18500a443d",
-      "size": 774,
-      "overwrite": false
-    },
-    {
-      "path": "config/visuality/particle_emitters/entity_hit.json",
-      "sha1": "66aa12403fe657603e1cd86e71d64a1e19657f04",
-      "size": 720,
       "overwrite": false
     },
     {
@@ -5229,33 +2361,9 @@
       "overwrite": false
     },
     {
-      "path": "config/wakes-client.toml",
-      "sha1": "9f4d13275625e119533da24540e494f6ddf20b62",
-      "size": 3056,
-      "overwrite": false
-    },
-    {
       "path": "config/walljump.json5",
       "sha1": "8f3c24e69de3b4a16822f9310adc569c922151a1",
       "size": 1294,
-      "overwrite": false
-    },
-    {
-      "path": "config/waterframes-client.toml",
-      "sha1": "75337c5fd1700f7d672cd38f75120016426d91d0",
-      "size": 1013,
-      "overwrite": false
-    },
-    {
-      "path": "config/waterframes-server.toml",
-      "sha1": "68dc0836b17d563e3e632dc4a28e2e963464da68",
-      "size": 4659,
-      "overwrite": false
-    },
-    {
-      "path": "config/watermedia/custom_vlc_path.txt",
-      "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
-      "size": 0,
       "overwrite": false
     },
     {
@@ -5272,8 +2380,8 @@
     },
     {
       "path": "config/watut-item-arm-adjustments.json",
-      "sha1": "9a0de2f78c6a97645777b5ddc6d37212e82e2714",
-      "size": 3355,
+      "sha1": "0fe1908d13d1892c572418c06f308a3f71167f61",
+      "size": 2853,
       "overwrite": false
     },
     {
@@ -5301,30 +2409,6 @@
       "overwrite": false
     },
     {
-      "path": "config/wetland_whimsy-common.toml",
-      "sha1": "0aa3197aff1b47d7015b4b6cc514450bd06c895f",
-      "size": 463,
-      "overwrite": false
-    },
-    {
-      "path": "config/wetland_whimsy.json",
-      "sha1": "0a02844a5f4f2e2e111aca47727c040ef295f378",
-      "size": 153,
-      "overwrite": false
-    },
-    {
-      "path": "config/wetland_whimsy/structure_placement_config.json5",
-      "sha1": "92a0fd671f8f60ae8c368196e22ed640d3028f00",
-      "size": 204,
-      "overwrite": false
-    },
-    {
-      "path": "config/wetland_whimsy/structure_toggle_config.json5",
-      "sha1": "7643167605c615b530193347ac7dc76ef3f34c83",
-      "size": 202,
-      "overwrite": false
-    },
-    {
       "path": "config/witherreincarnated/client.toml",
       "sha1": "f9926c484f3f533c6426f480109ad9ecd3eea765",
       "size": 918,
@@ -5332,14 +2416,8 @@
     },
     {
       "path": "config/witherreincarnated/common.toml",
-      "sha1": "fc1a907aa8c395aa207f798fc8c23bd711968e25",
-      "size": 1550,
-      "overwrite": false
-    },
-    {
-      "path": "config/worldplaytime/config.json",
-      "sha1": "feeb50b65a8771b75befad234127830bc777732b",
-      "size": 241,
+      "sha1": "b486c29b55433ae4cc087f60d66da97fff087ea5",
+      "size": 1520,
       "overwrite": false
     },
     {
@@ -5445,33 +2523,9 @@
       "overwrite": false
     },
     {
-      "path": "config/xaerominimap-common.txt.backup0-xp-1521340921",
-      "sha1": "9dfa008f15d138e34b337e8e67122ea0364b67c0",
-      "size": 145,
-      "overwrite": false
-    },
-    {
       "path": "config/xaeropatreon.txt",
       "sha1": "ea102322bdf5be36acef1ed783e85b6a0d1ee418",
       "size": 16,
-      "overwrite": false
-    },
-    {
-      "path": "config/xaeroplus.txt",
-      "sha1": "c6887310a1f7fd8ac60879a5f593e32a1263476f",
-      "size": 4631,
-      "overwrite": false
-    },
-    {
-      "path": "config/xaeroworldmap-common.txt.backup0-xp-500359682",
-      "sha1": "2654cb878cde3f8a7beaa75750a6ddd094cf8b97",
-      "size": 120,
-      "overwrite": false
-    },
-    {
-      "path": "config/xaeroworldmap.txt.backup0-xp-752774797",
-      "sha1": "a6518ca14486492e4fabe7219e1d5812c4bca58b",
-      "size": 1221,
       "overwrite": false
     },
     {
@@ -5487,33 +2541,9 @@
       "overwrite": false
     },
     {
-      "path": "config/yigd.json",
-      "sha1": "f4ae735b6e1f9e0cbda9d35655ec18f86586a62c",
-      "size": 5370,
-      "overwrite": false
-    },
-    {
-      "path": "config/yungsmenutweaks-neoforge-1_21.toml",
-      "sha1": "55ffee66661908d0d48af1119a4611893bfb67a4",
-      "size": 833,
-      "overwrite": false
-    },
-    {
       "path": "config/zfastnoise.mixin.properties",
       "sha1": "80fdd5a61cdff2b4cd63c4233b91867afd70b035",
       "size": 80,
-      "overwrite": false
-    },
-    {
-      "path": "config/zipline.json",
-      "sha1": "fb84d842a07e6b95dd51c252fb965a28677c27ec",
-      "size": 286,
-      "overwrite": false
-    },
-    {
-      "path": "config/zombieimprovements/config.toml",
-      "sha1": "7e0ee303a9a666b744dc551b4a3afb4d2d3d6c19",
-      "size": 447,
       "overwrite": false
     },
     {
@@ -5521,24 +2551,6 @@
       "sha1": "c5fe733d743af20f84eb87dd75b5bb57684f3e05",
       "size": 7139609,
       "url": "https://edge.forgecdn.net/files/7788/733/%5bNeoforge%5dctov-3.6.3.jar"
-    },
-    {
-      "path": "mods/acceleratedrendering-1.0.14-1.21.1-alpha.jar",
-      "sha1": "b5c9cf25e6aab6b8b9912fbf45e44b4bb4e7df43",
-      "size": 684365,
-      "url": "https://edge.forgecdn.net/files/8448/200/acceleratedrendering-1.0.14-1.21.1-alpha.jar"
-    },
-    {
-      "path": "mods/accessories-neoforge-1.1.0-beta.54+1.21.1.jar",
-      "sha1": "0d0b07fa319a9f93c82873f9851ad35e100031f6",
-      "size": 1086553,
-      "url": "https://edge.forgecdn.net/files/9216/447/accessories-neoforge-1.1.0-beta.54%2b1.21.1.jar"
-    },
-    {
-      "path": "mods/AchievementOptimizer-neoforge-1.21.1-2.1.0.jar",
-      "sha1": "691c4686c52c8740cba6beff392cbc3fbface5b0",
-      "size": 16156,
-      "url": "https://edge.forgecdn.net/files/6897/792/AchievementOptimizer-neoforge-1.21.1-2.1.0.jar"
     },
     {
       "path": "mods/Ad-Astra-Giselle-Addon-neoforge-1.21.1-8.6.jar",
@@ -5583,22 +2595,10 @@
       "url": "https://edge.forgecdn.net/files/9006/294/ApothicAttributes-1.21.1-2.11.0.jar"
     },
     {
-      "path": "mods/aquamirae-neoforge-1.21.1-7.2.13.jar",
-      "sha1": "9ecfe49fcdc9266d4e2d3c6a05b7374ebc5f6f45",
-      "size": 26105694,
-      "url": "https://edge.forgecdn.net/files/9228/645/aquamirae-neoforge-1.21.1-7.2.13.jar"
-    },
-    {
       "path": "mods/architectury-13.0.11-neoforge.jar",
       "sha1": "008656a0702801174b8ec245ed7aad1921d6e9f1",
       "size": 584734,
       "url": "https://edge.forgecdn.net/files/8492/726/architectury-13.0.11-neoforge.jar"
-    },
-    {
-      "path": "mods/AsyncParticles-21.1.4.10+1.21.1.jar",
-      "sha1": "ebc10f9aafc284df334e7cc2e986013c027d9450",
-      "size": 1303563,
-      "url": "https://edge.forgecdn.net/files/9256/646/AsyncParticles-21.1.4.10%2b1.21.1.jar"
     },
     {
       "path": "mods/AutochefsDelight-1.21.1-NeoForge-2.0.3.jar",
@@ -5641,12 +2641,6 @@
       "sha1": "186ba3fbacacb0ce93b9c5a5ddca28799c1577cb",
       "size": 25085,
       "url": "https://edge.forgecdn.net/files/7404/415/better-compatability-checker-neoforge-21.1.8.jar"
-    },
-    {
-      "path": "mods/BetterGrassify-1.7.0+neoforge.1.21.1.jar",
-      "sha1": "7cf1376b4cb66721cf4795d55eb5a88123591bae",
-      "size": 155305,
-      "url": "https://edge.forgecdn.net/files/6664/104/BetterGrassify-1.7.0%2bneoforge.1.21.1.jar"
     },
     {
       "path": "mods/bowinfinityfix-1.21-neo-3.1.1.jar",
@@ -5835,12 +2829,6 @@
       "url": "https://edge.forgecdn.net/files/7958/876/croptopia-neoforge-1.21.1-4.2.4.jar"
     },
     {
-      "path": "mods/cullleaves-neoforge-4.1.1+1.21.1.jar",
-      "sha1": "0ea35e716f486a0607e01db8928ff7bea8148b39",
-      "size": 94735,
-      "url": "https://edge.forgecdn.net/files/7324/167/cullleaves-neoforge-4.1.1%2b1.21.1.jar"
-    },
-    {
       "path": "mods/cupboard-1.21.1-4.2.jar",
       "sha1": "6c2d786a161f49470dad92b2edaefdac38a1e79b",
       "size": 30517,
@@ -5949,12 +2937,6 @@
       "url": "https://edge.forgecdn.net/files/5768/823/dungeons-and-taverns-v4.4.4%20%5bNeoForge%5d.jar"
     },
     {
-      "path": "mods/duplicationless-1.21.1-1.2.1.jar",
-      "sha1": "c3f8e32ee4239bb14c11940518085b66ca1cd5f5",
-      "size": 230919,
-      "url": "https://edge.forgecdn.net/files/8646/414/duplicationless-1.21.1-1.2.1.jar"
-    },
-    {
       "path": "mods/dynamicportals-3.0.0.jar",
       "sha1": "6eaff1281bf376d148473dc802caf1967d267127",
       "size": 278431,
@@ -5983,12 +2965,6 @@
       "sha1": "34af0d5e57f771fa9a37e6b1b5e59c38a03afd01",
       "size": 958842,
       "url": "https://edge.forgecdn.net/files/8515/718/effortlessbuilding-4.2%2b1.21.1.jar"
-    },
-    {
-      "path": "mods/ElysiumAPI-1.21.1-2.0.1.jar",
-      "sha1": "01754addbc1d0607d81fcd37e0605138bec4ceaf",
-      "size": 307526,
-      "url": "https://edge.forgecdn.net/files/8707/151/ElysiumAPI-1.21.1-2.0.1.jar"
     },
     {
       "path": "mods/elytraslot-neoforge-9.0.2+1.21.1.jar",
@@ -6049,12 +3025,6 @@
       "sha1": "9f62af344988a6e2d855b113e61cf0e1611c7e0f",
       "size": 174668,
       "url": "https://edge.forgecdn.net/files/7892/943/ExplorersCompass-1.21.1-3.4.0-neoforge.jar"
-    },
-    {
-      "path": "mods/fallingleaves-1.21.1-2.6.0.jar",
-      "sha1": "c1ae4a2ca27be388d4c2fc75eff208059eaf4cc9",
-      "size": 153794,
-      "url": "https://edge.forgecdn.net/files/9225/531/fallingleaves-1.21.1-2.6.0.jar"
     },
     {
       "path": "mods/FarmersDelight-1.21.1-1.3.4.jar",
@@ -6127,30 +3097,6 @@
       "sha1": "41d896c5252989c5353d6e5d1a485c9a694eb0c3",
       "size": 42235,
       "url": "https://edge.forgecdn.net/files/9034/186/fixedanvilrepaircost-1.21.1-3.6.jar"
-    },
-    {
-      "path": "mods/flerovium-neoforge-1.21.1-1.1.2-all.jar",
-      "sha1": "31491e08947da57d4af6c48e8d3237cc6d4009c1",
-      "size": 182579,
-      "url": "https://edge.forgecdn.net/files/8430/37/flerovium-neoforge-1.21.1-1.1.2-all.jar"
-    },
-    {
-      "path": "mods/fluidium-1.21.1-1.4.0.jar",
-      "sha1": "f056fb9c47f03be2d157957082a1d0745df39e7a",
-      "size": 18472,
-      "url": "https://edge.forgecdn.net/files/7481/400/fluidium-1.21.1-1.4.0.jar"
-    },
-    {
-      "path": "mods/forgified-fabric-api-0.116.15+2.3.6+1.21.1.jar",
-      "sha1": "a6f0e7b7c277fab7174bca4943fba7bdf3f74ed7",
-      "size": 5613208,
-      "url": "https://edge.forgecdn.net/files/9195/559/forgified-fabric-api-0.116.15%2b2.3.6%2b1.21.1.jar"
-    },
-    {
-      "path": "mods/fragmentum-5.4.0+1.21.1-neoforge.jar",
-      "sha1": "711f46b591cbee203e68cf023277dae9060725f8",
-      "size": 7815344,
-      "url": "https://edge.forgecdn.net/files/9202/578/fragmentum-5.4.0%2b1.21.1-neoforge.jar"
     },
     {
       "path": "mods/framework-neoforge-1.21.1-0.13.11.jar",
@@ -6429,12 +3375,6 @@
       "url": "https://edge.forgecdn.net/files/7084/444/lmft-1.1.1%2b1.21.9-neoforge.jar"
     },
     {
-      "path": "mods/lodestone-1.21.1-1.8.2.jar",
-      "sha1": "d1f7c638fac5192e01b1873f27e694a3c262ad11",
-      "size": 818829,
-      "url": "https://edge.forgecdn.net/files/7264/731/lodestone-1.21.1-1.8.2.jar"
-    },
-    {
       "path": "mods/LongNBTKiller-NeoForge-1.21.3-1.0.0.jar",
       "sha1": "da4c8a395b86686ac11d3d54485b70256c1407cb",
       "size": 6247,
@@ -6499,18 +3439,6 @@
       "sha1": "61aafc5686d9df55380264dda1bfb742008c43ff",
       "size": 74791,
       "url": "https://edge.forgecdn.net/files/6235/851/MerchantMarkers-1.21.1-neoforge-1.3.6.jar"
-    },
-    {
-      "path": "mods/mezz_config-1.21.1-neoforge-0.6.9-standalone.jar",
-      "sha1": "a20ecb9978bd8eebd40f4548d14b0a360a63f8a4",
-      "size": 345479,
-      "url": "https://edge.forgecdn.net/files/9318/719/mezz_config-1.21.1-neoforge-0.6.9-standalone.jar"
-    },
-    {
-      "path": "mods/midnightlib-neoforge-1.10.0+1.21.1.jar",
-      "sha1": "540612caebec8a02a8774488e03982488b6bbba9",
-      "size": 64794,
-      "url": "https://edge.forgecdn.net/files/9184/487/midnightlib-neoforge-1.10.0%2b1.21.1.jar"
     },
     {
       "path": "mods/modernfix-neoforge-5.27.27+mc1.21.1.jar",
@@ -6681,28 +3609,10 @@
       "url": "https://edge.forgecdn.net/files/6327/284/OreExcavation-NeoForge-1.21.1-1.16.43.jar"
     },
     {
-      "path": "mods/owo-lib-neoforge-0.12.15.6-beta.1+1.21.jar",
-      "sha1": "3a7f843ce3a4d24f8765a74bc5dde914b316b992",
-      "size": 1223197,
-      "url": "https://edge.forgecdn.net/files/9215/303/owo-lib-neoforge-0.12.15.6-beta.1%2b1.21.jar"
-    },
-    {
-      "path": "mods/packetfixer-3.3.1-1.20.5-1.21.X-merged.jar",
-      "sha1": "a8bb6e25807682e72c23bf4065f3cd5f6373ece3",
-      "size": 46623,
-      "url": "https://edge.forgecdn.net/files/7221/528/packetfixer-3.3.1-1.20.5-1.21.X-merged.jar"
-    },
-    {
       "path": "mods/particle_core-0.3.3+1.21+neoforge.jar",
       "sha1": "f859d68818e522fb00056d3ed1603ca4300eb681",
       "size": 138375,
       "url": "https://edge.forgecdn.net/files/7581/40/particle_core-0.3.3%2b1.21%2bneoforge.jar"
-    },
-    {
-      "path": "mods/particle_effects-1.21.1-NeoForge-1.0.2.jar",
-      "sha1": "bea4366e3e92aed305958940b56976d56ce4f329",
-      "size": 264596,
-      "url": "https://edge.forgecdn.net/files/7693/740/particle_effects-1.21.1-NeoForge-1.0.2.jar"
     },
     {
       "path": "mods/particlerain-4.0.2+1.21.1-neoforge.jar",
@@ -6873,12 +3783,6 @@
       "url": "https://edge.forgecdn.net/files/5831/692/Searchables-neoforge-1.21.1-1.0.2.jar"
     },
     {
-      "path": "mods/SimpleDiscordLink-Universal-3.4.5.jar",
-      "sha1": "6321b1003c1e6df824b1f851a7e5089a53441c41",
-      "size": 10071903,
-      "url": "https://edge.forgecdn.net/files/8884/966/SimpleDiscordLink-Universal-3.4.5.jar"
-    },
-    {
       "path": "mods/sit-1.21.1-1.4.jar",
       "sha1": "5e9b0c4ee084770f8757bf53c2ecae19d382f7ed",
       "size": 14031,
@@ -6895,12 +3799,6 @@
       "sha1": "49e58b648cfe1e5d6623b1b2c3ce5aca0b8c08df",
       "size": 65924,
       "url": "https://edge.forgecdn.net/files/7120/722/smarterfarmers-1.21-2.2.4-neoforge.jar"
-    },
-    {
-      "path": "mods/smoothchunk-1.21-4.4.jar",
-      "sha1": "b6c0da613301b9bfa4487bac9743f66c5a9e2711",
-      "size": 15747,
-      "url": "https://edge.forgecdn.net/files/9255/92/smoothchunk-1.21-4.4.jar"
     },
     {
       "path": "mods/smoothmovement-1.21.1-3.0.jar",
@@ -7112,12 +4010,6 @@
       "url": "https://edge.forgecdn.net/files/9028/199/villagesandpillages-neoforge-2.0.0%2bmc1.21.1.jar"
     },
     {
-      "path": "mods/visuality-forge-3.0.0.jar",
-      "sha1": "9786f023733a302b582b7349336e1ab47e93823e",
-      "size": 132898,
-      "url": "https://edge.forgecdn.net/files/8559/477/visuality-forge-3.0.0.jar"
-    },
-    {
       "path": "mods/VisualWorkbench-v21.1.2-1.21.1-NeoForge.jar",
       "sha1": "dd5b71bff42ce3f845afc9c3640d4f4f63ccdb1b",
       "size": 76670,
@@ -7128,30 +4020,6 @@
       "sha1": "2ccbc40f214489bb3a800a34eaeff007aed49e1b",
       "size": 189780,
       "url": "https://edge.forgecdn.net/files/8209/231/walljump-1.21.1-1.3.8-neoforge.jar"
-    },
-    {
-      "path": "mods/waterframes-NEOFORGE-mc1.21.1-v2.1.23.jar",
-      "sha1": "855fad475a0a0be7a8ac20d70f2adc2d91ce0d0b",
-      "size": 256825,
-      "url": "https://edge.forgecdn.net/files/8056/721/waterframes-NEOFORGE-mc1.21.1-v2.1.23.jar"
-    },
-    {
-      "path": "mods/watermedia-2.1.37.jar",
-      "sha1": "4a91d20d9a3aa8d66e01f7962d77c974ad538f4f",
-      "size": 37046674,
-      "url": "https://edge.forgecdn.net/files/7281/929/watermedia-2.1.37.jar"
-    },
-    {
-      "path": "mods/watermedia_youtube_plugin-2.1.2.jar",
-      "sha1": "1f4d208ed9292189dd99147a9dae7c1d4bc95ad5",
-      "size": 3830072,
-      "url": "https://edge.forgecdn.net/files/7543/999/watermedia_youtube_plugin-2.1.2.jar"
-    },
-    {
-      "path": "mods/watervision-NF-mc1.21.1-v0.1.0-alpha.jar",
-      "sha1": "3fc5620a518583b8a7ea293a6d79584861e75335",
-      "size": 78233,
-      "url": "https://edge.forgecdn.net/files/7043/267/watervision-NF-mc1.21.1-v0.1.0-alpha.jar"
     },
     {
       "path": "mods/watut-neoforge-1.21.0-1.2.7.jar",
@@ -7227,75 +4095,15 @@
     },
     {
       "path": "options.txt",
-      "sha1": "b83b2ff42b52ba6a0f99b9634e3a7499303821df",
-      "size": 12302,
+      "sha1": "a7f0ae9b2f8b8c87924e62acf301bdb7cb80272e",
+      "size": 12256,
       "overwrite": false
-    },
-    {
-      "path": "resourcepacks/Armor Trim Compat 1.5.zip",
-      "sha1": "975c2afed59aecc748dd313022087bea31f45500",
-      "size": 38441,
-      "url": "https://edge.forgecdn.net/files/8973/141/Armor%20Trim%20Compat%201.5.zip"
-    },
-    {
-      "path": "resourcepacks/BetterEndCities-NoSpawners-1.21+.zip",
-      "sha1": "a8fef49ec16c6302726345c7a05d34ba0fcc0252",
-      "size": 1443959,
-      "url": "https://edge.forgecdn.net/files/5852/175/BetterEndCities-NoSpawners-1.21%2b.zip"
-    },
-    {
-      "path": "resourcepacks/Enchantment Descriptions Compat 1.4.zip",
-      "sha1": "c920e7d5e9e264aab8dd75564f0501e48a5e34bf",
-      "size": 105420,
-      "url": "https://edge.forgecdn.net/files/8940/813/Enchantment%20Descriptions%20Compat%201.4.zip"
     },
     {
       "path": "resourcepacks/Icon Xaero's 1.22.zip",
       "sha1": "a14777ad5dac4fd37c4429c29165c87f6270102e",
       "size": 18866675,
       "url": "https://edge.forgecdn.net/files/7748/284/Icon%20Xaero%27s%201.22.zip"
-    },
-    {
-      "path": "resourcepacks/Mandala Utopia.zip",
-      "sha1": "59298aeff0b9eaed4509053ddcc182dac405e15d",
-      "size": 4252980,
-      "url": "https://edge.forgecdn.net/files/7570/208/Mandala%20Utopia.zip"
-    },
-    {
-      "path": "resourcepacks/Mandala's GUI - Dark Mode Compat 0.3.2.zip",
-      "sha1": "2a08521c6db8d119ea74d04704a878bdcfd41cc2",
-      "size": 554210,
-      "url": "https://edge.forgecdn.net/files/7063/749/Mandala%27s%20GUI%20-%20Dark%20Mode%20Compat%200.3.2.zip"
-    },
-    {
-      "path": "resourcepacks/Mandala's GUI - Dark Mode Compat Neo 0.3 Fix.zip",
-      "sha1": "3b108d95f1830d4e8a12d46b393eb18ff51c19ec",
-      "size": 610940,
-      "url": "https://edge.forgecdn.net/files/6386/222/Mandala%27s%20GUI%20-%20Dark%20Mode%20Compat%20Neo%200.3%20Fix.zip"
-    },
-    {
-      "path": "resourcepacks/MandalasGUI+Dakmode_1.21.8_v3.1.zip",
-      "sha1": "6475c078d1d306f5ec6eb84bb180d014168b8097",
-      "size": 727474,
-      "url": "https://edge.forgecdn.net/files/8605/130/MandalasGUI%2bDakmode_1.21.8_v3.1.zip"
-    },
-    {
-      "path": "resourcepacks/MandalasGUI_AddOn+DarkModded_V7.1.zip",
-      "sha1": "60f7bfeb081b3799876647bf939ce16a15a98801",
-      "size": 2590922,
-      "url": "https://edge.forgecdn.net/files/8611/963/MandalasGUI_AddOn%2bDarkModded_V7.1.zip"
-    },
-    {
-      "path": "resourcepacks/Mandela's GUI Vanilla Crosshair 1.21.zip",
-      "sha1": "fd9604eac132e13c7a1a9a2fd152c49ad3601bf6",
-      "size": 8876,
-      "url": "https://edge.forgecdn.net/files/5705/761/Mandela%27s%20GUI%20Vanilla%20Crosshair%201.21.zip"
-    },
-    {
-      "path": "resourcepacks/Modded Omelet [120] [171].zip",
-      "sha1": "1d4cff3fb277fb32af11d0b636e168523bdbd2c2",
-      "size": 3649269,
-      "url": "https://edge.forgecdn.net/files/8975/129/Modded%20Omelet%20%5b120%5d%20%5b171%5d.zip"
     },
     {
       "path": "resourcepacks/NoBushyLeaves.zip",
@@ -7327,12 +4135,6 @@
       "url": "https://edge.forgecdn.net/files/9300/904/The%20Brazilian%20Project%20%5b1.21.1-1.5.2%5d.zip"
     },
     {
-      "path": "resourcepacks/The-RCP.zip",
-      "sha1": "e9f13f3406785e8bd5481c9f7b5b5469af378842",
-      "size": 2649686,
-      "url": "https://edge.forgecdn.net/files/8409/227/The-RCP.zip"
-    },
-    {
       "path": "resourcepacks/waystones_1.21.1.zip",
       "sha1": "1aa5e532d48308d361e97771070f776179485d21",
       "size": 228331,
@@ -7345,61 +4147,10 @@
       "overwrite": false
     },
     {
-      "path": "shaderpacks/Better MC - High.txt",
-      "sha1": "900668b0311c837ecde1d0a436a032921a31b4e4",
-      "size": 373
-    },
-    {
-      "path": "shaderpacks/Better MC - Low.txt",
-      "sha1": "a17f5cb3bc4534fa83f6b11023155c7f9c9d48ab",
-      "size": 390
-    },
-    {
-      "path": "shaderpacks/Better MC - MacBook High.txt",
-      "sha1": "789c615bdc74459d14898bb4b77c34626f28e6f8",
-      "size": 301
-    },
-    {
-      "path": "shaderpacks/Better MC - MacBook Low.txt",
-      "sha1": "fa91c315369d549c6d020ffb5cc2efe227de0156",
-      "size": 388
-    },
-    {
-      "path": "shaderpacks/Better MC - MacBook Medium.txt",
-      "sha1": "3068f36ecc6af3295a094de919bfc885aa967fc3",
-      "size": 393
-    },
-    {
-      "path": "shaderpacks/Better MC - Medium.txt",
-      "sha1": "a3f2deb09a6eaa0ce811ea7811fa0e149d8ba90b",
-      "size": 465
-    },
-    {
-      "path": "shaderpacks/Better MC - Ultra.txt",
-      "sha1": "2d06c270281ac98846c1a947a72cfd4f19b8fb7e",
-      "size": 474
-    },
-    {
-      "path": "shaderpacks/Better MC - Very Low.txt",
-      "sha1": "1185f8b9fa3a1e8fd83cca4bee6d15bc4a009e72",
-      "size": 497
-    },
-    {
-      "path": "shaderpacks/ComplementaryReimagined_r5.9 + EuphoriaPatches_1.10.0.txt",
-      "sha1": "59bd5175246820b7445375f271bd5407cfed9fb1",
-      "size": 219
-    },
-    {
       "path": "shaderpacks/ComplementaryReimagined_r5.9.3.zip",
       "sha1": "838139b54cddb56b2e83cd260d8efd960ac536d6",
       "size": 553397,
       "url": "https://edge.forgecdn.net/files/8884/654/ComplementaryReimagined_r5.9.3.zip"
-    },
-    {
-      "path": "shaderpacks/ComplementaryReimagined_r5.9.zip",
-      "sha1": "90c08f60ac5db0ef07bc029452b8cd4cdd26ee1a",
-      "size": 552449,
-      "url": "https://cdn.modrinth.com/data/HVnmMxH1/versions/111gsk0f/ComplementaryReimagined_r5.9.zip"
     }
   ]
 }
