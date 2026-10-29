@@ -1,0 +1,83 @@
+#Dynamic Portals configuration.
+#All gameplay rules are data-driven from this file.
+#Players can freely edit requirements without recompiling the mod.
+#Rules that reference missing entity/item ids stay inactive instead of breaking progression.
+#This allows optional compatibility entries for other mods: install the mod and reload/restart to activate them.
+#Format references:
+#- Counter requirement: destination_dimension|target_id|count
+#- Advancement requirement: destination_dimension|advancement_id
+#- Bypass item: destination_dimension|item_id
+#General behavior and feedback settings.
+[general]
+	#Enable progress and unlock messages in player chat.
+	#Disable if you want a quieter experience.
+	enableChatProgress = true
+	#Play a success sound when a requirement is completed.
+	enableSuccessSound = true
+
+#Portal requirement rules.
+#These keys are the source of truth in runtime and can be fully edited by players.
+#Default values below are only initial seeds for first file generation.
+#After file generation, runtime always follows the content present in TOML.
+[requirements]
+	#Mob/Boss kill requirements.
+	#Format: destination_dimension|entity_id|count
+	#Example: minecraft:the_nether|minecraft:zombie|10
+	#If entity_id is not registered in the loaded mod set, that line is ignored at runtime.
+	#You can keep optional modded mobs here; they activate when the providing mod is installed.
+	#Defaults include Nether and End progression sets from the project specification.
+	#Project default count: 23 lines (14 Nether + 9 End).
+	killRequirements = [
+	    "minecraft:the_nether|minecraft:zombie|1",
+	    "minecraft:the_nether|minecraft:skeleton|1",
+	    "minecraft:the_nether|minecraft:spider|1",
+	    "minecraft:the_nether|minecraft:creeper|1",
+	    "minecraft:the_nether|minecraft:slime|1",
+	    "minecraft:the_nether|minecraft:witch|1",
+	    "minecraft:the_nether|minecraft:husk|1",
+	    "minecraft:the_nether|minecraft:pillager|1",
+	    "minecraft:the_nether|minecraft:vindicator|1",
+	    "minecraft:the_nether|minecraft:bogged|1",
+	    "minecraft:the_nether|minecraft:breeze|1",
+	    "minecraft:the_nether|minecraft:evoker|1",
+	    "minecraft:the_nether|minecraft:ravager|1",
+	    "minecraft:the_nether|minecraft:elder_guardian|1",
+	    "minecraft:the_end|minecraft:magma_cube|1",
+	    "minecraft:the_end|minecraft:blaze|1",
+	    "minecraft:the_end|minecraft:wither_skeleton|1",
+	    "minecraft:the_end|minecraft:piglin|1",
+	    "minecraft:the_end|minecraft:hoglin|1",
+	    "minecraft:the_end|minecraft:piglin_brute|1",
+	    "minecraft:the_end|minecraft:ghast|1",
+	    "minecraft:the_end|minecraft:wither|1",
+	    "minecraft:the_end|minecraft:warden|1"
+	]
+	#Optional item requirements.
+	#Format: destination_dimension|item_id|count
+	#Lines with namespace 'example' are illustrative and ignored on purpose.
+	#Replace or remove illustrative lines to activate your own rules.
+	#You may use items from any mod namespace.
+	#If item_id is not registered in the loaded mod set, that line is ignored at runtime.
+	itemRequirements = [
+	    "minecraft:the_nether|example:disabled_item|1",
+	    "minecraft:the_end|example:disabled_item|1"
+	]
+	#Optional advancement requirements.
+	#Format: destination_dimension|advancement_id
+	#Lines with namespace 'example' are illustrative and ignored on purpose.
+	#Replace or remove illustrative lines to activate your own rules.
+	#You may use advancements from any mod namespace.
+	advancementRequirements = [
+	    "minecraft:the_nether|example:disabled_advancement",
+	    "minecraft:the_end|example:disabled_advancement"
+	]
+	#Bypass items that unlock a destination portal for the consuming player.
+	#Format: destination_dimension|item_id
+	#Default: magma cream unlocks Nether, chorus fruit unlocks End.
+	#You can add modded items and custom destination dimensions here.
+	#If item_id is not registered in the loaded mod set, that line is ignored at runtime.
+	#Remove an entry here to disable that bypass path.
+	consumeBypassItems = [
+	    "minecraft:the_nether|minecraft:magma_cream",
+	    "minecraft:the_end|minecraft:chorus_fruit"
+	]

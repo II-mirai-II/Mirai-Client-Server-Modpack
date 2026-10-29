@@ -1,0 +1,11 @@
+{
+  "remover": [
+    "mods/insanelib-2.4.37.0.jar"
+  ],
+  "adicionar": [
+    {
+      "path": "mods/insanelib-2.5.0.2-alpha.jar",
+      "modrinth": { "projeto": "insanelib", "versao": "2.5.0.2-alpha" }
+    }
+  ]
+}
