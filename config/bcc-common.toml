@@ -3,11 +3,11 @@
 	#modpackProjectID is now deprecated and will be removed soon
 	# Default: 0
 	# Range: > 0
-	modpackProjectID = 876781
+	modpackProjectID = 0
 	#The name of the modpack
-	modpackName = "Better MC [NEOFORGE] 1.21.1"
+	modpackName = "The Mine Odyssey"
 	#The version of the modpack
-	modpackVersion = "v53"
+	modpackVersion = "1.1.2"
 	#Use the metadata.json to determine the modpack version
 	#ONLY ENABLE THIS IF YOU KNOW WHAT YOU ARE DOING
 	useMetadata = false

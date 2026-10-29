@@ -18,6 +18,7 @@ import argparse
 import hashlib
 import json
 import os
+import re
 import shutil
 import struct
 import sys
@@ -26,7 +27,7 @@ import urllib.request
 
 CONFIG = {
     'instancia': r'C:\Users\Nilvan Emanuel\curseforge\minecraft\Instances\Mirai Mine Server v26.2',
-    'nome': 'Mirai Mine',
+    'nome': 'The Mine Odyssey',
     'minecraft': '1.21.1',
     'neoforge': '21.1.265',
     # Pastas copiadas da instância (caminhos relativos à instância).
@@ -39,8 +40,23 @@ CONFIG = {
     # Ignorados ao copiar.
     'ignorar_sufixos': ['.bak', '.log', '.tmp'],
     # Servidor que já aparece na lista de Multijogador de quem instala o pack.
-    'servidor': {'nome': 'Mirai Mine', 'endereco': '100.96.77.4'},
+    'servidor': {'nome': 'The Mine Odyssey', 'endereco': '100.96.77.4'},
+    # Configs que SEMPRE acompanham o pack (as demais só valem na primeira instalação).
+    # O BCC compara nome/versão do pack do jogador com os do servidor: precisa estar sempre igual.
+    'sempre_atualizar': ['config/bcc-common.toml'],
 }
+
+
+def ajustar_bcc(versao):
+    """Grava nome e versão do pack na config do Better Compatibility Checker da instância."""
+    caminho = os.path.join(CONFIG['instancia'], 'config', 'bcc-common.toml')
+    if not os.path.exists(caminho):
+        return
+    texto = open(caminho, encoding='utf-8').read()
+    texto = re.sub(r'(?m)^(\s*modpackName\s*=\s*).*$', lambda m: f'{m.group(1)}"{CONFIG["nome"]}"', texto)
+    texto = re.sub(r'(?m)^(\s*modpackVersion\s*=\s*).*$', lambda m: f'{m.group(1)}"{versao}"', texto)
+    texto = re.sub(r'(?m)^(\s*modpackProjectID\s*=\s*).*$', lambda m: f'{m.group(1)}0', texto)
+    open(caminho, 'w', encoding='utf-8', newline='\n').write(texto)
 
 AQUI = os.path.dirname(os.path.abspath(__file__))
 MANIFESTO = os.path.join(AQUI, 'mirai-pack.json')
@@ -130,6 +146,7 @@ def main():
     if os.path.exists(MANIFESTO):
         atual = json.load(open(MANIFESTO, encoding='utf-8')).get('version')
     versao = args.versao or (proxima_versao(atual) if atual else '1.0.0')
+    ajustar_bcc(versao)
 
     ajustes = {'remover': [], 'adicionar': []}
     caminho_ajustes = os.path.join(AQUI, 'ajustes.json')
@@ -162,7 +179,7 @@ def main():
                 link = cf.get(nome)
                 if link and (link[1] is None or link[1] == e['size']):
                     e['url'] = link[0]
-                if rel.startswith('config/') or rel.startswith('defaultconfigs/'):
+                if (rel.startswith('config/') or rel.startswith('defaultconfigs/')) and rel not in CONFIG['sempre_atualizar']:
                     e['overwrite'] = False
                 entradas[rel] = e
 
@@ -240,6 +257,7 @@ def main():
     com_link = sum(1 for a in arquivos if 'url' in a)
     tamanho_repo = sum(entradas[r]['size'] for r in no_repo)
     print(f'Pack {CONFIG["nome"]} {versao} (Minecraft {CONFIG["minecraft"]}, NeoForge {CONFIG["neoforge"]})')
+    print(f'  LEMBRETE: no servidor, config/bcc-common.toml precisa de modpackVersion = "{versao}" (senão a lista de servidores acusa versão diferente).')
     print(f'  {len(arquivos)} arquivos: {com_link} baixados de links oficiais, {len(no_repo)} no repositório ({tamanho_repo / 1048576:.1f} MB)')
     manuais = sorted(r for r in no_repo if r.startswith('mods/'))
     if manuais:

@@ -1,7 +1,7 @@
 {
   "formatVersion": 1,
-  "name": "Mirai Mine",
-  "version": "1.1.1",
+  "name": "The Mine Odyssey",
+  "version": "1.1.2",
   "minecraft": "1.21.1",
   "neoforge": "21.1.265",
   "files": [
@@ -175,9 +175,8 @@
     },
     {
       "path": "config/bcc-common.toml",
-      "sha1": "602a9563bd47ac52435721a475463d6eaff42f42",
-      "size": 410,
-      "overwrite": false
+      "sha1": "652d09eea5a5141910ac2acfa389ec7cfd0aca33",
+      "size": 383
     },
     {
       "path": "config/bridgingmod.json",
@@ -4148,8 +4147,8 @@
     },
     {
       "path": "servers.dat",
-      "sha1": "cc85af1a5b5643e0525c41a0b318fb17015d42c6",
-      "size": 75,
+      "sha1": "7d25f1cc5799899545551a5a6c276a21f82d2664",
+      "size": 81,
       "overwrite": false
     },
     {
