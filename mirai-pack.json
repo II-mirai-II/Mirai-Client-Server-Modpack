@@ -1,7 +1,7 @@
 {
   "formatVersion": 1,
   "name": "Mirai Mine",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "minecraft": "1.21.1",
   "neoforge": "21.1.265",
   "files": [
@@ -7340,8 +7340,8 @@
     },
     {
       "path": "servers.dat",
-      "sha1": "0a8747e55c041b66d1afbed67c66cf5958290481",
-      "size": 83,
+      "sha1": "cc85af1a5b5643e0525c41a0b318fb17015d42c6",
+      "size": 75,
       "overwrite": false
     },
     {

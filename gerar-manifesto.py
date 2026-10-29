@@ -39,7 +39,7 @@ CONFIG = {
     # Ignorados ao copiar.
     'ignorar_sufixos': ['.bak', '.log', '.tmp'],
     # Servidor que já aparece na lista de Multijogador de quem instala o pack.
-    'servidor': {'nome': 'Mirai Mine', 'endereco': '138.121.128.32:1026'},
+    'servidor': {'nome': 'Mirai Mine', 'endereco': '100.96.77.4'},
 }
 
 AQUI = os.path.dirname(os.path.abspath(__file__))
