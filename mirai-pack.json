@@ -1,7 +1,7 @@
 {
   "formatVersion": 1,
   "name": "The Mine Odyssey",
-  "version": "1.1.4",
+  "version": "1.1.5",
   "minecraft": "1.21.1",
   "neoforge": "21.1.265",
   "files": [
@@ -175,7 +175,7 @@
     },
     {
       "path": "config/bcc-common.toml",
-      "sha1": "74ce2a56168aa198c1419dbfd0622600d8ec322e",
+      "sha1": "f9e30cdd6f6626b9d481f3e682eee169a759415a",
       "size": 383
     },
     {
@@ -1951,12 +1951,6 @@
       "overwrite": false
     },
     {
-      "path": "config/serilum/fixedanvilrepaircost.json",
-      "sha1": "e519ab25454990d1303457b41360fe889ebe31df",
-      "size": 866,
-      "overwrite": false
-    },
-    {
       "path": "config/serilum/stackrefill.json",
       "sha1": "8bbd4d7a9c22ffb3794ca3d2c6427faa98dbaf3f",
       "size": 1699,
@@ -3023,12 +3017,6 @@
       "url": "https://edge.forgecdn.net/files/6464/161/findme-3.3.3-neoforge.jar"
     },
     {
-      "path": "mods/fixedanvilrepaircost-1.21.1-3.6.jar",
-      "sha1": "41d896c5252989c5353d6e5d1a485c9a694eb0c3",
-      "size": 42235,
-      "url": "https://edge.forgecdn.net/files/9034/186/fixedanvilrepaircost-1.21.1-3.6.jar"
-    },
-    {
       "path": "mods/forgified-fabric-api-0.116.15+2.3.6+1.21.1.jar",
       "sha1": "a6f0e7b7c277fab7174bca4943fba7bdf3f74ed7",
       "size": 5613208,
@@ -3615,12 +3603,6 @@
       "sha1": "77c1796d445683b237b7391fe277388cd2ea0ee7",
       "size": 43983,
       "url": "https://edge.forgecdn.net/files/8463/998/recipeessentials-1.21.1-4.7.jar"
-    },
-    {
-      "path": "mods/redirected-neoforge-1.0.0-1.21.1.jar",
-      "sha1": "2704eeefedf52edc30d68c84e2ee0ccf4eea6da0",
-      "size": 217587,
-      "url": "https://edge.forgecdn.net/files/6148/845/redirected-neoforge-1.0.0-1.21.1.jar"
     },
     {
       "path": "mods/repurposed_structures-7.5.22+1.21.1-neoforge.jar",
