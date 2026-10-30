@@ -1,7 +1,7 @@
 {
   "formatVersion": 1,
   "name": "The Mine Odyssey",
-  "version": "1.1.3",
+  "version": "1.1.4",
   "minecraft": "1.21.1",
   "neoforge": "21.1.265",
   "files": [
@@ -175,7 +175,7 @@
     },
     {
       "path": "config/bcc-common.toml",
-      "sha1": "c15645bb6e2c9e3eb40ca0ef2037165e5edd7008",
+      "sha1": "74ce2a56168aa198c1419dbfd0622600d8ec322e",
       "size": 383
     },
     {
@@ -2649,12 +2649,6 @@
       "sha1": "ab0c74743a653020fe2dfc4986b43e893947f3e9",
       "size": 340572,
       "url": "https://edge.forgecdn.net/files/6383/261/Chunky-NeoForge-1.4.23.jar"
-    },
-    {
-      "path": "mods/ClassicCombat-NeoForge-1.21.1.jar",
-      "sha1": "e4bb6bde7461650b079cb474abc82cebcc088847",
-      "size": 71587,
-      "url": "https://edge.forgecdn.net/files/5680/935/ClassicCombat-NeoForge-1.21.1.jar"
     },
     {
       "path": "mods/cleanswing-1.10-1.21.jar",

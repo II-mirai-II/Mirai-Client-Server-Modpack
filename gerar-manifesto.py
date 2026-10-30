@@ -26,7 +26,7 @@ import urllib.parse
 import urllib.request
 
 CONFIG = {
-    'instancia': r'C:\Users\Nilvan Emanuel\curseforge\minecraft\Instances\Mirai Mine Server v26.2',
+    'instancia': r'C:\Users\Nilvan Emanuel\curseforge\minecraft\Instances\Client Side',
     'nome': 'The Mine Odyssey',
     'minecraft': '1.21.1',
     'neoforge': '21.1.265',
