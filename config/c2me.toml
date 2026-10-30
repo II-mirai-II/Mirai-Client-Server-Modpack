@@ -18,10 +18,10 @@ version = 3
 # 
 defaultGlobalExecutorParallelismExpression = "default"
 # ================================================================
-# (Default: 5) Configures the parallelism of global executor
+# (Default: 6) Configures the parallelism of global executor
 globalExecutorParallelism = "default"
 # ================================================================
-# (Default: LOW) Sets the thread priority preset for worker threads
+# (Default: BELOW_NORMAL) Sets the thread priority preset for worker threads
 # 
 # Available presets:
 # - UNSET: do not touch any thread priority settings, restores legacy behavior
@@ -207,7 +207,7 @@ threadPoolPriorityPreset = "default"
 	# 
 	filterFluidPostProcessing = "default"
 	# ================================================================
-	# (Default: false) Whether to use legacy scheduling for neighbor chunks
+	# (Default: true) Whether to use legacy scheduling for neighbor chunks
 	# 
 	# Enabling this restores the behavior of always loading in neighbor chunks when a chunk is loaded.
 	# 
@@ -232,7 +232,7 @@ threadPoolPriorityPreset = "default"
 
 [noTickViewDistance]
 	# ================================================================
-	# (Default: 15) No-tick view distance max concurrent chunk loads 
+	# (Default: 18) No-tick view distance max concurrent chunk loads 
 	#  Lower this for a better latency and higher this for a faster loading
 	maxConcurrentChunkLoads = "default"
 	# ================================================================
@@ -257,7 +257,7 @@ threadPoolPriorityPreset = "default"
 		# (Default: true) Whether to modify maximum view distance
 		enabled = "default"
 		# ================================================================
-		# (Default: 43) Max render distance allowed in game options
+		# (Default: 75) Max render distance allowed in game options
 		maxViewDistance = "default"
 		# ================================================================
 		# (Default: true) Enable client-side support for extended render distance protocol (c2me:ext_render_distance_v1)

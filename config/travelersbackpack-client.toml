@@ -31,6 +31,10 @@
 		# Default: 0
 		# Range: > -2147483648
 		offsetY = 0
+		#The tool belt GUI will always display all the slots, even when empty
+		displayEmptySlots = false
+		#Allows to scroll through hotbar slots while the tool belt GUI is open
+		allowHotbarScrolling = false
 
 	#The position of the Overlay on the screen
 	[client.overlay]

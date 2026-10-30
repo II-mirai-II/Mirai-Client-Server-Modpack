@@ -5,7 +5,7 @@
 		# If markers above villagers should always show. If false, they will only show when the configured keybind is held.
 		always_show = true
 		# If markers should be visible through walls and other obstructions.
-		show_through_walls = true
+		show_through_walls = false
 		# If markers should include an arrow under the profession-specific icon.
 		show_arrow = true
 		# If icons should show on minimaps. (Currently supports Xaero's Minimap, FTB Chunks, and JourneyMap).
@@ -21,7 +21,7 @@
 		# The maximum distance, in blocks, at which markers are visible.
 		# Default: 64.0
 		# Range: 16.0 ~ 256.0
-		max_distance = 64.0
+		max_distance = 32.0
 		# The percent of the maximum distance at which markers will begin to fade out.
 		# Default: 25.0
 		# Range: 0.0 ~ 100.0

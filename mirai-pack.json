@@ -1,7 +1,7 @@
 {
   "formatVersion": 1,
   "name": "The Mine Odyssey",
-  "version": "1.1.2",
+  "version": "1.1.3",
   "minecraft": "1.21.1",
   "neoforge": "21.1.265",
   "files": [
@@ -139,8 +139,8 @@
     },
     {
       "path": "config/badmobs-common.toml",
-      "sha1": "c078954452e4792cfba553727c17b4ad67b70e68",
-      "size": 309866,
+      "sha1": "1a6ff5a2dacbb9b332d00d917c1c02a33542258d",
+      "size": 297515,
       "overwrite": false
     },
     {
@@ -175,7 +175,7 @@
     },
     {
       "path": "config/bcc-common.toml",
-      "sha1": "652d09eea5a5141910ac2acfa389ec7cfd0aca33",
+      "sha1": "c15645bb6e2c9e3eb40ca0ef2037165e5edd7008",
       "size": 383
     },
     {
@@ -192,8 +192,8 @@
     },
     {
       "path": "config/c2me.toml",
-      "sha1": "1601cc3dcd97fd9c3987919f34b5b88116c0ec6a",
-      "size": 12697,
+      "sha1": "65b75fe6b267823f770cd3cb6a0cbcb3fa9c9bde",
+      "size": 12437,
       "overwrite": false
     },
     {
@@ -204,8 +204,8 @@
     },
     {
       "path": "config/carryon-common.toml",
-      "sha1": "ff2c484bdf66fdd2e3aee82c0edff748e6ac029a",
-      "size": 6350,
+      "sha1": "58cbf8722097c16454482815474dcdec6acf206d",
+      "size": 6261,
       "overwrite": false
     },
     {
@@ -654,8 +654,8 @@
     },
     {
       "path": "config/enhancedai/common.toml",
-      "sha1": "d1139ab084cd9a73650fa3ced3440f16d1b5f27e",
-      "size": 66549,
+      "sha1": "fd2112ab26a6d94f20d6f7a4c4e9f21b3c954ea1",
+      "size": 182,
       "overwrite": false
     },
     {
@@ -672,14 +672,14 @@
     },
     {
       "path": "config/enhancedai/Mobs/Shielding/shield_block_chance.json",
-      "sha1": "4ab234ff22c8d49621baa5adedcf993c7ab1fab6",
-      "size": 75,
+      "sha1": "4cd3eb86a5bba70bcb6c5fa6eb16f658f288963a",
+      "size": 70,
       "overwrite": false
     },
     {
       "path": "config/entityculling.json",
-      "sha1": "87b1709e95831914b42d826f056ae266a161d466",
-      "size": 2042,
+      "sha1": "2edd701f4d513da61b0af1a38cb55f82b528f134",
+      "size": 1978,
       "overwrite": false
     },
     {
@@ -762,8 +762,8 @@
     },
     {
       "path": "config/ferritecore-mixin.toml",
-      "sha1": "485f1c13c573a538fc8f7cb91ce2212440938b23",
-      "size": 1603,
+      "sha1": "6ea50ef2c5d4784ec8786df53e3fae3a21944a73",
+      "size": 1579,
       "overwrite": false
     },
     {
@@ -780,8 +780,8 @@
     },
     {
       "path": "config/fml.toml",
-      "sha1": "e1a94ae50a372486b50165a3c0389566581e9928",
-      "size": 1538,
+      "sha1": "878598aa20564f64d60e835a5bee4fbb08e365be",
+      "size": 1506,
       "overwrite": false
     },
     {
@@ -810,8 +810,8 @@
     },
     {
       "path": "config/glow_up.json",
-      "sha1": "334ef27d6244d57a6415b9223b7c3e07422cfdff",
-      "size": 570,
+      "sha1": "b4ff5ecc6fe8418b483defd3102296055e1449ca",
+      "size": 593,
       "overwrite": false
     },
     {
@@ -1020,8 +1020,8 @@
     },
     {
       "path": "config/immersive_optimization.json",
-      "sha1": "f143231f528693f5da31a9317a055d59eb5b51f7",
-      "size": 1087,
+      "sha1": "e1e20326a35be5c4d6b66fdbf50914f0be124bc5",
+      "size": 967,
       "overwrite": false
     },
     {
@@ -1038,8 +1038,8 @@
     },
     {
       "path": "config/insanelib/common.toml",
-      "sha1": "68f6912c813ee1acf1a5b4bf7bc318b8db941485",
-      "size": 4800,
+      "sha1": "9902039092fb4d42ab7b6f27e17a2353e695e61c",
+      "size": 5226,
       "overwrite": false
     },
     {
@@ -1080,8 +1080,8 @@
     },
     {
       "path": "config/itemcollectors-common.toml",
-      "sha1": "d8d181ff7045f96dec22edce05f97ba0a4baab96",
-      "size": 595,
+      "sha1": "26774a3190d3323fe8cbb9e828a4fb5433f629a5",
+      "size": 578,
       "overwrite": false
     },
     {
@@ -1128,8 +1128,8 @@
     },
     {
       "path": "config/jade/sort-order.json",
-      "sha1": "8ccbeec34a084de902f3bb2308085d4417ad9be4",
-      "size": 2929,
+      "sha1": "bebead9af94b4dc7e90d473cfade7227b23529c8",
+      "size": 2846,
       "overwrite": false
     },
     {
@@ -1146,14 +1146,14 @@
     },
     {
       "path": "config/jei/blacklist.json",
-      "sha1": "f621f2b7ef5a53a8fa855fb962d126e81826c94e",
-      "size": 211,
+      "sha1": "ca8c3e66eecbc17d47fd65c7d6e92efcdf841012",
+      "size": 198,
       "overwrite": false
     },
     {
       "path": "config/jei/ingredient-list-mod-sort-order.ini",
-      "sha1": "40b5bd8ce5a2184df245d5ea87ffcaf3dc780ce7",
-      "size": 1088,
+      "sha1": "e12eec34fca2c79537af8fa42cb7a1b883273fce",
+      "size": 1076,
       "overwrite": false
     },
     {
@@ -1200,8 +1200,8 @@
     },
     {
       "path": "config/justzoom/config.json",
-      "sha1": "6b7a476829856a0a7a0ef6573cd8cb09c0e7b0fd",
-      "size": 667,
+      "sha1": "90018949416878b58f38d5903acb97f3ab8422b5",
+      "size": 720,
       "overwrite": false
     },
     {
@@ -1253,12 +1253,6 @@
       "overwrite": false
     },
     {
-      "path": "config/lambdynlights.toml",
-      "sha1": "f1802304ca2baab1cf4018c25267c203846fe7c2",
-      "size": 1448,
-      "overwrite": false
-    },
-    {
       "path": "config/lithium.properties",
       "sha1": "9a45ac540671c624af14e18e41adade82594ea26",
       "size": 356,
@@ -1266,8 +1260,8 @@
     },
     {
       "path": "config/lithostitched.json",
-      "sha1": "25a9fbeb8f4983e718327cb08392e755e2730f95",
-      "size": 242,
+      "sha1": "9ae03c2dafdba47d9518aae1865d20e5abadbe03",
+      "size": 273,
       "overwrite": false
     },
     {
@@ -1415,16 +1409,9 @@
       "overwrite": false
     },
     {
-      "path": "config/mc2_interactivefoliage.json",
-      "sha1": "d151662551c111266c9a1dfff04375f092f256e9",
-      "size": 236,
-      "overwrite": false
-    },
-    {
       "path": "config/merchantmarkers.toml",
-      "sha1": "ea6ecbfb67ad778031a25dd34488bba01de2b8ee",
-      "size": 3266,
-      "overwrite": false
+      "sha1": "cfb041b6835769abb28487c873076adb0b94804c",
+      "size": 3197
     },
     {
       "path": "config/mes/structure_placement_config.json5",
@@ -1458,8 +1445,8 @@
     },
     {
       "path": "config/modernfix-common.toml",
-      "sha1": "00faa9694b0e2656156630f031004fb2419888ea",
-      "size": 88,
+      "sha1": "68a2da310bf91ae2ab97f5628ea2a2c001a360c8",
+      "size": 86,
       "overwrite": false
     },
     {
@@ -1680,8 +1667,8 @@
     },
     {
       "path": "config/neoforge-common.toml",
-      "sha1": "6b10e4debbf06a33453f4e0ffb80281ff0752f9f",
-      "size": 772,
+      "sha1": "5a9caac83eb118eaf22abc37389f7b743e475fe1",
+      "size": 1034,
       "overwrite": false
     },
     {
@@ -1760,18 +1747,6 @@
       "path": "config/particle_core_disabled_optimizations_v2.json",
       "sha1": "b4bf74388de7da02460fe124655439bfbcf2c29a",
       "size": 1558,
-      "overwrite": false
-    },
-    {
-      "path": "config/particlerain/config.json",
-      "sha1": "1676c71f3041cc4e42cbf5e2b53ea39be4fe5929",
-      "size": 984,
-      "overwrite": false
-    },
-    {
-      "path": "config/particular-common.toml",
-      "sha1": "40f985dce049ce0fbb725a7d0990851463ff2f8b",
-      "size": 5794,
       "overwrite": false
     },
     {
@@ -1947,8 +1922,8 @@
     },
     {
       "path": "config/rightclickharvest.json5",
-      "sha1": "479da6ea7761c8ab973fa4952f7db540ef045979",
-      "size": 612,
+      "sha1": "77bd14f93eb559d1345c837e0d74e7f6b094bfed",
+      "size": 593,
       "overwrite": false
     },
     {
@@ -2073,8 +2048,8 @@
     },
     {
       "path": "config/sound_physics_remastered/sound_rates.properties",
-      "sha1": "7212e76fb49f40de89377f0f973d5e78a46a9749",
-      "size": 164588,
+      "sha1": "ad8c986b5e629ca7b7227a00470da9849df47a2c",
+      "size": 157815,
       "overwrite": false
     },
     {
@@ -2102,42 +2077,6 @@
       "overwrite": false
     },
     {
-      "path": "config/subtle_effects/blocks.toml",
-      "sha1": "13c048ce9ebabeaa7000bd2e1168f53e30654025",
-      "size": 4385,
-      "overwrite": false
-    },
-    {
-      "path": "config/subtle_effects/entities.toml",
-      "sha1": "94676867cba04978794689cc2afce05f84986079",
-      "size": 4344,
-      "overwrite": false
-    },
-    {
-      "path": "config/subtle_effects/environment.toml",
-      "sha1": "4a9354c5e7aa6f4423ec200bf4b69dc5eef8be6f",
-      "size": 2504,
-      "overwrite": false
-    },
-    {
-      "path": "config/subtle_effects/general.toml",
-      "sha1": "e4b03f8ccffd918151aabfa2a470e9a78a964ce2",
-      "size": 1499,
-      "overwrite": false
-    },
-    {
-      "path": "config/subtle_effects/items.toml",
-      "sha1": "91b71208f6cbcbca28587958afa23abb667bb170",
-      "size": 1122,
-      "overwrite": false
-    },
-    {
-      "path": "config/sway.json",
-      "sha1": "d93cb1ca02be738db762a53ef60bf06d4760bb62",
-      "size": 90,
-      "overwrite": false
-    },
-    {
       "path": "config/takesapillage.json",
       "sha1": "a74ecd1583c1a7f8d5a2963e8cb9ca791e650fec",
       "size": 272,
@@ -2157,8 +2096,8 @@
     },
     {
       "path": "config/terrablender.toml",
-      "sha1": "194a663d21fe1df84f7230013c470329088fa710",
-      "size": 988,
+      "sha1": "784d8916886126533140aacc68efd71d01923cb1",
+      "size": 961,
       "overwrite": false
     },
     {
@@ -2205,8 +2144,8 @@
     },
     {
       "path": "config/travelersbackpack-client.toml",
-      "sha1": "44fd4f8c96b9caf6e433c0a755ab59beecdcf17a",
-      "size": 1612,
+      "sha1": "0f64a0a063b4bb21dec63e997e986b5e9effff57",
+      "size": 1820,
       "overwrite": false
     },
     {
@@ -2217,8 +2156,8 @@
     },
     {
       "path": "config/travelersbackpack-server.toml",
-      "sha1": "6de37df5aa5a402d09a213c098b3bc6c4b54dfb6",
-      "size": 11662,
+      "sha1": "7414b65fa9431f2860e3c6f31f781f285b2652c6",
+      "size": 11752,
       "overwrite": false
     },
     {
@@ -2295,14 +2234,13 @@
     },
     {
       "path": "config/vanillabackport-client.toml",
-      "sha1": "0782160a554e558d207362dfcf5d8ebad54685c7",
-      "size": 344,
-      "overwrite": false
+      "sha1": "e21e50a7eca6f5307e1a60f9ed28727b54f977e0",
+      "size": 1831
     },
     {
       "path": "config/vanillabackport-common.toml",
-      "sha1": "1e4831b31c3946fd15cc2d7d26e404eb00d731a6",
-      "size": 3260,
+      "sha1": "bf72fe04d03a898eadc2ca4c52317dd276c365ed",
+      "size": 5237,
       "overwrite": false
     },
     {
@@ -2379,8 +2317,8 @@
     },
     {
       "path": "config/watut-item-arm-adjustments.json",
-      "sha1": "0fe1908d13d1892c572418c06f308a3f71167f61",
-      "size": 2853,
+      "sha1": "defd13d9f2bd981e0fa3cf68a1bd684cf7cf5889",
+      "size": 2780,
       "overwrite": false
     },
     {
@@ -2475,8 +2413,8 @@
     },
     {
       "path": "config/xaero/minimap/profiles/default.cfg",
-      "sha1": "0983cdb7c7d4f2631ea030c047bb908314905703",
-      "size": 3822,
+      "sha1": "9b97fc7b9357e37844426db0c7e090b8ba813a0e",
+      "size": 3918,
       "overwrite": false
     },
     {
@@ -2505,9 +2443,8 @@
     },
     {
       "path": "config/xaero/world-map/profiles/default.cfg",
-      "sha1": "2f1680b1a14bf8cc756c5911c9b9f90e119a365e",
-      "size": 1619,
-      "overwrite": false
+      "sha1": "b87b8f03fd784ba5c473b79288d9dc419f48b56a",
+      "size": 1618
     },
     {
       "path": "config/xaero/world-map/server_profiles/default.cfg",
@@ -2541,8 +2478,8 @@
     },
     {
       "path": "config/zfastnoise.mixin.properties",
-      "sha1": "80fdd5a61cdff2b4cd63c4233b91867afd70b035",
-      "size": 80,
+      "sha1": "3dc00d4f7043baffccd8ea90e43e177735413d8e",
+      "size": 76,
       "overwrite": false
     },
     {
@@ -3344,12 +3281,6 @@
       "url": "https://edge.forgecdn.net/files/8931/182/L_Ender%27s%20Cataclysm%201.21.1-3.33.jar"
     },
     {
-      "path": "mods/lambdynamiclights-4.8.11+1.21.1.jar",
-      "sha1": "7b5afc75a094b4e8a7118f9856eec959b10f2422",
-      "size": 2023375,
-      "url": "https://edge.forgecdn.net/files/8780/227/lambdynamiclights-4.8.11%2b1.21.1.jar"
-    },
-    {
       "path": "mods/lionfishapi-3.1.jar",
       "sha1": "353ca00ed118eb67cf11085abbbd699884722326",
       "size": 91596,
@@ -3432,12 +3363,6 @@
       "sha1": "86fb3cb87cd7ba68ec1502ceda712f60a1e11886",
       "size": 5039,
       "url": "https://edge.forgecdn.net/files/8922/30/lootintegrations_lootintegrations_bygonepillage-1.4.jar"
-    },
-    {
-      "path": "mods/mc2_interactivefoliage-2.2.1-neoforge+1.21.1.jar",
-      "sha1": "1e70903ffe380bf864a9811a5e4d4acd76994759",
-      "size": 381069,
-      "url": "https://edge.forgecdn.net/files/9260/830/mc2_interactivefoliage-2.2.1-neoforge%2b1.21.1.jar"
     },
     {
       "path": "mods/MerchantMarkers-1.21.1-neoforge-1.3.6.jar",
@@ -3618,18 +3543,6 @@
       "sha1": "f859d68818e522fb00056d3ed1603ca4300eb681",
       "size": 138375,
       "url": "https://edge.forgecdn.net/files/7581/40/particle_core-0.3.3%2b1.21%2bneoforge.jar"
-    },
-    {
-      "path": "mods/particlerain-4.0.2+1.21.1-neoforge.jar",
-      "sha1": "444c6f221e57cca8e433702b18c4643faa82545a",
-      "size": 623257,
-      "url": "https://edge.forgecdn.net/files/9113/934/particlerain-4.0.2%2b1.21.1-neoforge.jar"
-    },
-    {
-      "path": "mods/particular-1.21.1-NeoForge-1.5.7.jar",
-      "sha1": "d6d33e8233481ad8fc6f8c351f52783ed431a800",
-      "size": 315841,
-      "url": "https://edge.forgecdn.net/files/8662/697/particular-1.21.1-NeoForge-1.5.7.jar"
     },
     {
       "path": "mods/Paxi-1.21.1-NeoForge-5.1.3.jar",
@@ -3865,12 +3778,6 @@
       "url": "https://edge.forgecdn.net/files/9278/578/structureessentials-1.21.1-5.1.jar"
     },
     {
-      "path": "mods/SubtleEffects-neoforge-1.21.1-1.15.1.jar",
-      "sha1": "e8ab4df7ac4bf3d88fa389a1cf97ad2449c3206d",
-      "size": 3445062,
-      "url": "https://edge.forgecdn.net/files/9150/589/SubtleEffects-neoforge-1.21.1-1.15.1.jar"
-    },
-    {
       "path": "mods/supermartijn642configlib-1.1.8-neoforge-mc1.21.jar",
       "sha1": "07452242e389975e8a88b97066f4bae6a4ebe574",
       "size": 207514,
@@ -3881,12 +3788,6 @@
       "sha1": "87cad4854002b2028c1b5e3e4ab150cf9f5fb722",
       "size": 591925,
       "url": "https://edge.forgecdn.net/files/9352/716/supermartijn642corelib-1.1.26-neoforge-mc1.21.jar"
-    },
-    {
-      "path": "mods/sway-2.4.5-neoforge+1.21.1.jar",
-      "sha1": "6c1664020f8f0e0bd3771fbebdc4707993527a18",
-      "size": 74388,
-      "url": "https://edge.forgecdn.net/files/8937/207/sway-2.4.5-neoforge%2b1.21.1.jar"
     },
     {
       "path": "mods/t_and_t-fabric-neoforge-1.13.11.jar",

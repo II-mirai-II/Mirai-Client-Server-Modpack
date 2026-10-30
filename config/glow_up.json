@@ -8,6 +8,7 @@
     "minecraft:chests/underwater_ruin_big",
     "minecraft:chests/underwater_ruin_small"
   ],
+  "glowStrength": 0.5,
   "enableGlowingBanners": true,
   "enableGlowingDecoratedPots": true,
   "enableGlowPaste": true,

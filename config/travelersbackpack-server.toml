@@ -12,7 +12,7 @@
 		allowOpeningFromSlot = false
 		#Prevents more than one player from accessing the backpack at the same time when it's placed on the ground
 		preventMultiplePlayersAccess = false
-		#Backpack immune to any damage source (lava, fire), can't be destroyed, never disappears as floating item
+		#Makes the backpack resistant to all types of damage (e.g., cactus damage). This also includes fire and explosions, but does not grant void protection
 		invulnerableBackpack = true
 		#Allows swapping tools between tool slots and the player’s inventory via a quick-swap menu
 		allowToolSwapping = true
@@ -35,6 +35,12 @@
 		enableSleepingBagSpawnPoint = false
 		#Backpacks can only be equipped in the Curios/Accessories 'Back' slot, provided those mods are installed. If set to false, backpacks can only be equipped by clicking the button in the Backpack GUI. This setting can be changed without unequipping the backpack. An already equipped backpack will not disappear and can be retrieved from the player's inventory.
 		backSlotIntegration = true
+		#Prevents the backpack from despawning when dropped on the ground
+		neverDespawn = true
+		#Makes the backpack fire-resistant (won't burn in fire or lava)
+		fireResistant = true
+		#Makes the backpack explosion-resistant (won't be destroyed by explosions)
+		explosionResistant = true
 
 		#Leather Tier Backpack Settings
 		[server.backpackSettings.leatherTierBackpack]

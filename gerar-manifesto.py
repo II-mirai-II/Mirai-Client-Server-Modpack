@@ -43,7 +43,13 @@ CONFIG = {
     'servidor': {'nome': 'The Mine Odyssey', 'endereco': '100.96.77.4'},
     # Configs que SEMPRE acompanham o pack (as demais só valem na primeira instalação).
     # O BCC compara nome/versão do pack do jogador com os do servidor: precisa estar sempre igual.
-    'sempre_atualizar': ['config/bcc-common.toml'],
+    # As outras três são ajustes de desempenho (1.1.3) que precisam chegar a quem já tinha o pack.
+    'sempre_atualizar': [
+        'config/bcc-common.toml',
+        'config/xaero/world-map/profiles/default.cfg',
+        'config/merchantmarkers.toml',
+        'config/vanillabackport-client.toml',
+    ],
 }
 
 
